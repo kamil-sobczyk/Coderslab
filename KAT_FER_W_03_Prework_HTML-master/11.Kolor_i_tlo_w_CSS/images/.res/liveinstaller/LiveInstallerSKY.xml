@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Slovensky" lcid="041b">
+	<string name="IDS_ELI_LIVE_INSTALLER">Live Installer</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Vitajte|Licenčná dohoda|AV Remover|Inštalácia|Dokončiť</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security Premium</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Inicializuje sa...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Tento počítač bude spravovaný pomocou ESET Remote Administratora</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">V tomto inštalátore sú zahrnuté nasledujúce súčasti</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Licencia:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Server:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Skupina:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Konfigurácia:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Pripravuje sa inštalačný balík...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Vypočítava sa dostupné miesto...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">Aktualizácia ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Nainštalujte si túto bezplatnú aktualizáciu a ostaňte chránení</string>
+  <string name="IDS_ELI_UPDATE_TEXT">${bts.package.[0].name} je potrebné aktualizovať, aby bol kompatibilný s Windows 10. Predchádzajúcu nainštalovanú verziu nie je možné migrovať na Windows 10. Pre zachovanie ochrany bude najnovšia verzia automaticky stiahnutá a nainštalovaná.&lt;BR&gt;&lt;BR&gt;Aktualizácia je bezplatná a vaša licencia aj nastavenia budú zachované.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Pripomenúť neskôr</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">Inštalácia ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Rýchly a výkonný antivírus</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">Užívajte si bezpečné prehľadávanie webu, hranie sa a pripojenie s rýchlou a výkonnou ochranou ${bts.package.[0].name}. Toto riešenie eliminuje široké spektrum internetových hrozieb.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">Inštalácia ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Univerzálne zabezpečenie internetu</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">${bts.package.[0].name} vás chráni pri práci, hraní sa a komunikácii. Toto riešenie spája ochranu pred malvérom, antispam, firewall a rodičovskú kontrolu.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">Inštalácia ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Univerzálne zabezpečenie internetu</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">${bts.package.[0].name} vás chráni pri práci, hraní sa a komunikácii. Toto riešenie spája ochranu pred malvérom, antispam, firewall a rodičovskú kontrolu.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">Inštalácia ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Univerzálne zabezpečenie internetu</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">${bts.package.[0].name} vás chráni pri práci, hraní sa a komunikácii. Toto riešenie spája ochranu pred malvérom, antispam, firewall a rodičovskú kontrolu.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">Inštalácia ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">ESET vás chráni pri práci, hraní sa a komunikácii.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">Inštalácia ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Základná ochrana na špičkovej úrovni pre vašu firmu</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name}, obsahujúci oceňovanú technológiu detekcie ESET NOD32®, poskytuje pre vašu firmu základnú ochranu na špičkovej úrovni a navyše vám prináša možnosť využívať náš cloudový reputačný systém, ktorý vás proaktívne chráni pred hrozbami. Spravovať všetky funkcie produktu môžete prostredníctvom našej kompletne prepracovanej a jednoducho použiteľnej webovej konzoly ESET Remote Administrator Web Console.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">Inštalácia ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Vaše kompletné bezpečnostné riešenie na pokročilej úrovni</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} je kompletné bezpečnostné riešenie na pokročilej úrovni, ktoré vám poskytuje komplexnú viacvrstvovú ochranu pred najrôznejšími druhmi škodlivého softvéru. Produkt má navyše nízke nároky na systém, podporuje virtualizáciu a spravovať jeho početné funkcie môžete prostredníctvom našej kompletne prepracovanej webovej konzoly ESET Remote Administrator Web Console.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">Želám si odinštalovať nežiadúce antivírusové aplikácie použitím nástroja ESET AV Remover</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">Novšia verzia tohto produktu je k dispozícii online a je možné ju automaticky stiahnuť a nainštalovať namiesto zahrnutej verzie.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Inštalovať novšiu verziu</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} nepodporuje túto neaktuálnu verziu Microsoft Windows. Nainštalovaná bude najnovšia kompatibilná verzia {{IDS_ELI_PRODUCT_NAME_ESS}}.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} plne nepodporuje túto neaktuálnu verziu Microsoft Windows. Môžete pokračovať v inštalácii, avšak môžu nastať nepredvídateľné problémy.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Licenčná dohoda s koncovým používateľom</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Licenčná dohoda s koncovým používateľom - %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Text (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Súhlasím</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">Nesúhlasím</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Sila je v číslach. Získajte maximálnu úroveň ochrany.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">ESET LiveGrid® systém spätnej väzby nám umožňuje zbierať informácie o podozrivých objektoch, ktoré automaticky spracúvame a vytvárame detekčné mechanizmy v našom cloudovom systéme. Tieto následne okamžite uplatňujeme, aby sme zabezpečili našim zákazníkom maximálnu úroveň ochrany.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">Zapnúť ESET LiveGrid® systém spätnej väzby (odporúča sa)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Pomôžte nám poskytovať našim používateľom stále lepšie zabezpečenie.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">Systém spätnej väzby ESET LiveGrid® nám vďaka podpore vyše 100 miliónov používateľov umožňuje zbierať informácie o podozrivých objektoch, ktoré automaticky analyzujeme a na základe získaných výsledkov vytvárame detekčné mechanizmy. Tie sú následne okamžite uplatňované prostredníctvom nášho cloudového reputačného systému, aby sme našim zákazníkom zabezpečili maximálnu úroveň ochrany.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Nastavenia ochrany</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Detekcia potenciálne nechcených aplikácií</string>
+  <string name="IDS_ELI_PUA_QUESTION01">Čo je to potenciálne nechcená aplikácia?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">Prečo sa pýtame?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET môže zachytávať &lt;a {{IDS_HELP_PUA_LINK}}&gt;potenciálne nechcené aplikácie&lt;/a&gt; a spýtať sa na potvrdenie pred ich inštaláciou. Potenciálne nechcené aplikácie nemusia predstavovať bezpečnostné riziko, ale môžu ovplyvňovať výkon počítača, rýchlosť a spoľahlivosť, alebo spôsobiť zmenu jeho správania. Zvyčajne pred inštaláciou vyžadujú súhlas používateľa.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;Napríklad,&lt;/b&gt; môžu zmeniť domovskú stránku vášho webového prehliadača a nastavenia vyhľadávania.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;POZNÁMKA: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET môže zachytávať &lt;a {{IDS_HELP_PUA_LINK}}&gt;potenciálne nechcené aplikácie&lt;/a&gt; a spýtať sa na potvrdenie pred ich inštaláciou. Potenciálne nechcené aplikácie nemusia predstavovať bezpečnostné riziko, ale &lt;b&gt;môžu ovplyvňovať: &lt;/b&gt;&lt;ul&gt;&lt;li&gt;výkon počítača&lt;/li&gt;&lt;li&gt;rýchlosť&lt;/li&gt;&lt;li&gt;spoľahlivosť&lt;/li&gt;&lt;li&gt;správanie&lt;/li&gt;&lt;/ul&gt;Zvyčajne pred inštaláciou vyžadujú súhlas používateľa.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Pred pokračovaním si vyberte z možností:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Vypnúť detekciu potenciálne nechcených aplikácií</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Zapnúť detekciu potenciálne nechcených aplikácií</string>
+  <string name="IDS_ELI_PUA_DISABLE2">Nezachytávať potenciálne nechcené aplikácie</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Detekcia potenciálne nechcených aplikácií</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Zmeniť inštalačný priečinok</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Vyberte inštalačnú zložku</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Produktový priečinok:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Chcem zadať rôzne priečinky pre súbory, ktoré sa často menia</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Modulový priečinok:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Dátový priečinok:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Neplatný výber priečinka.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Prebieha inštalácia</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Kontrolujú sa antivírusové aplikácie</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Boli nájdené iné bezpečnostné produkty</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">V systéme sa nachádza iný bezpečnostný softvér, alebo nebol úplne odstránený. Dve bezpečnostné riešenia súčastne môžu viesť k nestabilite.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Hľadajú sa možné konfliktné aplikácie...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Ako odinštalovať iný antivírusový software</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Špecializovaný čistič</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">Špecializovaný čistič je navrhnutý, aby odstraňoval komplexný malvér z vášho počítača. Táto aplikácia môže spôsobovať problémy so stabilitou a je odporúčaná iba pre skúsených používateľov.&lt;br&gt;Pre viac informácií navštívte &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;Databázu znalostí&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Chcete pokračovať a spustiť čistič?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Sťahuje sa špecializovaný čistič...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;Špecializovaný čistič je spustený.&lt;/b&gt;&lt;br&gt;Prosím čakajte...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">V systéme nebol nájdený žiadny malvér.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Malvér bol zachytený a odstránený zo systému.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Malvér bol zachytený na systéme.&lt;br&gt;Prosím, kontaktujte našu technickú podporu pre inštrukcie o odstránenie.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Malvér bol zachytený na systéme. Pre dokončenie liečenia sa vyžaduje reštart počítača.&lt;br&gt;Upozorňujeme, že môže byť potrebných viacero reštartov.&lt;br&gt;&lt;br&gt;Pokračovať s reštartom?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">Špecializovaný čistič neočakávane vypol.&lt;br&gt;Prosím, kontaktujte technickú podporu pre asistenciu.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">Prebieha sťahovanie</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Sťahuje sa...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">Sťahuje sa %1 ...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Prebieha inštalácia</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Inštaluje sa ...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">Inštaluje sa %1 ...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">Naozaj chcete zrušiť inštaláciu ${bts.package.[${bts.var.package.default}].name}?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Inštalácia bola úspešná</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[${bts.var.package.default}].name} bol úspešne nainštalovaný na váš počítač. Váš počítač bude pravidelne skontrolovaný na prítomnosť vírusov a malvéru. &lt;br&gt; &lt;br&gt; Kliknite na &lt;i&gt;Dokončiť&lt;/i&gt;, pre dokončenie inštalácie produktu a spustenie procesu aktivácie.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[${bts.var.package.default}].name} bol úspešne nainštalovaný na váš počítač. Váš počítač bude pravidelne skontrolovaný na prítomnosť vírusov a malvéru.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Zistite viac o bezpečnosti: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;ESET Databáza znalostí&lt;/a&gt;
+    &lt;br&gt;
+    Sledujte spoločnosť ESET:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Otvorený prieskum</string>
+  <string name="IDS_ELI_MUNI_TITLE">Bezpečnostný prieskum</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET v spolupráci s Masarykovou Univerzitou vykonáva výskum zameraný na správanie sa používateľov z pohľadu bezpečnosti.&lt;br&gt;Pomôžte nám vyplnením krátkeho prieskumu.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Vaše odpovede nám pomôžu zlepšiť celkovú bezpečnosť ESET produktov.&lt;/b&gt;&lt;br&gt;Vyplnením tohto prieskumu súhlasíte, že všetok obsah môže byť analyzovaný výskumnými pracovníkmi Masarykovej Univerzity, avšak vaše dáta budú použité iba pre štatistické účely. Vyzbierané nebudú žiadne identifikujúce údaje.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Inštalácia zlyhala</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">Inštalácia bola prerušená</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">Inštalácia ${bts.package.[${bts.var.package.current}].name} nebola úplne dokončená. Systém nemusí byť chránený pred niektorými typmi hrozieb. Pre nainštalovanie ${bts.package.[${bts.var.package.current}].name} na vašom počítači je potrebné znovu spustiť inštaláciu.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Chyba: &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">Inštalácia bola prerušená používateľom</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">Inštalácia ${bts.package.[${bts.var.package.default}].name} bola prerušená používateľom. Pre nainštalovanie ${bts.package.[${bts.var.package.default}].name} na vašom počítači je potrebné znovu spustiť inštaláciu.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">Inštalácia nebola úplne dokončená</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">Toto môže byť výsledkom aktivity malvéru. Pre skontrolovanie systému na prítomnosť malvéru vám odporúčame spustiť &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;Špecializovaný čistič&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Na disku je nedostatok miesta</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">Na zväzku %1% sa nenachádza dostatok voľného miesta pre stiahnutie a inštaláciu ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Prosím, uistite sa, že máte aspoň %2!d! MB voľného miesta a kliknite na &lt;i&gt;Skúsiť znova&lt;/i&gt;, pre skontrolovanie dostupného miesta a pokračovanie v sťahovaní, alebo kliknite na &lt;i&gt;Zatvoriť&lt;/i&gt; pre ukončenie inštalácie.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Na disku je nedostatok miesta</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">Na zväzku %1% nie je dostatok voľného miesta pre dokončenie inštalácie ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Prosím, uistite sa, že máte na disku voľných aspoň %2!d! MB a kliknite &lt;i&gt;Skúsiť znova&lt;/i&gt;, pre skontrolovanie dostupného miesta na disku a pokračovanie v inštalácii, alebo kliknite na &lt;i&gt;Zatvoriť&lt;/i&gt; pre ukončenie inštalácie.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Chyba pripojenia</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Nebolo možné sa pripojiť k serveru. Prosím, skontrolujte vaše sieťové pripojenie a skúste znova.&lt;br&gt;&lt;br&gt;Ak problém pretrváva, prosím navštívte &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;, pre stiahnutie offline inštalátora.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Chyba sťahovania</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Pocas sťahovania dát zo servera nastala chyba. Prosím, skontrolujte vaše sieťové pripojenie s kúste znova.&lt;br&gt;&lt;br&gt;Ak problém pretrváva, prosím navštívte &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;, pre stiahnutie offline inštalátora.
+</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Chyba sťahovania</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Inštalačný balík nebol nájdený na serveri. Prosím, navštívte &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; pre stiahnutie offline inštalátora.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Interná chyba</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Nastala interná chyba. Prosím, skúste opäť spustiť inštaláciu.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Neplatná odozva</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Prijatá neplatná odozva zo servera.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Kompatibilný balík nebol nájdený</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Na serveri nie je k dispozícii žiaden kompatibilný inštalačný balík. Prosím, navštívte &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;, pre stiahnutie offline inštalátora.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Chyba pripojenia</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Nebolo možné sa pripojiť k serveru. Prosím, skontrolujte sieťové pripojenie a skúste znova. V prípade, ak používate proxy server, zmeňte vaše &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;nastavenia proxy servera&lt;/a&gt;. &lt;br&gt;&lt;br&gt;Ak problém pretrváva, prosím navštívte &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;, pre stiahnutie offline inštalátora.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Najnovšia verzia už je nainštalovaná</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">Najnovšia verzia ${bts.package.[${bts.var.package.default}].name} už je nainštalovaná na vašom počítači.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Nekompatibilný balík</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Inštalačný balík je určený pre 64-bitové operačné systémy. Prosím použite inštalačný balík pre 32-bitové operačné systémy.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Nekompatibilný balík</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Tento inštalačný balík je určený pre 32bitové operačné systémy. Prosím, použite inštalačný balík pre 64bitové operačné systémy.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Nie je serverový produkt</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">The ${bts.package.[${bts.var.package.current}].name} nie je určený pre serverové operačné systémy. Prosím, stiahnite a nainštalujte si serverový produkt z &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">Nie je klientsky produkt</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">The ${bts.package.[${bts.var.package.current}].name} nie je určený pre serverové operačné systémy. Prosím, stiahnite a nainštalujte si klientsky produkt z &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Nainštalovaný nekompatibilný produkt</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Nekompatibilný {PRODUCT} produkt je už nainštalovaný. Prosím, odinštalujte ho manuálne a znova spustite inštaláciu.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Nekompatibilný operačný systém</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">${bts.package.[${bts.var.package.current}].name} nie je určený pre váš operačný systém. Prosím, stiahnite a nainštalujte si produkt z &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Balík nebol nájdený</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">${bts.package.[${bts.var.package.current}].name} inštalačný balík (${bts.package.[${bts.var.package.current}].file}) nebol nájdený.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Extrakcia balíka zlyhala</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">Extrakcia ${bts.package.[${bts.var.package.current}].name} zlyhala.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">Inštalácia ${bts.package.[${bts.var.package.current}].name} nebola úplne dokončená. Systém nemusí byť chránený pred niektorými typmi hrozieb. Pre nainštalovanie ${bts.package.[${bts.var.package.current}].name} na vašom počítači je potrebné znovu spustiť inštaláciu.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Nedostatočné práva pre nainštalovanie produktu</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">Máte nedostatočné práva pre nainštalovanie ${bts.package.[${bts.var.package.current}].name}. Pre nainštalovanie ${bts.package.[${bts.var.package.current}].name} na váš počítač je potrebné spustiť inštaláciu opäť, ako správca.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Kód chyby: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Táto akcia tiež zatvorí sprievodcu inštaláciou. Naozaj chcete toto vykonať?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Nastavenia proxy servera</string>
+  <string name="IDS_ELI_PROXY_TEXT2">Tento proxy server si vyžaduje autentifikáciu</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Proxy server:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Port:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Meno:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Heslo:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Používam proxy server</string>
+  
+</resources>

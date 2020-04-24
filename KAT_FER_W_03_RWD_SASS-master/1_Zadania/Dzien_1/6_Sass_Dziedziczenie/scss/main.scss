@@ -1,0 +1,83 @@
+////zad z wykładowcą
+
+%clearfix {
+  &:before, &:after {
+    content: '';
+    clear: both;
+    display: block;
+  }
+};
+
+@mixin box($value) {
+  width: 50px;
+  height: 50px;
+  background-color: $value;
+}
+
+.test-mixin {
+  .left_box {
+    @include box(green);
+    float: left;
+  }
+  .right_box {
+    @include box(blue);
+    float: right;
+  }
+  @extend %clearfix;
+};
+
+
+//task1
+
+//#admin .nav a {
+//  color: #333;
+//}
+//a{
+//  color: #666;
+//}
+//#demo .body .link {
+//  @extend a;
+//}
+
+#admin .nav a {
+  color: #333;
+}
+
+%color {
+  color: #666;
+}
+
+a {
+  @extend %color;
+}
+
+#demo .body .link {
+  @extend %color;
+}
+
+//task2
+
+%box {
+  width: 300px;
+  height: 50px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.success {
+  @extend %box;
+  border: 1px solid green;
+  background: #aaffaa;
+}
+
+.error {
+  @extend %box;
+  border: 1px solid red;
+  background: #ff6666;
+}
+
+.info {
+  @extend %box;
+  border: 1px solid blue;
+  background: deepskyblue;
+}

@@ -1,0 +1,58 @@
+//zwykladowca
+
+$lighten-color1: lighten (red, 40);
+$task2-color: #C21F39;
+
+
+
+//@for $i from 1 through 4 {
+//  h#{$i} {
+//    font-size: 60 - (4*$i) - $font-size;
+//    color: $task2-color * $i;
+//  }
+//  $task2-color: lighten($task2-color, 15)
+//};
+
+
+$i:1;
+@while $i<5 {
+  h#{$i} {
+    font-size: 16/$i;
+    color: $task2-color * $i;
+  }
+  $task2-color: lighten($task2-color, 15)
+  $i: $i + 1;
+}
+
+
+
+//task1
+
+$number1: 15;
+$percent: percentage($number1);
+
+p {
+  font-size: $percent;
+}
+//task2
+
+$color1: red;
+$color2: green;
+
+$result: mix($color1, $color2);
+
+//task3
+
+$number3_1: 10;
+$number3_2: 15;
+
+  @function sumOfTwo($num1, $num2) {
+    @return $num1+$num2;
+  }
+
+  $result_3: sumOfTwo($number3_1, $number3_2);
+}
+
+/* Num1 = #{$number3_1} */
+/* Num2 = #{$number3_2} */
+/* Sum = #{$result_3} */

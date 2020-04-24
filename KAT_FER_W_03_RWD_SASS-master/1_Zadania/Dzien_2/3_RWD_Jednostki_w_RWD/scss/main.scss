@@ -1,0 +1,94 @@
+/* Zad 1 */
+
+.panel {
+  font-size: 40px;
+   p{
+     font-size: 0.5em;
+  }
+}
+
+
+/* Zad 2 */
+
+.bg_box {
+  .box {
+    font-size: 2em;
+    //width: 1.875em;
+    width: 3.74em;
+  }
+}
+
+
+/* Zad 3 */
+
+html, body {
+  font-size: 8px;
+}
+.container {
+  p{
+    font-size: 3rem;
+  }
+}
+
+
+/* Zad 4 */
+
+.container{
+  .wolf_text {
+    border: 0.25rem solid green;
+    width: 30rem;
+  }
+}
+
+
+/* Zad 5 */
+
+.winnie_the_pooh {
+  font-size: 10px;
+  blockquote {
+    font-size: 300%;
+  }
+}
+
+/* Zad 6 & 7*/
+
+.images {
+  width: 80%;
+  height: 40em;
+  border: 2px solid deepskyblue;
+  .img_one {
+    width: 30%;
+    height: 30%;
+    background-image: url("../images/cat.jpg");
+  }
+}
+/* po zakomentowaniu width: 80% dla .images, szerokość .img_one zwiększa się, ponieważ % nie ma się do czego odwołać i odwołuje się teraz do szerokości okna*/
+
+
+/* Zad 8 & 9*/
+
+.test_height_grandpa{
+  border: 1px solid pink;
+  height: 50px;
+  .test_height_daddy {
+    border: 1px solid midnightblue;
+    //height: 200%;
+    .test_height_baby {
+      border: 1px solid darkolivegreen;
+      height: 50%;
+    }
+  }
+}
+//.baby element doesn't know what is parent's height and what value it should hold for the height property
+
+
+/* Zad 10 */
+
+.centered_text {
+  h1{
+    position: absolute;
+    left:50vw;
+    top: 50vh;
+  }
+}
+

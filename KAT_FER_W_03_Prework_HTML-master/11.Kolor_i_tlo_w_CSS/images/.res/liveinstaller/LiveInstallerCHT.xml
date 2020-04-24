@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="繁體中文 (traditional Chinese)" lcid="0404">
+	<string name="IDS_ELI_LIVE_INSTALLER">Live Installer</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">歡迎使用|授權合約|AV Remover|安裝|完成</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">初始化中...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">此電腦將受 ESET Remote Administrator 管理</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">此安裝程式包括下列元件</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">授權:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">伺服器:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">群組:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">配置:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">正在準備安裝套件...</string>
+  <string name="IDS_ELI_CALC_TEXT01">正在計算可用空間...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">更新 ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">安裝此免費更新以持續受到防護</string>
+  <string name="IDS_ELI_UPDATE_TEXT">必須更新 ${bts.package.[0].name} 以與 Windows 10 相容。無法將先前安裝的版本遷移至 Windows 10。若要持續受到防護，可以自動下載並安裝此產品的最新版本。&lt;BR&gt;&lt;BR&gt;此更新免費且將保留您的授權和設定。</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">稍後提醒我</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">安裝 ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">快速、強大的病毒防護</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">讓 ${bts.package.[0].name} 快速、功能強大的防護帶給您更安全的瀏覽、遊戲及連線體驗。該解決方案能消滅各種網際網路威脅。</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">安裝 ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">全方位的網際網路安全性產品</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">讓 ${bts.package.[0].name} 防護為您的工作、遊戲及連線帶來更多樂趣。該解決方案結合了惡意軟體和垃圾郵件防護、個人防火牆和家長控制。</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">安裝 ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">全方位的網際網路安全性產品</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">讓 ${bts.package.[0].name} 防護為您的工作、遊戲及連線帶來更多樂趣。該解決方案結合了惡意軟體和垃圾郵件防護、個人防火牆和家長控制。</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">安裝 ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">全方位的網際網路安全性產品</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">讓 ${bts.package.[0].name} 防護為您的工作、遊戲及連線帶來更多樂趣。該解決方案結合了惡意軟體和垃圾郵件防護、個人防火牆和家長控制。</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">安裝 ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">讓 ESET 防護為您使用電腦進行工作、遊戲及連線時帶來更多樂趣。</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">安裝 ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">您企業的進階基準防護</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name}，配備了獲獎肯定的 ESET NOD32®偵測技術，為您的企業提供輕量型、進階基準防護、由雲端型聲譽系統增強功能。利用我們全部重新設計且方便使用的 ESET Remote Administrator web-console，輕鬆地控制程式。</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">安裝 ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">功能完整、進階安全性的套件</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} 是功能完整、進階安全性的套件，對於各種類型的惡意軟體提供完整且多層的防護。透過全新的 ESET Remote Administrator web-console 享受低系統需求、虛擬化支援和監督功能。</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">我要使用 ESET AV Remover 解除安裝不需要的防毒應用程式</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">您可以線上取得此產品的較新版本，且可自動下載並安裝，一氣呵成。</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">安裝較新版本</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} 不支援此過期版本的 Microsoft Windows。將會安裝 {{IDS_ELI_PRODUCT_NAME_ESS}} 最新的相容版本。</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} 不完全支援此過期版本的 Microsoft Windows。您可以繼續安裝，但問題可能會持續發生。</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">使用者授權合約</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">使用者授權合約 - %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">文字 (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">我接受</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">我不接受</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">團結就是力量，取得最高層級的防護。</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">ESET LiveGrid® 意見系統可讓我們收集有關可疑物件的資訊，我們會在雲端系統中自動處理這些資訊，以建立偵測機制。然後立即套用這些機制，以確保客戶享有最高層級的防護。</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">啟用 ESET LiveGrid® 意見系統 (建議)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">協助我們提供給您最好的安全性。</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">ESET LiveGrid® 意見系統在全球使用超過一億個感應器，可讓我們收集有關可疑物件的資訊，我們使用雲端型聲譽系統自動處理這些資訊，以建立偵測機制。然後立即套用這些機制，以確保客戶享有最高層級的防護。</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">防護設定</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">潛在不需要應用程式偵測</string>
+  <string name="IDS_ELI_PUA_QUESTION01">潛在不需要應用程式是什麼?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">我們為什麼這麼問?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET 能偵測&lt;a {{IDS_HELP_PUA_LINK}}&gt;潛在不需要應用程式&lt;/a&gt;，並在安裝這些應用程式之前要求確認。潛在不需要應用程式不一定具有安全風險，不過它們會影響電腦的效能、速度及可靠性，或導致行為變更。它們通常需要取得使用者的同意之後才會進行安裝。</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;例如，&lt;/b&gt;它們可能會變更 Web 瀏覽器的網頁和搜尋設定。</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;注意事項: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET 能偵測&lt;a {{IDS_HELP_PUA_LINK}}&gt;潛在不需要應用程式&lt;/a&gt;，並在安裝這些應用程式之前要求確認。潛在不需要應用程式不一定具有安全風險，不過它們&lt;b&gt;會影響電腦的:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;效能&lt;/li&gt;&lt;li&gt;速度&lt;/li&gt;&lt;li&gt;可靠性&lt;/li&gt;&lt;li&gt;行為&lt;/li&gt;&lt;/ul&gt;它們通常需要取得使用者的同意之後才會進行安裝。</string>
+  <string name="IDS_ELI_PUA_CAPTION02">繼續操作前請先選擇選項:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">停用潛在不需要應用程式偵測</string>
+  <string name="IDS_ELI_PUA_ENABLE1">啟用潛在不需要應用程式偵測</string>
+  <string name="IDS_ELI_PUA_DISABLE2">不偵測潛在不需要應用程式</string>
+  <string name="IDS_ELI_PUA_ENABLE2">偵測潛在不需要應用程式</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">變更安裝資料夾</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">選取安裝資料夾</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">產品資料夾:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">我想要針對經常變更的檔案指定不同的資料夾</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">模組資料夾:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">資料資料夾:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">選取的資料夾無效。</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">安裝進行中</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">正在掃描</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">發現其他安全產品</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">系統中有其他安全軟體存在或未完全移除。同時執行兩個安全解決方案可能會造成不穩定的情況發生。</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">正在檢查是否存在可能的衝突應用程式...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">如何解除安裝其他防毒軟體</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">專用清除程式</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">專用清除程式是針對移除電腦中複雜的惡意軟體而設計。此應用程式可能會造成穩定性問題，因此我們只建議進階使用者使用。&lt;br&gt;如需詳細資訊，請造訪我們的&lt;a {{IDS_KB_SPECLEN_LINK}}&gt;知識庫&lt;/a&gt;。&lt;br&gt;&lt;br&gt;您要繼續並執行清除程式嗎?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;正在下載專用清除程式...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;專用清除程式正在執行。&lt;/b&gt;&lt;br&gt;請稍候...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">系統中找不到惡意軟體。</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">已在系統中偵測到惡意軟體並已完成清除。</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">已在系統中偵測到惡意軟體。&lt;br&gt;請連絡客戶服務以取得移除指示。</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">已在系統中偵測到惡意軟體。您需要重新開機才能完成清除作業。&lt;br&gt;請注意，您可能需要重新開機多次。&lt;br&gt;&lt;br&gt;要繼續重新開機嗎?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">專用清除程式意外結束。&lt;br&gt;請連絡客戶服務以取得協助。</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">下載進行中</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">下載中 ...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">%1 下載中 ...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">安裝進行中</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">安裝中 ...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">%1 安裝中 ...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">您確定要取消 ${bts.package.[${bts.var.package.default}].name} 的安裝嗎?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">安裝成功</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[${bts.var.package.default}].name} 已成功安裝在您的電腦上。您的電腦將會持續檢查是否存在病毒和惡意軟體。&lt;br&gt;&lt;br&gt;按一下 &lt;i&gt;[完成]&lt;/i&gt; 完成產品安裝，並開始啟動程序。</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[${bts.var.package.default}].name} 已成功安裝在您的電腦上。您的電腦將會持續檢查是否存在病毒和惡意軟體。</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    瞭解安全性: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;ESET 知識庫&lt;/a&gt;
+    &lt;br&gt;
+    與 ESET 保持聯繫:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">開放式問卷</string>
+  <string name="IDS_ELI_MUNI_TITLE">安全性問卷</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET 與馬薩里克大學合作，進行專注於使用者安全性行為的研究。&lt;br&gt;請協助我們並填寫我們的簡短問卷。</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;您的回應將協助我們改善 ESET 產品的整體安全性。&lt;/b&gt;&lt;br&gt;填寫此問卷即表示您同意馬薩里克大學的研究人員可針對所有內容進行分析，但您的資料將僅供統計目的之用。我們不會收集任何識別資料。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">安裝失敗</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">安裝已中斷</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">${bts.package.[${bts.var.package.current}].name} 安裝失敗。可能無法保護系統阻擋電腦威脅。若要將 ${bts.package.[${bts.var.package.current}].name} 安裝在您的電腦上，請再次執行安裝。</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;安裝錯誤 &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">使用者已中斷安裝</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">使用者已中斷 ${bts.package.[${bts.var.package.default}].name} 的安裝。若要將 ${bts.package.[${bts.var.package.default}].name} 安裝在您的電腦上，請再次執行安裝。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">安裝失敗</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">這可能是惡意軟體活動的結果。若要檢查系統中是否有潛在威脅，建議您執行&lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;專用清除程式&lt;/a&gt;。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">磁碟空間不足</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">磁碟區 %1% 的磁碟空間不足，無法下載並開始安裝 ${bts.package.[${bts.var.package.default}].name}。&lt;br&gt;&lt;br&gt;請確定您擁有至少 %2!d! MB 的可用空間，並按一下 &lt;i&gt;[再試一次]&lt;/i&gt; 以再次檢查可用空間並繼續下載，或按一下 &lt;i&gt;[關閉]&lt;/i&gt; 以結束安裝。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">磁碟空間不足</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">磁碟區 %1% 的磁碟空間不足，無法完成安裝 ${bts.package.[${bts.var.package.default}].name}。&lt;br&gt;&lt;br&gt;請確定您擁有至少 %2!d! MB 的可用空間，並按一下 &lt;i&gt;[再試一次]&lt;/i&gt; 以再次檢查可用空間並繼續下載，或按一下 &lt;i&gt;[關閉]&lt;/i&gt; 以結束安裝。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">連線錯誤</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">無法連線至伺服器。請檢查您的網路連線，並再試一次。&lt;br&gt;&lt;br&gt;如果問題持續存在，請造訪 &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; 下載離線安裝程式。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">下載錯誤</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">從伺服器下載資料時發生錯誤。請檢查您的網路連線，並再試一次。&lt;br&gt;&lt;br&gt;如果問題持續存在，請造訪 &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; 下載離線安裝程式。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">下載錯誤</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">伺服器找不到安裝套件。請造訪 &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;，下載離線安裝程式。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">內部錯誤</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">發生內部錯誤。請再試一次以再次開始安裝。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">無效的回應</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">從伺服器接收的回應無效。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">找不到相容套件</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">伺服器上沒有相容的安裝套件。請造訪 &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; 下載離線安裝程式。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">連線錯誤</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">無法連線至伺服器。請檢查您的網路連線，並再試一次。如果您使用 Proxy 伺服器，請變更 &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;Proxy 伺服器設定&lt;/a&gt; &lt;br&gt;&lt;br&gt;如果問題持續存在，請造訪 &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; 下載離線安裝程式。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">已安裝最新版本</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">這台電腦上已安裝 ${bts.package.[${bts.var.package.default}].name} 的最新版本。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">不相容的套件</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">本安裝套件不適用於 64 位元的作業系統。請使用適用於 32 位元作業系統的安裝套件。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">不相容的套件</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">本安裝套件不適用於 32 位元的作業系統。請使用適用於 64 位元作業系統的安裝套件。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">非伺服器產品</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">${bts.package.[${bts.var.package.current}].name} 不適用於伺服器作業系統。請從 &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; 下載並安裝伺服器產品。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">非用戶端產品</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">${bts.package.[${bts.var.package.current}].name} 不適用於伺服器作業系統。請從 &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; 下載並安裝用戶端產品。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">已安裝不相容的產品</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">已安裝不相容的 {PRODUCT} 產品。請手動解除安裝該產品並再次開始安裝。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">不相容的作業系統</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">${bts.package.[${bts.var.package.current}].name} 不適用於您的作業系統。請從 &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; 下載並安裝產品。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">找不到套件</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">找不到 ${bts.package.[${bts.var.package.current}].name} 安裝套件 (${bts.package.[${bts.var.package.current}].file})。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">套件擷取失敗</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">擷取 ${bts.package.[${bts.var.package.current}].name} 已失敗。</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">${bts.package.[${bts.var.package.current}].name} 安裝失敗。可能無法保護系統阻擋電腦威脅。若要將 ${bts.package.[${bts.var.package.current}].name} 安裝在您的電腦上，請再次執行安裝。</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">權限不足，無法安裝產品</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">您的權限不足，無法安裝 ${bts.package.[${bts.var.package.current}].name}。若要將 ${bts.package.[${bts.var.package.current}].name} 安裝在您的電腦上，請以管理員身分再次執行安裝。</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">錯誤代碼: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">此處理方法也會關閉安裝精靈。您確定要執行此作業嗎?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">設定 Proxy 伺服器</string>
+  <string name="IDS_ELI_PROXY_TEXT2">Proxy 伺服器需要驗證</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Proxy 伺服器:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">連接埠:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">使用者名稱:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">密碼:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">我使用的是 Proxy 伺服器</string>
+  
+</resources>

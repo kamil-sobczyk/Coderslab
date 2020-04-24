@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Suomi" lcid="040b">
+  <string name="IDS_HELP">Ohje</string>
+	<string name="IDS_BUTTON_YES">Kyllä</string>
+	<string name="IDS_BUTTON_NO">Ei</string>
+	<string name="IDS_BUTTON_ACCEPT">Hyväksyn</string>
+	<string name="IDS_BUTTON_DECLINE">En hyväksy</string>
+	<string name="IDS_BUTTON_CONTINUE">Jatka</string>
+	<string name="IDS_BUTTON_IGNORE">Ohita</string>
+	<string name="IDS_BUTTON_BACK">Edellinen</string>
+	<string name="IDS_BUTTON_NEXT">Seuraava</string>
+	<string name="IDS_BUTTON_CANCEL">Peruuta</string>
+	<string name="IDS_BUTTON_CLOSE">Sulje</string>
+	<string name="IDS_BUTTON_REMOVE">Poista</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Käynnistä uudelleen nyt</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Käynnistä uudelleen myöhemmin</string>
+	<string name="IDS_BUTTON_RETRY">Yritä uudelleen</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Keskeytä</string>
+	<string name="IDS_BUTTON_INSTALL">Asenna</string>
+  <string name="IDS_BUTTON_PRINT">Tulosta</string>
+  <string name="IDS_BUTTON_SAVE">Tallenna</string>
+  <string name="IDS_BUTTON_DONE">Valmis</string>
+  <string name="IDS_BUTTON_BROWSE">Selaa</string>
+  <string name="IDS_BUTTON_DEFAULTS">Palauta oletuksiin</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Keskeytetään&lt;/h3&gt; Odotetaan käynnissä olevan toiminnon päättymistä</string>
+	<string name="IDS_MSGBOX_CLOSE">Tämä toiminto sulkee myös ohjatun asennustoiminnon. Haluatko varmasti jatkaa?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Valitse polku</string>  
+</resources>

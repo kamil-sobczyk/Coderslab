@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/roboto/subset-Roboto-Bold.eot');
+    src: local('Roboto Bold'), local('Roboto-Bold'),
+    url('../fonts/roboto/subset-Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/roboto/subset-Roboto-Bold.woff2') format('woff2'),
+    url('../fonts/roboto/subset-Roboto-Bold.woff') format('woff'),
+    url('../fonts/roboto/subset-Roboto-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/roboto/subset-Roboto-Light.eot');
+    src: local('Roboto Light'), local('Roboto-Light'),
+    url('../fonts/roboto/subset-Roboto-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/roboto/subset-Roboto-Light.woff2') format('woff2'),
+    url('../fonts/roboto/subset-Roboto-Light.woff') format('woff'),
+    url('../fonts/roboto/subset-Roboto-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/roboto/subset-Roboto-Regular.eot');
+    src: local('Roboto'), local('Roboto-Regular'),
+    url('../fonts/roboto/subset-Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/roboto/subset-Roboto-Regular.woff2') format('woff2'),
+    url('../fonts/roboto/subset-Roboto-Regular.woff') format('woff'),
+    url('../fonts/roboto/subset-Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+*{
+    font-family: Roboto, Arial, sans-serif;
+    color: white;
+}
+ul {
+    height: 500px;
+    width: 300px;
+    list-style-type: none;
+}
+ul * {
+    height:50px;
+    width: 300px;
+}
+li * {
+    line-height: 50px;
+    font-weight:300;
+    text-align: center;
+}
+div.large_list>ul {
+    background-color: #FF00A5;
+    font-weight: 400;
+}
+div.large_list>ul * {
+    background-color: #36FF74;
+}
+div.large_list+ul {
+    background-color: #E8370E;
+    font-weight: 700;
+}
+div.large_list+ul * {
+    background-color: #365FFF;
+}
+div.large_list + ul ul {
+    background-color: #FFEC0C;
+    font-weight: 300;
+}
+div.large_list + ul ul * {
+    background-color: #0DFFDE;
+}
+

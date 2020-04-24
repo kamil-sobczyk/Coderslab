@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Қазақша" lcid="043F">
+  <string name="IDS_HELP">Анықтама</string>
+	<string name="IDS_BUTTON_YES">Иә</string>
+	<string name="IDS_BUTTON_NO">Жоқ</string>
+	<string name="IDS_BUTTON_ACCEPT">Қабылдау</string>
+	<string name="IDS_BUTTON_DECLINE">Қабылдамау</string>
+	<string name="IDS_BUTTON_CONTINUE">Жалғастыру</string>
+	<string name="IDS_BUTTON_IGNORE">Елемеу</string>
+	<string name="IDS_BUTTON_BACK">Артқа</string>
+	<string name="IDS_BUTTON_NEXT">Келесі</string>
+	<string name="IDS_BUTTON_CANCEL">Бас тарту</string>
+	<string name="IDS_BUTTON_CLOSE">Жабу</string>
+	<string name="IDS_BUTTON_REMOVE">Алып тастау</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Қазір қайта іске қосу</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Кейінірек қайта іске қосу</string>
+	<string name="IDS_BUTTON_RETRY">Әрекетті қайталаңыз</string>
+	<string name="IDS_BUTTON_OK">ОК</string>
+	<string name="IDS_BUTTON_ABORT">Доғару</string>
+	<string name="IDS_BUTTON_INSTALL">Орнату</string>
+  <string name="IDS_BUTTON_PRINT">Басып шығару</string>
+  <string name="IDS_BUTTON_SAVE">Сақтау</string>
+  <string name="IDS_BUTTON_DONE">Дайын</string>
+  <string name="IDS_BUTTON_BROWSE">Шолу...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Әдепкі параметрлерге қалпына келтіру</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Доғарылуда&lt;/h3&gt; Орындалып жатқан әрекеттің аяқталуы күтілуде</string>
+	<string name="IDS_MSGBOX_CLOSE">Бұл әрекет сонымен бірге орнату шеберін жабады. Мұны істеу керек пе?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Жолын таңдау</string>  
+</resources>

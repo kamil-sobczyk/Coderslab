@@ -1,0 +1,80 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+div {
+    width: 400px;
+    height: 300px;
+    border: 2px solid gray;
+}
+div:hover {
+    background: blue;
+    border-radius: 50%;
+}
+div:active {
+    background: white;
+    box-shadow: 0 0 30px 10px blue;
+}
+a:link {
+    background: yellow;
+    border-radius: 50%;
+    margin:10px;
+}
+a:visited {
+    background: blue;
+}
+a:hover {
+    background: green;
+}
+a:active {
+    background: gray;
+}
+
+li {display: inline-block;}
+/*ZADAnie 2 pseudoklasy związane z położeniem
+https://jsfiddle.net/kuz2yya7/1/*/
+
+/*ZADANIE3*/
+.avatar {
+    height:80px;
+    width:80px;
+    background: url("../images/avatar.jpg") no-repeat left/cover;
+    display:inline-block;
+    position: relative;
+}
+div.avatar::before {
+    content: "lorem ipsum...";
+    line-height: 40px;
+    padding-left:10px;
+    width: 200px;
+    height: 40px;
+    box-shadow: 0 0 5px 2px gray;
+    border-radius: 10%;
+    margin: 10px;
+    position:absolute;
+    left: 80px;
+}
+/*ZADANIE 4 ZEBRA */
+table {
+    border-collapse:collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px 15px;
+}
+th {
+    background:darkblue;
+    color:white;
+}
+tr:nth-of-type(2n+2) {
+    background: lightblue;
+}
+tr:nth-of-type(2n+3) {
+    background:blue;
+}
+td:hover {
+    color:red;
+}
+

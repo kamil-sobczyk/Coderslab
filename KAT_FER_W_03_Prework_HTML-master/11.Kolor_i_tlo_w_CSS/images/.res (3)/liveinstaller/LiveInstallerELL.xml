@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Ελληνικά (Greek)" lcid="0408">
+	<string name="IDS_ELI_LIVE_INSTALLER">Πρόγραμμα ζωντανής εγκατάστασης</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Καλωσήρθατε|Συμφωνία άδειας χρήσης|AV Remover|Εγκατάσταση|Τέλος</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Προετοιμασία...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Το ESET Remote Administrator θα διαχειρίζεται αυτό τον υπολογιστή</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">Σε αυτό το πρόγραμμα εγκατάστασης περιλαμβάνονται τα εξής στοιχεία</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Άδεια χρήσης:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Διακομιστής:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Ομάδα:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Διαμόρφωση:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Προετοιμασία πακέτου εγκατάστασης...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Υπολογισμός διαθέσιμου χώρου...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">Ενημέρωση ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Εγκαταστήστε αυτήν τη δωρεάν ενημέρωση για να διατηρήσετε την προστασία</string>
+  <string name="IDS_ELI_UPDATE_TEXT">Το ${bts.package.[0].name} πρέπει να ενημερωθεί για να είναι συμβατό με τα Windows 10. Η έκδοση που ήταν εγκατεστημένη προηγουμένως δεν ήταν δυνατόν να μετεγκατασταθεί στα Windows 10. Για να διατηρήσετε την προστασία, μπορείτε να κάνετε λήψη και αυτόματη εγκατάσταση της πιο πρόσφατης έκδοσης αυτού του προϊόντος.&lt;BR&gt;&lt;BR&gt;Η ενημέρωση είναι δωρεάν, ενώ θα διατηρηθεί η άδεια χρήσης και οι ρυθμίσεις σας.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Υπενθύμιση αργότερα</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">Εγκατάσταση του ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Γρήγορο, ισχυρό Antivirus</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">Απολαύστε ασφαλέστερη περιήγηση, παιχνίδια και επικοινωνία με τη γρήγορη και ισχυρή προστασία που σας παρέχει το ${bts.package.[0].name}. Η λύση εξαλείφει ένα ευρύ φάσμα απειλών του διαδικτύου.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">Εγκατάσταση του ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Ολοκληρωμένη ασφάλεια Internet</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">Απολαύστε τη χρήση του υπολογιστή σας όταν εργάζεστε, όταν παίζετε και όταν επικοινωνείτε - με την προστασία του ${bts.package.[0].name}. Η λύση συνδυάζει προστασία από κακόβουλο λογισμικό με antispam, προσωπικό firewall και γονικό έλεγχο.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">Εγκατάσταση του ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Ολοκληρωμένη ασφάλεια Internet</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">Απολαύστε τη χρήση του υπολογιστή σας όταν εργάζεστε, όταν παίζετε και όταν επικοινωνείτε - με την προστασία του ${bts.package.[0].name}. Η λύση συνδυάζει προστασία από κακόβουλο λογισμικό με antispam, προσωπικό firewall και γονικό έλεγχο.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">Εγκατάσταση του ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Ολοκληρωμένη ασφάλεια Internet</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">Απολαύστε τη χρήση του υπολογιστή σας όταν εργάζεστε, όταν παίζετε και όταν επικοινωνείτε - με την προστασία του ${bts.package.[0].name}. Η λύση συνδυάζει προστασία από κακόβουλο λογισμικό με antispam, προσωπικό firewall και γονικό έλεγχο.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">Εγκατάσταση του ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">Απολαύστε τη χρήση του υπολογιστή σας όταν εργάζεστε, όταν παίζετε και όταν επικοινωνείτε - με την προστασία που σας παρέχει η ESET.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">Εγκατάσταση του ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Προηγμένη βασική προστασία για την επιχείρησή σας</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">Το ${bts.package.[0].name} διαθέτει τη βραβευμένη τεχνολογία ανίχνευσης ESET NOD32® και προσφέρει στην επιχείρησή σας ελαφριά, προηγμένη βασική προστασία, που ενισχύεται από το σύστημα αξιολόγησης που βασίζεται στη φήμη και στηρίζεται στο cloud. Μπορείτε να ελέγχετε τα πάντα αβίαστα με την πλήρως ανασχεδιασμένη, φιλική προς το χρήστη κονσόλα διαδικτύου της Απομακρυσμένης διαχείρισης ESET.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">Εγκατάσταση του ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Σουίτα προηγμένης ασφάλειας με πλήρεις λειτουργίες</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">Το ${bts.package.[0].name} είναι η σουίτα προηγμένης ασφάλειας με πλήρεις λειτουργίες, η οποία παρέχει περιεκτική προστασία πολλαπλών επιπέδων από όλους τους τύπους κακόβουλου λογισμικού. Απολαύστε χαμηλές απαιτήσεις συστήματος, οπτικοποιημένη υποστήριξη και επίβλεψη μέσω της νέας και ανανεωμένης κονσόλας διαδικτύου της Απομακρυσμένης διαχείρισης ESET.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">Θέλω να απεγκαταστήσω ανεπιθύμητες εφαρμογές antivirus χρησιμοποιώντας το ESET AV Remover</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">Είναι διαθέσιμη ηλεκτρονικά μια πιο πρόσφατη έκδοση αυτού του προϊόντος και μπορείτε να τη λάβετε και να την εγκαταστήσετε αυτόματα αντί για την έκδοση που περιλαμβάνεται στο πακέτο.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Εγκατάσταση της νεότερης έκδοσης</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">Το ${bts.package.[0].name} δεν υποστηρίζει αυτήν τη μη ενημερωμένη έκδοση των Microsoft Windows. Θα εγκατασταθεί η πιο πρόσφατη συμβατή έκδοση του {{IDS_ELI_PRODUCT_NAME_ESS}}.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">Το ${bts.package.[0].name} δεν υποστηρίζει πλήρως αυτήν τη μη ενημερωμένη έκδοση των Microsoft Windows. Μπορείτε να συνεχίσετε με την εγκατάσταση, αλλά ενδέχεται να προκύψουν προβλήματα.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Άδεια Χρήσης Τελικού Χρήστη</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Συμφωνία άδειας χρήσης τελικού χρήστη - %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Κείμενο (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Συμφωνώ</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">Δεν συμφωνώ</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Οι αριθμοί έχουν δύναμη. Αποκτήστε το μέγιστο επίπεδο προστασίας.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">Το σύστημα σχολίων του ESET LiveGrid® μας επιτρέπει να συλλέγουμε πληροφορίες σχετικά με ύποπτα αντικείμενα, τα οποία επεξεργαζόμαστε αυτόματα για τη δημιουργία μηχανισμών ανίχνευσης στο σύστημά μας στο cloud. Στη συνέχεια, εφαρμόζουμε αμέσως αυτούς τους μηχανισμούς για να διασφαλίζουμε ότι οι πελάτες μας έχουν το μέγιστο επίπεδο προστασίας.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">Ενεργοποίηση του συστήματος σχολίων του ESET LiveGrid® (συνιστάται)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Βοηθήστε μας να σας προσφέρουμε ακόμα καλύτερη ασφάλεια.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">Το σύστημα σχολίων του ESET LiveGrid® χρησιμοποιεί περισσότερους από 100 εκατομμύρια αισθητήρες παγκοσμίως και μας επιτρέπει να συλλέγουμε πληροφορίες σχετικά με ύποπτα αντικείμενα, τα οποία επεξεργαζόμαστε αυτόματα για τη δημιουργία μηχανισμών ανίχνευσης, χρησιμοποιώντας το σύστημα αξιολόγησης που βασίζεται στη φήμη και στηρίζεται στο cloud. Στη συνέχεια, εφαρμόζουμε αμέσως αυτούς τους μηχανισμούς για να διασφαλίζουμε ότι οι πελάτες μας έχουν το μέγιστο επίπεδο προστασίας.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Ρυθμίσεις προστασίας</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Ανίχνευση ενδεχομένως ανεπιθύμητων εφαρμογών</string>
+  <string name="IDS_ELI_PUA_QUESTION01">Τι είναι μια ενδεχομένως ανεπιθύμητη εφαρμογή;</string>
+  <string name="IDS_ELI_PUA_QUESTION02">Γιατί ρωτάμε;</string>
+  <string name="IDS_ELI_PUA_TEXT01">Η ESET μπορεί να ανιχνεύσει &lt;a {{IDS_HELP_PUA_LINK}}&gt;ενδεχομένως ανεπιθύμητες εφαρμογές&lt;/a&gt; και να ζητήσει επιβεβαίωση για την εγκατάστασή τους. Οι ενδεχομένως ανεπιθύμητες εφαρμογές ίσως να μην αποτελούν κίνδυνο ασφαλείας, αλλά είναι δυνατόν να επηρεάσουν τις επιδόσεις, την ταχύτητα και την αξιοπιστία του υπολογιστή ή να προκαλέσουν αλλαγές στη συμπεριφορά του. Συνήθως ζητούν τη συγκατάθεση του χρήστη πριν από την εγκατάστασή τους.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;Για παράδειγμα,&lt;/b&gt; μπορεί να αλλάξουν τις ρυθμίσεις ιστοσελίδας και αναζήτησης του προγράμματος περιήγησής σας.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;ΣΗΜΕΙΩΣΗ: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">Η ESET μπορεί να ανιχνεύσει &lt;a {{IDS_HELP_PUA_LINK}}&gt;ενδεχομένως ανεπιθύμητες εφαρμογές&lt;/a&gt; και να ζητήσει επιβεβαίωση για την εγκατάστασή τους. Οι ενδεχομένως ανεπιθύμητες εφαρμογές ίσως να μην αποτελούν κίνδυνο ασφαλείας, αλλά &lt;b&gt;είναι δυνατό να επηρεάσουν στον υπολογιστή σας:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;τις επιδόσεις&lt;/li&gt;&lt;li&gt;την ταχύτητα&lt;/li&gt;&lt;li&gt;την αξιοπιστία&lt;/li&gt;&lt;li&gt;τη συμπεριφορά&lt;/li&gt;&lt;/ul&gt;Συνήθως ζητούν τη συγκατάθεση του χρήστη πριν από την εγκατάστασή τους.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Επιλέξτε ένα από τα παρακάτω πριν συνεχίσετε:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Απενεργοποίηση ανίχνευσης ενδεχομένως ανεπιθύμητων εφαρμογών</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Ενεργοποίηση ανίχνευσης ενδεχομένως ανεπιθύμητων εφαρμογών</string>
+  <string name="IDS_ELI_PUA_DISABLE2">Να μην ανιχνεύονται ενδεχομένως ανεπιθύμητες εφαρμογές</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Να ανιχνεύονται ενδεχομένως ανεπιθύμητες εφαρμογές</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Αλλαγή φακέλου εγκατάστασης</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Επιλογή φακέλου εγκατάστασης</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Φάκελος προϊόντος:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Θέλω να καθορίσω διαφορετικούς φακέλους για αρχεία που αλλάζουν συχνά</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Φάκελος μονάδας:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Φάκελος δεδομένων:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Επιλέχτηκε μη έγκυρος φάκελος.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Εγκατάσταση σε εξέλιξη</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Σάρωση</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Βρέθηκαν άλλα προϊόντα ασφαλείας</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">Στο σύστημα υπάρχει άλλο λογισμικό ασφαλείας ή δεν έχει καταργηθεί εντελώς. Η ταυτόχρονη εκτέλεση δύο λύσεων ασφαλείας είναι δυνατόν να προκαλέσει αστάθεια.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Έλεγχος πιθανών συγκρουόμενων εφαρμογών...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Τρόπος απεγκατάστασης άλλου λογισμικού antivirus</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Ειδικό εργαλείο καθαρισμού</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">Το ειδικό εργαλείο καθαρισμού είναι σχεδιασμένο να απομακρύνει περίπλοκο κακόβουλο λογισμικό από τον υπολογιστή σας. Αυτή η εφαρμογή ίσως προκαλέσει ζητήματα ευστάθειας και συνιστάται μόνο για προχωρημένους χρήστες.&lt;br&gt;Για περισσότερες πληροφορίες, επισκεφτείτε τη &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;Γνωσιακή βάση&lt;/a&gt;μας.&lt;br&gt;&lt;br&gt;Θέλετε οπωσδήποτε να εκτελέσετε το εργαλείο καθαρισμού;</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Γίνεται λήψη του ειδικού εργαλείου καθαρισμού...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;Εκτελείται το ειδικό εργαλείο καθαρισμού.&lt;/b&gt;&lt;br&gt;Περιμένετε...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">Δεν βρέθηκε κακόβουλο λογισμικό στο σύστημα.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Ανιχνεύτηκε κακόβουλο λογισμικό στο σύστημα και αφαιρέθηκε.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Ανιχνεύτηκε κακόβουλο λογισμικό στο σύστημα.&lt;br&gt;Επικοινωνήστε με την Εξυπηρέτηση πελατών για να λάβετε οδηγίες για την αφαίρεσή του.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Ανιχνεύτηκε κακόβουλο λογισμικό στο σύστημα. Απαιτείται επανεκκίνηση για την ολοκλήρωση του καθαρισμού.&lt;br&gt;Έχετε υπόψη ότι ίσως απαιτούνται περισσότερες επανεκκινήσεις.&lt;br&gt;&lt;br&gt;Συνέχεια με επανεκκίνηση;</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">Το ειδικό εργαλείο καθαρισμού τερματίστηκε απροσδόκητα.&lt;br&gt;Επικοινωνήστε με την Εξυπηρέτηση πελατών για βοήθεια.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">Λήψη σε εξέλιξη</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Γίνεται λήψη...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">Γίνεται λήψη %1...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Εγκατάσταση σε εξέλιξη</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Γίνεται εγκατάσταση...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">Γίνεται εγκατάσταση %1...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">Είστε βέβαιοι ότι θέλετε να ακυρώσετε την εγκατάσταση του ${bts.package.[${bts.var.package.default}].name};</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Η εγκατάσταση έγινε με επιτυχία</string>
+  <string name="IDS_ELI_DONE_TEXT">Το ${bts.package.[${bts.var.package.default}].name} εγκαταστάθηκε με επιτυχία στον υπολογιστή σας. Ο υπολογιστής σας θα ελέγχεται συνεχώς για ιούς και κακόβουλο λογισμικό. &lt;br&gt; &lt;br&gt; Κάντε κλικ στο &lt;i&gt;Τέλος&lt;/i&gt; για να ολοκληρωθεί η ρύθμιση του προϊόντος και να ξεκινήσει η διαδικασία ενεργοποίησης.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">Το ${bts.package.[${bts.var.package.default}].name} εγκαταστάθηκε με επιτυχία στον υπολογιστή σας. Ο υπολογιστής σας θα ελέγχεται συνεχώς για ιούς και κακόβουλο λογισμικό.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Μάθετε για την ασφάλεια: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;Γνωσιακή βάση της ESET&lt;/a&gt;
+    &lt;br&gt;
+    Επικοινωνήστε με την ESET:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Ανοιχτή έρευνα</string>
+  <string name="IDS_ELI_MUNI_TITLE">Έρευνα ασφαλείας</string>
+  <string name="IDS_ELI_MUNI_TEXT">Η ESET σε συνεργασία με το Πανεπιστήμιο Masaryk διενεργεί μια έρευνα που εστιάζει στη συμπεριφορά ασφαλείας χρηστών.&lt;br&gt;Βοηθήστε μας και συμπληρώστε τη σύντομη έρευνά μας.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Οι απαντήσεις σας θα μας βοηθήσουν να βελτιώσουμε τη γενική ασφάλεια των προϊόντων της ESET.&lt;/b&gt;&lt;br&gt;Με τη συμπλήρωση αυτής της έρευνας συμφωνείτε ότι όλα τα περιεχόμενα μπορεί να αναλυθούν από ερευνητές του Πανεπιστημίου Masaryk, αλλά τα δεδομένα σας θα χρησιμοποιηθούν μόνο για στατιστικούς σκοπούς. Δεν θα συλλεχθούν δεδομένα ταυτοποίησης.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Η εγκατάσταση απέτυχε</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">Η εγκατάσταση διακόπηκε</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">Η εγκατάσταση του ${bts.package.[${bts.var.package.current}].name} δεν ολοκληρώθηκε με επιτυχία. Το σύστημα μπορεί να μην προστατεύεται από απειλές υπολογιστή. Για να εγκαταστήσετε το ${bts.package.[${bts.var.package.current}].name} στον υπολογιστή σας, εκτελέστε ξανά την εγκατάσταση.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Σφάλμα εγκατάστασης &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">Η εγκατάσταση διακόπηκε από το χρήστη</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">Η εγκατάσταση του ${bts.package.[${bts.var.package.default}].name} διακόπηκε από το χρήστη. Για να εγκαταστήσετε το ${bts.package.[${bts.var.package.default}].name} στον υπολογιστή σας, εκτελέστε ξανά την εγκατάσταση.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">Η εγκατάσταση δεν ολοκληρώθηκε με επιτυχία</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">Αυτό μπορεί να οφείλεται σε δραστηριότητα κακόβουλου λογισμικού. Για να ελέγξετε το σύστημα για πιθανές απειλές, συνιστάται να εκτελέσετε ένα &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;Ειδικό εργαλείο καθαρισμού&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Ο χώρος δίσκου εξαντλήθηκε</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">Ο χώρος στο δίσκο δεν επαρκεί στον τόμο %1% για τη λήψη και την έναρξη εγκατάστασης του ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Βεβαιωθείτε ότι έχετε τουλάχιστον %2!d! MB ελεύθερο χώρο στο δίσκο και κάντε κλικ στο &lt;i&gt;Νέα προσπάθεια&lt;/i&gt; για να ελέγξετε τον διαθέσιμο χώρο ξανά και να συνεχίσετε τη λήψη, ή κάντε κλικ στο &lt;i&gt;Κλείσιμο&lt;/i&gt; για έξοδο από την εγκατάσταση.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Ο χώρος δίσκου εξαντλήθηκε</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">Ο χώρος στο δίσκο δεν επαρκεί στον τόμο %1% για την ολοκλήρωση της εγκατάστασης του ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Βεβαιωθείτε ότι έχετε τουλάχιστον %2!d! MB ελεύθερο χώρο στο δίσκο και κάντε κλικ στο &lt;i&gt;Νέα προσπάθεια&lt;/i&gt; για να ελέγξετε τον διαθέσιμο χώρο ξανά και να συνεχίσετε την εγκατάσταση, ή κάντε κλικ στο &lt;i&gt;Κλείσιμο&lt;/i&gt; για έξοδο από την εγκατάσταση.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Σφάλμα σύνδεσης</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Αδυναμία σύνδεσης με το διακομιστή. Ελέγξτε τη σύνδεση δικτύου σας και προσπαθήστε ξανά.&lt;br&gt;&lt;br&gt;Εάν εξακολουθείτε να αντιμετωπίζετε προβλήματα, επισκεφτείτε τη διεύθυνση &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; για λήψη του προγράμματος εγκατάστασης εκτός σύνδεσης.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Σφάλμα λήψης</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Παρουσιάστηκε ένα σφάλμα κατά τη λήψη δεδομένων από το διακομιστή. Ελέγξτε τη σύνδεση δικτύου και προσπαθήστε ξανά.&lt;br&gt;&lt;br&gt;Εάν εξακολουθείτε να αντιμετωπίζετε προβλήματα, επισκεφτείτε τη διεύθυνση &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; για λήψη του προγράμματος εγκατάστασης εκτός σύνδεσης.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Σφάλμα λήψης</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Δεν βρέθηκε πακέτο εγκατάστασης στο διακομιστή. Μεταβείτε στη διεύθυνση &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; για να πραγματοποιήσετε λήψη του προγράμματος εγκατάστασης χωρίς σύνδεση.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Εσωτερικό σφάλμα</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Παρουσιάστηκε ένα εσωτερικό σφάλμα. Προσπαθήστε ξανά για να ξεκινήσετε πάλι την εγκατάσταση.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Μη έγκυρη απόκριση</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Λήφθηκε μη έγκυρη απόκριση από το διακομιστή.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Δεν βρέθηκε συμβατό πακέτο</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Δεν υπάρχει διαθέσιμο συμβατό πακέτο εγκατάστασης στο διακομιστή. Επισκεφτείτε τη διεύθυνση &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; για λήψη του προγράμματος εγκατάστασης εκτός σύνδεσης.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Σφάλμα σύνδεσης</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Δεν είναι δυνατή η σύνδεση με το διακομιστή. Ελέγξτε τη σύνδεση δικτύου σας και προσπαθήστε ξανά. Σε περίπτωση που χρησιμοποιείτε διακομιστή μεσολάβησης, αλλάξτε τις &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;ρυθμίσεις διακομιστή μεσολάβησης&lt;/a&gt; &lt;br&gt;&lt;br&gt;Εάν εξακολουθείτε να αντιμετωπίζετε προβλήματα, επισκεφτείτε τη διεύθυνση &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; για λήψη του προγράμματος εγκατάστασης εκτός σύνδεσης.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Η πιο πρόσφατη έκδοση είναι ήδη εγκατεστημένη</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">Η πιο πρόσφατη έκδοση του ${bts.package.[${bts.var.package.default}].name} είναι ήδη εγκατεστημένη σε αυτό τον υπολογιστή.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Μη συμβατό πακέτο</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Αυτό το πακέτο εγκατάστασης προορίζεται για λειτουργικά συστήματα 64-bit. Χρησιμοποιήστε πακέτο εγκατάστασης για λειτουργικά συστήματα 32-bit.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Μη συμβατό πακέτο</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Αυτό το πακέτο εγκατάστασης προορίζεται για λειτουργικά συστήματα 32-bit. Χρησιμοποιήστε πακέτο εγκατάστασης για λειτουργικά συστήματα 64-bit.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Δεν αποτελεί προϊόν διακομιστή</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">Το ${bts.package.[${bts.var.package.current}].name} δεν προορίζεται για λειτουργικά συστήματα διακομιστή. Κάντε λήψη και εγκατάσταση ενός προϊόντος διακομιστή από τη διεύθυνση &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">Δεν αποτελεί προϊόν προγράμματος-πελάτη</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">Το ${bts.package.[${bts.var.package.current}].name} δεν προορίζεται για λειτουργικά συστήματα διακομιστή. Κάντε λήψη και εγκατάσταση ενός προϊόντος προγράμματος-πελάτη από τη διεύθυνση &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Εγκαταστάθηκε μη συμβατό προϊόν</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Ένα μη συμβατό προϊόν {PRODUCT} έχει ήδη εγκατασταθεί. Απεγκαταστήστε το χειροκίνητα και ξεκινήστε την εγκατάσταση ξανά.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Μη συμβατό λειτουργικό σύστημα</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">Το ${bts.package.[${bts.var.package.current}].name} δεν προορίζεται για τα λειτουργικά συστήματά σας. Κάντε λήψη και εγκατάσταση ενός προϊόντος από τη διεύθυνση &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Το πακέτο δεν βρέθηκε</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">Δεν βρέθηκε το πακέτο εγκατάστασης ${bts.package.[${bts.var.package.current}].name} (${bts.package.[${bts.var.package.current}].file}).</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Η εξαγωγή του πακέτου απέτυχε</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">Η εξαγωγή του ${bts.package.[${bts.var.package.current}].name} απέτυχε.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">Η εγκατάσταση του ${bts.package.[${bts.var.package.current}].name} δεν ολοκληρώθηκε με επιτυχία. Το σύστημα μπορεί να μην προστατεύεται από απειλές υπολογιστή. Για να εγκαταστήσετε το ${bts.package.[${bts.var.package.current}].name} στον υπολογιστή σας, εκτελέστε ξανά την εγκατάσταση.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Ανεπαρκή δικαιώματα για την εγκατάσταση του προϊόντος</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">Έχετε μη επαρκή δικαιώματα για να εγκαταστήσετε το ${bts.package.[${bts.var.package.current}].name}. Για να εγκαταστήσετε το ${bts.package.[${bts.var.package.current}].name} στον υπολογιστή σας, εκτελέστε ξανά την εγκατάσταση ως διαχειριστής.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Κωδικός σφάλματος: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Αυτή η ενέργεια θα κλείσει επίσης τον οδηγό εγκατάστασης. Είστε βέβαιοι ότι θέλετε να συμβεί αυτό;</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Ρύθμιση διακομιστή μεσολάβησης</string>
+  <string name="IDS_ELI_PROXY_TEXT2">Ο διακομιστής μεσολάβησης απαιτεί έλεγχο ταυτότητας</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Διακομιστής μεσολάβησης:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Θύρα:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Όνομα χρήστη:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Κωδικός πρόσβασης:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Χρησιμοποιώ διακομιστή μεσολάβησης</string>
+  
+</resources>

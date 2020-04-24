@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Українською" lcid="0422">
+  <string name="IDS_HELP">Довідка</string>
+	<string name="IDS_BUTTON_YES">Так</string>
+	<string name="IDS_BUTTON_NO">Ні</string>
+	<string name="IDS_BUTTON_ACCEPT">Прийняти</string>
+	<string name="IDS_BUTTON_DECLINE">Відхилити</string>
+	<string name="IDS_BUTTON_CONTINUE">Продовжити</string>
+	<string name="IDS_BUTTON_IGNORE">Пропустити</string>
+	<string name="IDS_BUTTON_BACK">Назад</string>
+	<string name="IDS_BUTTON_NEXT">Далі</string>
+	<string name="IDS_BUTTON_CANCEL">Скасувати</string>
+	<string name="IDS_BUTTON_CLOSE">Закрити</string>
+	<string name="IDS_BUTTON_REMOVE">Видалити</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Перезапустити зараз</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Перезапустити пізніше</string>
+	<string name="IDS_BUTTON_RETRY">Повторити спробу</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Перервати</string>
+	<string name="IDS_BUTTON_INSTALL">Інсталювати</string>
+  <string name="IDS_BUTTON_PRINT">Друк</string>
+  <string name="IDS_BUTTON_SAVE">Зберегти</string>
+  <string name="IDS_BUTTON_DONE">Готово</string>
+  <string name="IDS_BUTTON_BROWSE">Огляд...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Відновити параметри за замовчуванням</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Переривання&lt;/h3&gt; Очікується завершення поточної операції</string>
+	<string name="IDS_MSGBOX_CLOSE">При цьому також буде закрито майстер інсталяції. Справді продовжити?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Вибрати шлях</string>  
+</resources>

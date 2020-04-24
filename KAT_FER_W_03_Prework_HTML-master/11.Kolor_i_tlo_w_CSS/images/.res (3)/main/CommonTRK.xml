@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Türkçe" lcid="041f">
+  <string name="IDS_HELP">Yardım</string>
+	<string name="IDS_BUTTON_YES">Evet</string>
+	<string name="IDS_BUTTON_NO">Hayır</string>
+	<string name="IDS_BUTTON_ACCEPT">Kabul Ediyorum</string>
+	<string name="IDS_BUTTON_DECLINE">Kabul Etmiyorum</string>
+	<string name="IDS_BUTTON_CONTINUE">Devam Et</string>
+	<string name="IDS_BUTTON_IGNORE">Yoksay</string>
+	<string name="IDS_BUTTON_BACK">Geri</string>
+	<string name="IDS_BUTTON_NEXT">Sonraki</string>
+	<string name="IDS_BUTTON_CANCEL">İptal</string>
+	<string name="IDS_BUTTON_CLOSE">Kapat</string>
+	<string name="IDS_BUTTON_REMOVE">Kaldır</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Şimdi yeniden başlat</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Daha sonra yeniden başlat</string>
+	<string name="IDS_BUTTON_RETRY">Tekrar dene</string>
+	<string name="IDS_BUTTON_OK">Tamam</string>
+	<string name="IDS_BUTTON_ABORT">İptal</string>
+	<string name="IDS_BUTTON_INSTALL">Yükle</string>
+  <string name="IDS_BUTTON_PRINT">Yazdır...</string>
+  <string name="IDS_BUTTON_SAVE">Kaydet</string>
+  <string name="IDS_BUTTON_DONE">Bitti</string>
+  <string name="IDS_BUTTON_BROWSE">Gözat...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Varsayılan ayarlara sıfırla</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;İptal ediliyor&lt;/h3&gt; Çalışmakta olan işlemin tamamlanması bekleniyor</string>
+	<string name="IDS_MSGBOX_CLOSE">Bu işlem, kurulum sihirbazını kapatır. Bunu yapmak istediğinizden emin misiniz?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Yol seç</string>  
+</resources>

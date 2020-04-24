@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="日本語" lcid="0411">
+  <string name="IDS_HELP">ヘルプ</string>
+	<string name="IDS_BUTTON_YES">はい</string>
+	<string name="IDS_BUTTON_NO">いいえ</string>
+	<string name="IDS_BUTTON_ACCEPT">同意します</string>
+	<string name="IDS_BUTTON_DECLINE">同意しない</string>
+	<string name="IDS_BUTTON_CONTINUE">続行</string>
+	<string name="IDS_BUTTON_IGNORE">無視</string>
+	<string name="IDS_BUTTON_BACK">戻る</string>
+	<string name="IDS_BUTTON_NEXT">次へ</string>
+	<string name="IDS_BUTTON_CANCEL">キャンセル</string>
+	<string name="IDS_BUTTON_CLOSE">閉じる</string>
+	<string name="IDS_BUTTON_REMOVE">削除</string>
+	<string name="IDS_BUTTON_RESTARTNOW">今すぐ再起動</string>
+	<string name="IDS_BUTTON_RESTARTLATER">後で再起動</string>
+	<string name="IDS_BUTTON_RETRY">再試行</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">中止</string>
+	<string name="IDS_BUTTON_INSTALL">インストール</string>
+  <string name="IDS_BUTTON_PRINT">印刷</string>
+  <string name="IDS_BUTTON_SAVE">保存</string>
+  <string name="IDS_BUTTON_DONE">完了</string>
+  <string name="IDS_BUTTON_BROWSE">参照</string>
+  <string name="IDS_BUTTON_DEFAULTS">既定値にリセット</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;中止しています&lt;/h3&gt; 実行中の処理が完了するまでお待ちください。</string>
+	<string name="IDS_MSGBOX_CLOSE">この操作はインストールウィザードを終了します。終了しますか？</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">パスを選択</string>  
+</resources>

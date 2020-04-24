@@ -1,0 +1,13 @@
+// Zadanie 6
+
+@mixin changeColors ($color) {
+  background-color: $color;
+  &:hover {
+    background-color: lighten($color, 50);
+  }
+
+}
+
+.section-2 {
+  @include changeColors(#000000);
+}

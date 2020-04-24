@@ -1,0 +1,37 @@
+@font-face{
+    font-family: 'Indie Flower';
+    src: url('../fonts/indie/subset-IndieFlower.eot');
+    src: local('Indie Flower'), local('IndieFlower'),
+    url('../fonts/indie/subset-IndieFlower.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/indie/subset-IndieFlower.woff2') format('woff2'),
+    url('../fonts/indie/subset-IndieFlower.woff') format('woff'),
+    url('../fonts/indie/subset-IndieFlower.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/lato/subset-Lato-Regular.eot');
+    src: local('Lato Regular'), local('Lato-Regular'),
+    url('../fonts/latofonts/latosubset-Lato-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/lato/subset-Lato-Regular.woff2') format('woff2'),
+    url('../fonts/lato/subset-Lato-Regular.woff') format('woff'),
+    url('../fonts/lato/subset-Lato-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'alex_brushregular';
+    src: url('../fonts/brush/alexbrush-regular.woff2') format('woff2'),
+    url('../fonts/brush/alexbrush-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*{
+    font-family: Lobster, cursive;
+}
+div {
+    font-family: alex_brushregular, Arial, sans-serif;}

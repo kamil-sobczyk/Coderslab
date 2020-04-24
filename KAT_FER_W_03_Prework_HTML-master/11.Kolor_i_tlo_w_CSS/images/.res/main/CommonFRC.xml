@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Français (Canada)" lcid="0C0C">
+  <string name="IDS_HELP">Aide</string>
+	<string name="IDS_BUTTON_YES">Oui</string>
+	<string name="IDS_BUTTON_NO">Non</string>
+	<string name="IDS_BUTTON_ACCEPT">J’accepte</string>
+	<string name="IDS_BUTTON_DECLINE">Je refuse</string>
+	<string name="IDS_BUTTON_CONTINUE">Continuer</string>
+	<string name="IDS_BUTTON_IGNORE">Ignorer</string>
+	<string name="IDS_BUTTON_BACK">Précédent</string>
+	<string name="IDS_BUTTON_NEXT">Suivant</string>
+	<string name="IDS_BUTTON_CANCEL">Annuler</string>
+	<string name="IDS_BUTTON_CLOSE">Fermer</string>
+	<string name="IDS_BUTTON_REMOVE">Supprimer</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Redémarrer maintenant</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Redémarrer plus tard</string>
+	<string name="IDS_BUTTON_RETRY">Essayer de nouveau</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Abandonner</string>
+	<string name="IDS_BUTTON_INSTALL">Installer</string>
+  <string name="IDS_BUTTON_PRINT">Imprimer</string>
+  <string name="IDS_BUTTON_SAVE">Enregistrer</string>
+  <string name="IDS_BUTTON_DONE">Terminer</string>
+  <string name="IDS_BUTTON_BROWSE">Parcourir</string>
+  <string name="IDS_BUTTON_DEFAULTS">Restaurer les paramètres par défaut</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Abandon en cours&lt;/h3&gt; Veuillez patienter pendant que l&apos;action en cours se termine</string>
+	<string name="IDS_MSGBOX_CLOSE">Cette action fermera l&apos;Assistant d&apos;installation. Voulez-vous continuer?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Sélectionner le chemin</string>  
+</resources>

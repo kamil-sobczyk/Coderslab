@@ -1,0 +1,32 @@
+.parent{
+    border: 2px solid green;
+    width: 200px;
+    height: 200px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+}
+.box1{
+    background: blue;
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    z-index: 2;
+}
+.box2{
+    background: green;
+    position: relative;
+    bottom: 40px;
+    right: 40px;
+    z-index: 1;
+}
+.box3{
+    background: red;
+    position: relative;
+    bottom: 80px;
+    right: 80px;
+}
+
+

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="עברית" lcid="040d">
+	<string name="IDS_ELI_LIVE_INSTALLER">Live Installer</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">ברוך הבא|הסכם רשיון|AV Remover|התקנה|סיום</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security Premium</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">מאתחל...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">מחשב זה ינוהל על ידי ESET Remote Administrator</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">הרכיבים הבאים נכללים במתקין</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">רישיון:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">שרת:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">קבוצה:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">תצורה:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">מכין חבילת התקנה...</string>
+  <string name="IDS_ELI_CALC_TEXT01">מחשב שטח זמין...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">עדכון ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">התקן עדכון חינמי זה כדי להישאר מוגן</string>
+  <string name="IDS_ELI_UPDATE_TEXT">יש לעדכן את ${bts.package.[0].name} כדי שיהיה תואם ל-Windows 10. לא ניתן להעביר את הגרסה שהותקנה בעבר אל Windows 10.   כדי להישאר מוגן, ניתן להוריד את הגרסה החדשה ביותר של מוצר זה ולהתקין אותה באופן אוטומטי.&lt;BR&gt;&lt;BR&gt;עדכון זה הוא בחינם והרישיון וההגדרות שלך יישמרו.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">הזכר לי מאוחר יותר</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">התקן את ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">אנטי-וירוס מהיר ורב-עוצמה</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">אתה מוזמן ליהנות מגלישה, ממשחק ומיצירת קשרים בטוחים יותר באמצעות ההגנה המהירה ורבת-העוצמה של ${bts.package.[0].name}. הפתרון מגן מפני מגוון רחב של איומים אינטרנטיים. </string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">התקן את ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">אבטחת אינטרנט מקיפה</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">אתה מוזמן ליהנות משימוש במחשב לעבודה, למשחקים וליצירת קשרים - ולהיות מוגן באמצעות ${bts.package.[0].name}. הפתרון משלב הגנה בפני תוכנות זדוניות באמצעות אנטי ספאם, חומת אש אישית ובקרת הורים.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">התקן את ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">אבטחת אינטרנט מקיפה</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">אתה מוזמן ליהנות משימוש במחשב לעבודה, למשחקים וליצירת קשרים - ולהיות מוגן באמצעות ${bts.package.[0].name}. הפתרון משלב הגנה בפני תוכנות זדוניות באמצעות אנטי ספאם, חומת אש אישית ובקרת הורים.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">התקן את ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">אבטחת אינטרנט מקיפה</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">אתה מוזמן ליהנות משימוש במחשב לעבודה, למשחקים וליצירת קשרים - ולהיות מוגן באמצעות ${bts.package.[0].name}. הפתרון משלב הגנה בפני תוכנות זדוניות באמצעות אנטי ספאם, חומת אש אישית ובקרת הורים.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">התקן את ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">אתה מוזמן ליהנות משימוש במחשב לעבודה, למשחקים וליצירת קשרים - ולהיות מוגן באמצעות ESET.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">התקן את ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">הגנה בסיסית אך מתקדמת על העסק שלך</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name}, שמחים להציג את טכנולוגיית הזיהוי של ESET, NOD32®, המעניקה לעסק שלך הגנה בסיסית ומתקדמת. יחד עם זאת, זוהי הגנה קלה והיא משולבת עם המערכת מבוססת הענן שלנו לניהול מוניטין. ניתן לשלוט בה בקלות באמצעות המסוף האינטרנטי והידידותי למשתמש שעוצב מחדש של ESET Remote Administrator.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">התקן את ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">חבילת האבטחה המתקדמת והשלמה שלך</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} היא חבילת האבטחה המתקדמת והשלמה שלך, והיא מעניקה לך הגנה כוללת, רב-שכבתית, מפני סוגים שונים של תוכנות זדוניות. דרישות המערכת שלה נמוכות, ותוכל ליהנות מתמיכה בווירטואליזציה ופיקוח עליה באמצעות המסוף האינטרנטי המחודש והידידותי למשתמש של ESET Remote Administrator.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">ברצוני להסיר אפליקציות אנטי-וירוס לא רצויות באמצעות AV Remover של ESET</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">גרסה חדשה יותר של מוצר זה זמינה באופן מקוון וניתן להוריד ולהתקין אותה באופן אוטומטי במקום הגרסה המותקנת.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">התקן גרסה חדשה יותר</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} אינו תומך בגרסה לא מעודכנת זו של Microsoft Windows. הגרסה התואמת העדכנית ביותר של {{IDS_ELI_PRODUCT_NAME_ESS}} תותקן.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} אינו תומך באופן מלא בגרסה לא מעודכנת זו של Microsoft Windows. תוכל להמשיך בהתקנה אך ייתכנו בעיות.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">הסכם רישיון למשתמש קצה</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">הסכם רישיון למשתמש קצה - %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">טקסט (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">אני מקבל</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">אינני מקבל</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">יש עוצמה במספרים, קבל את רמת ההגנה הגבוהה ביותר.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">מערכת המשוב של ESET LiveGrid® מאפשרת לנו לאסוף מידע אודות אובייקטים חשודים, אותם אנו מעבדים באופן אוטומטי כדי ליצור מנגנוני איתור במערכת הענן שלנו. לאחר מכן אנו מיישמים אותם מיידית כדי להבטיח שהלקוחות שלנו יקבלו את רמת ההגנה המקסימלית.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">אפשר את מערכת המשוב של ESET LiveGrid® (מומלץ)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">עזור לנו לספק לך את האבטחה הטובה ביותר.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">מערכת המשוב של ESET LiveGrid® משתמשת בלמעלה מ-100 מיליון חיישנים ברחבי העולם שמאפשרים לנו לאסוף מידע על אובייקטים חשודים, שאותם אנו מעבדים באופן אוטומטי כדי ליצור מנגנוני איתור במערכת מבוססת הענן שלנו לניהול מוניטין. לאחר מכן אנו מיישמים אותם מיידית כדי להבטיח שתקבל את רמת ההגנה המקסימלית.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">הגדרות הגנה</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">איתור אפליקציות שעלולות להיות לא רצויות</string>
+  <string name="IDS_ELI_PUA_QUESTION01">מהי אפליקציה שעלולה להיות לא רצויה?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">למה אנו שואלים?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET יכולה לזהות אפליקציות שעלולות להיות לא רצויות ולבקש אישור לפני התקנתן. אפליקציות שעלולות להיות לא רצויות עשויות שלא להוות סיכון אבטחה אך הן עלולות להשפיע על הביצועים, המהירות והאמינות של המחשב או לגרום לשינויים בהתנהגותו. הן מצריכות בדרך-כלל את אישור המשתמש לפני התקנתן.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;לדוגמה,&lt;/b&gt; הן עלולות לשנות את דף הבית ואת הגדרות החיפוש.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;הערה: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET יכולה לזהות אפליקציות שעלולות להיות לא רצויות ולבקש אישור לפני התקנתן. אפליקציות שעלולות להיות לא רצויות עשויות שלא להוות סיכון אבטחה אך הן &lt;b&gt;עלולות להשפיע על:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;הביצועים&lt;/li&gt;&lt;li&gt;המהירות&lt;/li&gt;&lt;li&gt;האמינות&lt;/li&gt;&lt;li&gt;וההתנהגות של המחשב&lt;/li&gt;&lt;/ul&gt;הן מצריכות בדרך-כלל את אישור המשתמש לפני התקנתן.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">בחר אפשרות לפני שתמשיך:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">בטל איתור אפליקציות העלולות להיות לא רצויות</string>
+  <string name="IDS_ELI_PUA_ENABLE1">אפשר איתור אפליקציות העלולות להיות לא רצויות</string>
+  <string name="IDS_ELI_PUA_DISABLE2">אל תאתר אפליקציות העלולות להיות לא רצויות</string>
+  <string name="IDS_ELI_PUA_ENABLE2">אתר אפליקציות העלולות להיות לא רצויות</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">שנה תיקיית התקנה</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">בחר תיקיית התקנה</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">תיקיית מוצר:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">אני רוצה לציין תיקיות שונות עבור קבצים המשתנים לעתים תכופות</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">תיקיית מודולים:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">תיקיית נתונים:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">נבחרה תיקיה לא חוקית.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">התקנה בתהליך</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">סורק</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">נמצאו מוצרי אבטחה אחרים</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">מוצרי אבטחה אחרים קיימים במערכת או שהם לא הוסרו במלואם. הפעלת שני פתרונות אבטחה במקביל עלול לגרום לאי יציבות.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">מחפש אחר אפליקציות אפשריות העלולות להתנגש...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">כיצד להסיר את ההתקנה של תוכנות אנטי-וירוס אחרות</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">מנקה מומחה</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">מנקה מומחה נועד להסיר תוכנות זדוניות מהמחשב שלך. יישום זה עלול לגרום לבעיות ביציבות ומומלץ למשתמשים מתקדמים בלבד.&lt;br&gt;לקבלת מידע נוסף, בקר ב&lt;a {{IDS_KB_SPECLEN_LINK}}&gt;מאגר הידע&lt;/a&gt; שלנו.&lt;br&gt;&lt;br&gt;האם אתה בטוח שברצונך להפעיל את המנקה?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;מוריד מנקה מומחה...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;המנקה המומחה פועל.&lt;b&gt;&lt;br/&gt;נא המתן...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">לא נמצאה תוכנה זדונית במערכת.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">תוכנה זדונית זוהתה והוסרה מהמערכת.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">זוהתה תוכנה זדונית במערכת.&lt;br&gt;פנה לשירות הלקוחות שלנו להוראות הסרה.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">זוהתה תוכנה זדונית במערכת. נדרש אתחול כדי לסיים את הניקוי.&lt;br&gt;נא שים לב שייתכנו מספר אתחולים.&lt;br&gt;&lt;br&gt;אם להמשיך באתחול?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">המנקה המומחה יצא באופן בלתי צפוי&lt;br&gt;פנה לשירות הלקוחות שלנו לקבלת סיוע.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">מוריד...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">מוריד...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">מוריד את %1...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">התקנה בתהליך</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">מתקין...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">מתקין את %1...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">האם אתה בטוח שברצונך לבטל את התקנת ${bts.package.[0].name}?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">ההתקנה בוצעה בהצלחה</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[0].name} הותקן בהצלחה במחשב שלך. המחשב שלך ייסרק בקביעות בפני וירוסים ותוכנות זדוניות. &lt;br&gt; &lt;br&gt; לחץ על &lt;i&gt;סיים&lt;/i&gt; כדי להשלים את התקנת המוצר ולהתחיל בתהליך ההפעלה.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[0].name} הותקן בהצלחה במחשב שלך. המחשב שלך ייסרק בקביעות בפני וירוסים ותוכנות זדוניות.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    למד אודות אבטחה: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;מאגר הידע של ESET&lt;/a&gt;
+    &lt;br&gt;
+    צור קשר עם ESET:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">פתח סקר</string>
+  <string name="IDS_ELI_MUNI_TITLE">סקר אבטחה</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET עורכת מחקר בשיתוף עם אוניברסיטת מסריק, המתמקד בהתנהגות האבטחה של המשתמשים.&lt;br&gt; עזור לנו ומלא סקר קצר זה.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt; תגובותיך יעזרו לנו לשפר את האבטחה הכוללת של מוצרי ESET.&lt;/b&gt;&lt;br&gt;בכך שתמלא סקר זה, אתה מסכים שכל התכנים עשויים להיות מנותחים על-ידי חוקרים מאוניברסיטת מסריק, אך הנתונים שלך ישמשו למטרות סטטיסטיות בלבד. לא ייאסף מידע המאפשר לזהות אותך.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">ההתקנה נכשלה</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">ההתקנה הופסקה</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">התקנת ${bts.package.[0].name} לא הושלמה בהצלחה. המערכת עלולה לא להיות מוגנת מפני איומי מחשב. כדי להתקין את ${bts.package.[0].name} במחשב שלך, הפעל שוב את ההתקנה.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;שגיאת התקנה &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">ההתקנה הופסקה על-ידי המשתמש</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">התקנת ${bts.package.[0].name} הופסקה על-ידי המשתמש. כדי להתקין את ${bts.package.[0].name} במחשב שלך, הפעל שוב את ההתקנה.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">ההתקנה לא הושלמה בהצלחה</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">דבר זה יכול להיות כתוצאה מפעילות של תוכנה זדונית. כדי לבדוק הימצאות איומים פוטנציאליים במערכת, מומלץ להפעיל &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;מנקה מומחה&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">אין שטח דיסק פנוי</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">אין די שטח דיסק פנוי באמצעי האחסון %1% כדי להוריד ולהתחיל בהתקנת ${bts.package.[0].name}.&lt;br&gt;&lt;br&gt;ודא שיש ברשותך %2!d! MB פנויים לפחות ולחץ על &lt;i&gt;נסה שנית&lt;/i&gt; כדי לבדוק אחר שטח פנוי ולהמשיך בהורדה או לחץ על &lt;i&gt;סגור&lt;/i&gt; כדי לצאת מההתקנה.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">אין שטח דיסק פנוי</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">אין די שטח דיסק פנוי באמצעי האחסון %1% כדי להשלים את התקנת ${bts.package.[0].name}.&lt;br&gt;&lt;br&gt;ודא שיש ברשותך %2!d! MB פנויים לפחות ולחץ על &lt;i&gt;נסה שנית&lt;/i&gt; כדי לבדוק אחר שטח פנוי ולהמשיך בהתקנה או לחץ על &lt;i&gt;סגור&lt;/i&gt; כדי לצאת מההתקנה.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">שגיאת חיבור</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">אין אפשרות להתחבר לשרת. בדוק את החיבור לרשת ונסה שוב.&lt;br&gt;&lt;br&gt;אם אתה עדיין נתקל בבעיות, בקר באתר האינטרנט &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; כדי להוריד מתקין לא מקוון.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">שגיאת הורדה</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">אירעה שגיאה במהלך הורדת נתונים מהשרת. בדוק את החיבור לרשת ונסה שוב.&lt;br&gt;&lt;br&gt;אם אתה עדיין נתקל בבעיות, בקר באתר האינטרנט &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; כדי להוריד מתקין לא מקוון.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">שגיאת הורדה</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">לא נמצאה חבילת התקנה בשרת. בקר באתר &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; כדי להוריד את המתקין הלא מקוון.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">שגיאה פנימית</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">אירעה שגיאה פנימית. נסה שוב כדי להתחיל בהתקנה.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">תגובה לא חוקית</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">קלט תגובה לא חוקי מהשרת.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">לא נמצאה חבילה תואמת</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">אין חבילה תואמת זמינה בשרת. בקר באתר האינטרנט &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; כדי להוריד מתקין לא מקוון.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">שגיאת חיבור</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">אין אפשרות להתחבר לשרת. בדוק את החיבור לרשת ונסה שוב. אם אתה משתמש בשרת Proxy, שנה את &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;הגדרות שרת ה-Proxy שלך&lt;/a&gt;. &lt;br&gt;&lt;br&gt;אם אתה עדיין נתקל בבעיות, בקר באתר האינטרנט&lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; כדי להוריד מתקין לא מקוון.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">הגרסה העדכנית ביותר מותקנת כבר</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">הגרסה העדכנית ביותר של ${bts.package.[0].name} מותקנת כבר במחשב זה.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">חבילה לא תואמת</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">חבילת התקנה זו מיועדת למערכות הפעלה של 64 סיביות. השתמש בחבילת התקנה עבור מערכות הפעלה של 32 סיביות.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">חבילה לא תואמת</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">חבילת התקנה זו מיועדת למערכות הפעלה של 32 סיביות. השתמש בחבילת התקנה עבור מערכות הפעלה של 64 סיביות.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">לא מוצר עבור שרתים</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">${bts.package.[0].name} אינו מיועד למערכות הפעלה של שרתים. הורד והתקן מוצר לשרתים מאתר האינטרנט &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">לא מוצר לקוח</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">${bts.package.[0].name} אינו מיועד למערכות הפעלה של לקוחות. הורד והתקן מוצר ללקוחות מאתר האינטרנט &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">הותקן מוצר לא תואם</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">מותר {PRODUCT} לא תואם מותקן כבר. הסר את ההתקנה שלו באופן ידני והפעל את ההתקנה שוב.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">מערכת הפעלה לא תואמת</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">${bts.package.[0].name} אינו מיועד למערכת ההפעלה שלך. הורד והתקן מוצר מאתר האינטרנט &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">החבילה לא נמצאה</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">חבילת ההתקנה ${bts.package.[${bts.var.package.current}].name} (${bts.package.[${bts.var.package.current}].file}) לא נמצאה.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">חילוץ הקבצים מהחבילה נכשל</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">חילוץ הקבצים מ-${bts.package.[${bts.var.package.current}].name} נכשל.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">התקנת ${bts.package.[0].name} לא הושלמה בהצלחה. המערכת עלולה לא להיות מוגנת מפני איומי מחשב. כדי להתקין את ${bts.package.[0].name} במחשב שלך, הפעל שוב את ההתקנה.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">אין הרשאות מספיקות להתקנת המוצר</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">אין לך הרשאות מספיקות כדי להתקין את ${bts.package.[0].name}. כדי להתקין את ${bts.package.[0].name} במחשב שלך, הפעל שוב את ההתקנה או פנה למנהל המערכת.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">קוד שגיאה: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">פעולה זו תסגור גם את אשף ההתקנה. האם אתה בטוח שברצונך לעשות זאת?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">הגדרת שרת Proxy</string>
+  <string name="IDS_ELI_PROXY_TEXT2">שרת ה-Proxy דורש אימות</string>
+  <string name="IDS_ELI_PROXY_TEXT3">שרת Proxy:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">יציאה:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">שם משתמש:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">סיסמה:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">אני משתמש בשרת Proxy</string>
+  
+</resources>

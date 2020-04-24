@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Srpski (latinica)" lcid="081a">
+  <string name="IDS_HELP">Pomoć</string>
+	<string name="IDS_BUTTON_YES">Da</string>
+	<string name="IDS_BUTTON_NO">Ne</string>
+	<string name="IDS_BUTTON_ACCEPT">Prihvati</string>
+	<string name="IDS_BUTTON_DECLINE">Odbij</string>
+	<string name="IDS_BUTTON_CONTINUE">Nastavi</string>
+	<string name="IDS_BUTTON_IGNORE">Zanemari</string>
+	<string name="IDS_BUTTON_BACK">Nazad</string>
+	<string name="IDS_BUTTON_NEXT">Dalje</string>
+	<string name="IDS_BUTTON_CANCEL">Otkaži</string>
+	<string name="IDS_BUTTON_CLOSE">Zatvori</string>
+	<string name="IDS_BUTTON_REMOVE">Ukloni</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Ponovo pokreni odmah</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Ponovo pokreni kasnije</string>
+	<string name="IDS_BUTTON_RETRY">Pokušaj opet</string>
+	<string name="IDS_BUTTON_OK">U redu</string>
+	<string name="IDS_BUTTON_ABORT">Odustani</string>
+	<string name="IDS_BUTTON_INSTALL">Instaliraj</string>
+  <string name="IDS_BUTTON_PRINT">Odštampaj</string>
+  <string name="IDS_BUTTON_SAVE">Sačuvaj</string>
+  <string name="IDS_BUTTON_DONE">Gotovo</string>
+  <string name="IDS_BUTTON_BROWSE">Pregledanje...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Vrati na podrazumevano</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Otkazivanje&lt;/h3&gt; Čeka se dovršavanje pokrenute radnje</string>
+	<string name="IDS_MSGBOX_CLOSE">Ova radnja će zatvoriti i čarobnjak za instalaciju. Da li ste sigurni da želite to da uradite?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Izaberite putanju</string>  
+</resources>

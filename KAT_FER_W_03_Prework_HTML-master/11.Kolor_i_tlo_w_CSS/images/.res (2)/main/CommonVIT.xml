@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Tiếng Việt" lcid="042A">
+  <string name="IDS_HELP">Trợ giúp</string>
+	<string name="IDS_BUTTON_YES">Có</string>
+	<string name="IDS_BUTTON_NO">Không</string>
+	<string name="IDS_BUTTON_ACCEPT">Chấp nhận</string>
+	<string name="IDS_BUTTON_DECLINE">Từ chối</string>
+	<string name="IDS_BUTTON_CONTINUE">Tiếp tục</string>
+	<string name="IDS_BUTTON_IGNORE">Bỏ qua</string>
+	<string name="IDS_BUTTON_BACK">Quay lại</string>
+	<string name="IDS_BUTTON_NEXT">Tiếp theo</string>
+	<string name="IDS_BUTTON_CANCEL">Hủy</string>
+	<string name="IDS_BUTTON_CLOSE">Đóng</string>
+	<string name="IDS_BUTTON_REMOVE">Loại bỏ</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Khởi động lại ngay</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Khởi động lại sau</string>
+	<string name="IDS_BUTTON_RETRY">Thử lại</string>
+	<string name="IDS_BUTTON_OK">Ok</string>
+	<string name="IDS_BUTTON_ABORT">Bỏ ngang</string>
+	<string name="IDS_BUTTON_INSTALL">Cài đặt</string>
+  <string name="IDS_BUTTON_PRINT">In</string>
+  <string name="IDS_BUTTON_SAVE">Lưu</string>
+  <string name="IDS_BUTTON_DONE">Xong</string>
+  <string name="IDS_BUTTON_BROWSE">Duyệt</string>
+  <string name="IDS_BUTTON_DEFAULTS">Đặt lại về mặc định</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Bỏ ngang&lt;/h3&gt; Đợi hành động đang chạy kết thúc</string>
+	<string name="IDS_MSGBOX_CLOSE">Hành động này sẽ đóng Trình hướng dẫn. Bạn có chắc muốn đóng Trình hướng dẫn không?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Chọn đường dẫn</string>  
+</resources>

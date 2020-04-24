@@ -1,0 +1,63 @@
+//z wykładowcą
+
+@mixin clearfix($value) {
+  content: 'CLEARFIX';
+  clear: $value;
+  background: pink;
+  display: block;
+}
+
+.test-mixin {
+  div {
+    height: 50px;
+    width: 100px;
+    border: 2px solid green;
+    &.left_box{
+      float:left;
+    }
+    &.right_box {
+      float:right;
+    }
+  }
+  &:after {
+    @include clearfix(both);
+  }
+  &:before {
+    @include clearfix(both);
+  }
+}
+
+
+//zad1
+
+@mixin newBorder($color) {
+  border-top: 10px solid $color;
+  border-right: 1px solid lighten($color, 20%);
+  border-left: 2px dashed darken($color, 20%);
+  border-bottom: 0;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+}
+
+header {
+  @include newBorder(green);
+}
+
+
+//zad2
+
+@mixin arrow($color) {
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid $color;
+  margin-bottom: 10px;
+}
+
+.arrow {
+  @include arrow(blue);
+}
+
+

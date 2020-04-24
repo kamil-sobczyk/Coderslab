@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources langname="Neutral" lcid="1">
+	<string name="IDS_HELP_LINK">${bts.url.help}</string>
+
+  <string name="IDS_HELP_PUA_LINK">type=&quot;help&quot; href=&quot;idh_unwanted_application&quot; </string>
+  <string name="IDS_KB_SPECLEN_LINK">type=&quot;call&quot; href=&quot;liveinstaller.ds.showKb&quot; attributes=&quot;3322&quot;</string>
+	<string name="IDS_KB_PUA_LINK">type=&quot;call&quot; href=&quot;liveinstaller.ds.showKb&quot; attributes=&quot;2629&quot;</string>
+	<string name="IDS_KB_DETECTAV_UNINSTALL">type=&quot;call&quot; href=&quot;liveinstaller.ds.showKb&quot; attributes=&quot;146&quot;</string>
+	<string name="IDS_SPECIALIZED_CLEANER_LINK">type=&quot;call&quot; href=&quot;liveinstaller.ds.promptLaunchSpecializedCleaner&quot;</string>
+	<string name="IDS_OFFLINE_INSTALLER_LINK">type=&quot;web&quot; href=&quot;www.eset.com/download&quot;</string>
+	<string name="IDS_PROXY_SERVER_SETTINGS_LINK">type=&quot;call&quot; href=&quot;liveinstaller.ds.showProxySettings&quot;</string>
+</resources>

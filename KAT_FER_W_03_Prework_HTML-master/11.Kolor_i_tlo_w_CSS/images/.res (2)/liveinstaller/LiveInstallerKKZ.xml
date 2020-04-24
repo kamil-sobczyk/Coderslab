@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Қазақша (Kazakh)" lcid="043f">
+	<string name="IDS_ELI_LIVE_INSTALLER">Live орнатушысы</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Қош келдіңіз|Лицензиялық келісім|AV Remover|Орнату|Аяқтау</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Баптандырылуда...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Бұл компьютерді ESET Remote Administrator басқарады</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">Бұл орнатушыға келесі құрамдастар қосылған</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Лицензия:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Сервер:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Топ:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Конфигурация:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Орнату жиынтығы дайындалуда...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Қол жетімді бос орын есептелуде...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">${bts.package.[0].name} жаңарту</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Қорғалған күйде болу үшін осы тегін жаңартуды орнатыңыз</string>
+  <string name="IDS_ELI_UPDATE_TEXT">Windows 10 жүйесімен үйлесімді болу үшін ${bts.package.[0].name} жаңарту керек. Бұрын орнатылған нұсқаны Windows 10 жүйесіне көшіру мүмкін болмады. Қорғалған күйде қалу үшін осы өнімнің жаңа нұсқасын жүктеуге және автоматты түрде орнатуға болады.&lt;BR&gt;&lt;BR&gt;Жаңарту тегін және лицензия мен параметрлеріңіз сақталады.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Кейінірек есіме салу</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">${bts.package.[0].name} орнату</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Жылдам, қуатты антивирус</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">${bts.package.[0].name} жылдам және қуатты қорғауы арқылы қауіпсіздеу шолуды, ойындарды және қосылуды пайдаланыңыз. Шешім интернет қауіптерінің кең ауқымын жояды.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">${bts.package.[0].name} орнату</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Барлығы бір жерде интернет қауіпсіздігі</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">${bts.package.[0].name} арқылы қорғап, жұмыс істегенде, ойнағанда және қосылғанда компьютерді пайдаланудан ләззат алыңыз. Шешім зиянды бағдарламалардан қорғау мен антиспамды, жеке брандмауэрды және ата-ана бақылауын қамтиды.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">${bts.package.[0].name} орнату</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Барлығы бір жерде интернет қауіпсіздігі</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">${bts.package.[0].name} арқылы қорғап, жұмыс істегенде, ойнағанда және қосылғанда компьютерді пайдаланудан ләззат алыңыз. Шешім зиянды бағдарламалардан қорғау мен антиспамды, жеке брандмауэрды және ата-ана бақылауын қамтиды.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">${bts.package.[0].name} орнату</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Барлығы бір жерде интернет қауіпсіздігі</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">${bts.package.[0].name} арқылы қорғап, жұмыс істегенде, ойнағанда және қосылғанда компьютерді пайдаланудан ләззат алыңыз. Шешім зиянды бағдарламалардан қорғау мен антиспамды, жеке брандмауэрды және ата-ана бақылауын қамтиды.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">${bts.package.[0].name} орнату</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">ESET қорғап тұрып, жұмыс істегенде, ойнағанда және байланыс орнатқанда компьютерді пайдаланудан ләззат алыңыз.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">${bts.package.[0].name} орнату</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Бизнесіңізге арналған кеңейтілген негізгі қорғау</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">Жүлде ұтқан ESET NOD32® анықтау технологиясы бар ${bts.package.[0].name} бизнесіңізге бұлттық репутация жүйесімен толықтырылған, жеңіл, озық негізгі қорғауды қамтамасыз етеді. Толығымен қайта жасақталған, түсінікті ESET Remote Administrator веб-консолі арқылы оны оңай басқарыңыз.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">${bts.package.[0].name} орнату</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Мүмкіндіктері толық, кеңейтілген қауіпсіздік бумасы</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} — зиянкес бағдарламалардың барлық түрлерінен толық, көп қабатты қорғауды қамтамасыз ететін, мүмкіндіктері толық, кеңейтілген қауіпсіздік бумасы. Мүлде жаңа ESET Remote Administrator веб-консолі арқылы жүйеге қойылатын төмен талаптарды, виртуализацияны қолдауды және бақылауды пайдаланыңыз.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">ESET AV Remover қолданбасын пайдаланып қажет емес антивирустық қолданбаларды жойғым келеді</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">Осы өнімнің жаңарақ нұсқасы онлайн қол жетімді және автоматты түрде жүктеліп, қамтылғанның орнына орнатылады.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Жаңарақ нұсқаны орнату</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} бағдарламасы Microsoft Windows жүйесінің осы ескірген нұсқасын қолдамайды. {{IDS_ELI_PRODUCT_NAME_ESS}} бағдарламасының соңғы үйлесімді нұсқасы орнатылады.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} бағдарламасы Microsoft Windows жүйесінің осы ескірген нұсқасын қолдамайды. Орнатуды жалғастыруға болады, бірақ мәселелер орын алады.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Соңғы пайдаланушының лицензиялық келісімі</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Соңғы пайдаланушының лицензиялық келісімі - %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Мәтін (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Қабылдаймын</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">Қабылдамаймын</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Сандарда қуат бар. Қорғаныстың ең жоғары деңгейін алыңыз.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">ESET LiveGrid® кері байланыс жүйесі бізге күдікті нысандар туралы ақпаратты жинауға мүмкіндік береді. Біщ бұл ақпаратты бұлт жүйемізде анықтау механизмдерін жасау үшін автоматты түрде өңдейміз. Содан кейін біз тұтынушыларда ең жоғары қорғау деңгейі болуын қамтамасыз ету үшін бұларды бірден қолданамыз.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">ESET LiveGrid® кері байланыс жүйесін қосу (ұсынылады)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Сізге бұрыннан да жақсырақ қауіпсіздікті қамтамасыз етуге көмектесіңіз.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">ESET LiveGrid® кері байланыс жүйесі бізге күдікті нысандар туралы ақпаратты жинауға мүмкіндік беретін дүние жүзіндегі 100 миллионнан астам сенсорларды пайдаланады. Біз бұл ақпаратты бұлттық репутация жүйемізді пайдаланып анықтау механизмдерін жасау үшін автоматты түрде өңдейміз. Содан кейін біз тұтынушыларда ең жоғары қорғау деңгейі болуын қамтамасыз ету үшін бұларды бірден қолданамыз.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Қорғау параметрлері</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Ықтимал қалаусыз бағдарламаларды анықтау</string>
+  <string name="IDS_ELI_PUA_QUESTION01">Ықтимал қалаусыз бағдарлама дегеніміз не?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">Біз неге сұраймыз?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET &lt;a {{IDS_HELP_PUA_LINK}}&gt;ықтимал қалаусыз бағдарламаларды&lt;/a&gt; анықтай алады және орнатпастан бұрын растауыңызды сұрайды. Ықтимал қалаусыз бағдарламалар қауіпсіздік қатерін тудырмауы мүмкін, бірақ олар компьютердің өнімділігіне, жылдамдығына және сенімділігіне әсер етіп немесе әрекет етуінде өзгерістер пайда болуы мүмкін. Әдетте, олар орнатпастан бұрын пайдаланушының келісімін талап етеді.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;Мысалы,&lt;/b&gt; олар веб-браузердің веб-бет және іздеу параметрлерін өзгертуі мүмкін.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;ЕСКЕРТУ: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET &lt;a {{IDS_HELP_PUA_LINK}}&gt;ықтимал қалаусыз бағдарламаларды&lt;/a&gt; анықтай және орнатылуы алдында растауды сұрай алады. Ықтимал қалаусыз бағдарламалар қауіпсіздік қаупін тудырмауы мүмкін, бірақ олар &lt;b&gt;компьютердің келесі параметрлеріне әсер етуі мүмкін:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;өнімділік&lt;/li&gt;&lt;li&gt;жылдамдық&lt;/li&gt;&lt;li&gt;сенімділік&lt;/li&gt;&lt;li&gt;мінез-құлық&lt;/li&gt;&lt;/ul&gt;Әдетте олар орнату алдында пайдаланушының келісімін қажет етеді.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Жалғастырмас бұрын опция таңдау:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Ықтимал қалаусыз бағдарламалар анықтауды өшіру</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Ықтимал қалаусыз бағдарламаларды анықтауды қосу</string>
+  <string name="IDS_ELI_PUA_DISABLE2">Ықтимал қалаусыз бағдарламаларды анықтамау</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Ықтимал қалаусыз бағдарламаларды анықтау</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Орнату қалтасын өзгерту</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Орнату қалтасын таңдау</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Өнім қалтасы:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Жиі өзгеретін файлдар үшін басқа қалталарды көрсеткім келеді</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Модуль қалтасы:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Деректер қалтасы:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Жарамсыз қалта таңдалды.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Орнату орындалуда</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Қарап шығу орындалуда</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Басқа қауіпсіздік өнімдері табылды</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">Басқа қауіпсіздік бағдарламалық жасақтамасы жүйеде бар немесе толығымен жойылмаған. Екі қауіпсіздік шешімін бір мезгілде іске қосу тұрақсыздықты тудыруы мүмкін.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Ықтимал қайшылықтары бар бағдарламалардың бар-жоғы тексерілуде...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Басқа антивирустық бағдарламаны жою әдісі</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Арнайы тазалағыш</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">Арнайы тазалағыш компьютерден күрделі зиянды бағдарламаны жоюға арналған. Бұл бағдарлама тұрақтылық мәселелерін тудыруы мүмкін және тек тәжірибелі пайдаланушыларға арналған.&lt;br&gt;Қосымша ақпарат алу үшін &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;Білім қорына&lt;/a&gt; кіріңіз.&lt;br&gt;&lt;br&gt;Жалғастыру және тазалағышты іске қосу керек пе?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Арнайы тазалағыш жүктелуде...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;Арнайы тазалағыш іске қосылған.&lt;/b&gt;&lt;br&gt;Күтіңіз...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">Жүйеде ешқандай зиянды бағдарлама табылмады.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Зиянды бағдарлама анықталды және жүйеден тазартылды.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Жүйеде зиянды бағдарлама анықталды.&lt;br&gt;Жою туралы нұсқаулар алу үшін Тұтынушыларды қолдау қызметімізге хабарласыңыз.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Жүйеде зиянды бағдарлама анықталды. Тазалауды аяқтау үшін қайта жүктеу қажет.&lt;br&gt;Көп рет қайта жүктеу қажет болуы мүмкін екенін ескеріңіз.&lt;br&gt;&lt;br&gt;Қайта жүктегіңіз келе ме?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">Арнайы тазалағыш күтпеген жерден шығып кетті.&lt;br&gt;Көмек алу үшін Тұтынушыларды қолдау қызметіне хабарласыңыз.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">Жүктеу орындалуда</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Жүктелуде ...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">%1 жүктелуде ...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Орнату орындалуда</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Орнатылуда ...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">%1 орнатылуда ...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">${bts.package.[${bts.var.package.default}].name} орнатуды болдырмау керек пе?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Орнату сәтті аяқталды</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[${bts.var.package.default}].name} компьютерде сәтті орнатылды. Компьютер вирустардың және зиянды бағдарламалардың бар-жоғын үздіксіз тексереді. &lt;br&gt; &lt;br&gt; Өнімді орнатуды аяқтау және белсендіру процесін бастау үшін &lt;i&gt;Дайын&lt;/i&gt; түймесін басыңыз.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[${bts.var.package.default}].name} компьютерде сәтті орнатылды. Компьютер вирустардың және зиянды бағдарламалардың бар-жоғын үздіксіз тексереді.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Қауіпсіздік туралы мәліметтер: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;ESET білім қорында&lt;/a&gt;
+    &lt;br&gt;
+    ESET компаниясымен байланыс:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Сауалнаманы ашу</string>
+  <string name="IDS_ELI_MUNI_TITLE">Қауіпсіздік сауалнамасы</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET компаниясы Masaryk университетімен бірлесе отырып пайдаланушының қауіпсіздік мінез-құлқына бағытталған зерттеуді өткізіп жатыр.&lt;br&gt;Бізге көмектесіңіз, қысқаша сауалнаманы толтырыңыз.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Жауаптарыңыз бізге ESET өнімдерінің жалпы қауіпсіздігін жақсартуға көмектеседі.&lt;/b&gt;&lt;br&gt;Осы сауалнаманы толтыру арқылы сіз бүкіл мазмұнды Masaryk университетіндегі зерттеушілер талдай алатынымен келісесіз, бірақ деректер тек статистикалық мақсаттарда пайдаланылады. Идентификациялық деректер жиналмайды.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Орнату орындалмады</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">Орнату үзілді</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">${bts.package.[${bts.var.package.current}].name} орнату сәтті аяқталмады. Жүйе компьютерлік қауіптерден қорғалмаған болуы мүмкін. Компьютерде ${bts.package.[${bts.var.package.current}].name} орнату үшін орнатуды қайтадан орындаңыз.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Орнату қатесі &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">Орнатуды пайдаланушы үзді</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">${bts.package.[${bts.var.package.default}].name} орнатуды пайдаланушы үзді. Компьютерде ${bts.package.[${bts.var.package.default}].name} орнату үшін орнатуды қайтадан орындаңыз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">Орнату сәтті аяқталмады</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">Бұл зиянды бағдарлама әрекетінің нәтижесі болуы мүмкін. Жүйеде ықтимал қауіптер бар-жоғын тексеру үшін &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;Арнайы тазалағышты&lt;/a&gt; іске қосу ұсынылады.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Дискіде бос орын жоқ</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">${bts.package.[${bts.var.package.default}].name} жүктеу және орнатуды бастау үшін %1% томында дискіде бос орын жеткіліксіз.&lt;br&gt;&lt;br&gt;Кемінде %2!d! МБ бос екенін тексеріп, қол жетімді бос орынды қайтадан тексеру және жүктеуді жалғастыру үшін &lt;i&gt;Әрекетті қайталау&lt;/i&gt; түймесін басыңыз немесе орнатудан шығу үшін &lt;i&gt;Жабу&lt;/i&gt; түймесін басыңыз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Дискіде бос орын жоқ</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">${bts.package.[${bts.var.package.default}].name} орнатуды аяқтау үшін %1% томында дискідегі бос орын жеткіліксіз.&lt;br&gt;&lt;br&gt;Кемінде %2!d! МБ бос екенін тексеріп, қол жетімді бос орынды қайтадан тексеру және орнатуды жалғастыру үшін &lt;i&gt;Әрекетті қайталау&lt;/i&gt; түймесін басыңыз немесе орнатудан шығу үшін &lt;i&gt;Жабу&lt;/i&gt; түймесін басыңыз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Байланыс қатесі</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Серверге қосылу мүмкін емес. Желілік байланысты тексеріп, әрекетті қайталаңыз.&lt;br&gt;&lt;br&gt;Әлі мәселелер болып жатса, оффлайн орнатқышты жүктеу үшін &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; сайтына кіріңіз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Жүктеу қатесі</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Серверден деректерді жүктеу кезінде қате орын алды. Желілік байланысты тексеріп, әрекетті қайталаңыз.&lt;br&gt;&lt;br&gt;Әлі мәселелер болып жатса, оффлайн орнатқышты жүктеу үшін &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; сайтына кіріңіз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Жүктеу қатесі</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Серверде орнату бумасы табылмады. Оффлайн орнатушыны жүктеу үшін &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; сайтына кіріңіз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Ішкі қате</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Ішкі қате орын алды. Орнатуды қайтадан бастау үшін әрекетті қайталаңыз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Жарамсыз жауап</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Серверден жарамсыз жауап алынды.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Үйлесімді жиынтық табылмады</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Серверде үйлесімді орнату жиынтығы қол жетімді емес. Оффлайн орнатқышты жүктеу үшін &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; сайтына кіріңіз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Байланыс қатесі</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Серверге қосылу мүмкін емес. Желілік байланысты тексеріңіз және әрекетті қайталаңыз. Прокси-серверді пайдаланып жатсаңыз, &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;прокси-сервер параметрлерін&lt;/a&gt; өзгертіңіз.&lt;br&gt;&lt;br&gt;Егер әлі мәселелер болып жатса, оффлайн орнатқышты жүктеу үшін &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; сайтына кіріңіз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Соңғы нұсқа орнатылып қойылған</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">${bts.package.[${bts.var.package.default}].name} соңғы нұсқасы осы компьютерде орнатылып қойылған.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Үйлесімді емес жиынтық</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Бұл орнату жиынтығы 64 биттік операциялық жүйелерге арналған. 32 биттік операциялық жүйелерге арналған орнату жиынтығын пайдаланыңыз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Үйлесімді емес жиынтық</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Бұл орнату жиынтығы 32 биттік операциялық жүйелерге арналған. 64 биттік операциялық жүйелерге арналған орнату жиынтығын пайдаланыңыз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Сервер өнімі емес</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">${bts.package.[${bts.var.package.current}].name} серверлік операциялық жүйелерге арналмаған. &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; сайтынан серверлік өнімді жүктеңіз және орнатыңыз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">Клиент өнімі емес</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">${bts.package.[${bts.var.package.current}].name} серверлік операциялық жүйелерге арналмаған. &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; сайтынан клиенттік өнімді жүктеңіз және орнатыңыз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Үйлесімді емес өнім орнатылған</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Үйлесімді емес {PRODUCT} өнімі орнатылып қойылған. Оны қолмен жойыңыз және орнатуды қайтадан бастаңыз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Үйлесімді емес операциялық жүйе</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">${bts.package.[${bts.var.package.current}].name} операциялық жүйелерге арналмаған. &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; сайтынан өнімді жүктеңіз және орнатыңыз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Бума табылмады</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">${bts.package.[${bts.var.package.current}].name} орнату бумасы (${bts.package.[${bts.var.package.current}].file}) табылмады.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Буманы шығарып алу сәтсіз аяқталды</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">${bts.package.[${bts.var.package.current}].name} шығарып алу сәтсіз аяқталды.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">${bts.package.[${bts.var.package.current}].name} орнату сәтті аяқталмады. Жүйе компьютерлік қауіптерден қорғалмаған болуы мүмкін. Компьютерде ${bts.package.[${bts.var.package.current}].name} орнату үшін орнатуды қайтадан орындаңыз.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Өнімді орнату үшін құқықтар жеткіліксіз</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">${bts.package.[${bts.var.package.current}].name} орнату үшін құқықтар жеткіліксіз. Компьютерде ${bts.package.[${bts.var.package.current}].name} орнату үшін орнатуды әкімші ретінде қайтадан орындаңыз.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Қате коды: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Бұл әрекет сонымен бірге орнату шеберін жабады. Мұны істеу керек пе?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Прокси серверді орнату</string>
+  <string name="IDS_ELI_PROXY_TEXT2">Прокси сервер түпнұсқалықты растауды қажет етеді</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Прокси сервер:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Порт:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Пайдаланушы аты:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Құпия сөз:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Мен прокси серверді пайдаланып жатырмын</string>
+  
+</resources>

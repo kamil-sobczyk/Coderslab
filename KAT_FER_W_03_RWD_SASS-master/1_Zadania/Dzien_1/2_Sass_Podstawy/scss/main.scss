@@ -1,0 +1,20 @@
+/* ten komentarz zostanie umieszczony w wynikowym pliku CSS*/
+
+//tego komentarza nie będzie w wynikowym pliku CSS, jest przydatny głównie programiście pracującemu z danymi plikami Sass
+
+$main-color: green;
+$heading-color: red;
+
+$padding: 10px 0 20px 0;
+
+
+header {
+  font: $heading-color;
+  ul.menu {
+    font: $main-color;
+  }
+}
+
+section {
+  padding: $padding;
+}

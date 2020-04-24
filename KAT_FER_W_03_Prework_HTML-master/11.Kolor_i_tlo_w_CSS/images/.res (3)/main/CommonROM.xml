@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Română" lcid="0418">
+  <string name="IDS_HELP">Ajutor</string>
+	<string name="IDS_BUTTON_YES">Da</string>
+	<string name="IDS_BUTTON_NO">Nu</string>
+	<string name="IDS_BUTTON_ACCEPT">Accept</string>
+	<string name="IDS_BUTTON_DECLINE">Refuz</string>
+	<string name="IDS_BUTTON_CONTINUE">Continuare</string>
+	<string name="IDS_BUTTON_IGNORE">Ignorare</string>
+	<string name="IDS_BUTTON_BACK">Înapoi</string>
+	<string name="IDS_BUTTON_NEXT">Înainte</string>
+	<string name="IDS_BUTTON_CANCEL">Revocare</string>
+	<string name="IDS_BUTTON_CLOSE">Închidere</string>
+	<string name="IDS_BUTTON_REMOVE">Eliminare</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Repornire acum</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Repornire mai târziu</string>
+	<string name="IDS_BUTTON_RETRY">Încercaţi din nou</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Abandonare</string>
+	<string name="IDS_BUTTON_INSTALL">Instalare</string>
+  <string name="IDS_BUTTON_PRINT">Imprimare</string>
+  <string name="IDS_BUTTON_SAVE">Salvare</string>
+  <string name="IDS_BUTTON_DONE">Terminat</string>
+  <string name="IDS_BUTTON_BROWSE">Răsfoire...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Resetare la valorile implicite</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Se abandonează&lt;/h3&gt; Se aşteaptă terminarea acţiunii în curs</string>
+	<string name="IDS_MSGBOX_CLOSE">Această acţiune va avea ca rezultat inclusiv închiderea asistentului pentru instalare. Sigur doriţi acest lucru?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Selectare cale</string>  
+</resources>

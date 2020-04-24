@@ -1,0 +1,168 @@
+//z wykładowcą
+
+article {
+  display:flex;
+  height: 15rem;
+  section {
+    background: gray;
+    height:100%;
+    margin-left: 1%;
+    &.small {
+      flex-grow:1;
+    }
+    &.big {
+      flex-grow: 9;
+    }
+  }
+}
+
+//task1
+
+.list {
+  display: flex;
+  //justify-content: center;
+  justify-content: space-around;
+}
+
+
+//task2
+
+@mixin prefix-flex() {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+section.circles {
+  @include prefix-flex();
+  justify-content: space-around;
+  flex-wrap: wrap;
+  div.circle {
+    background-color:salmon;
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1%;
+    span {
+      font-size: 3em;
+      color:white;
+      font-weight: bold;
+
+    }
+  }
+}
+
+//task3
+
+.crazy-layout {
+  .row {
+    display:flex;
+    .row--sub {
+      flex-grow: 1;
+
+    }
+    .col {
+      flex-grow: 1;
+      background: teal;
+      margin: 0.5em;
+      padding: 1em;
+      height: 4em;
+    }
+
+  }
+}
+
+  .row:nth-child(4) {
+    flex-wrap: wrap;
+    .col:first-child {
+      flex-grow: 8;
+    }
+    .col:nth-child(2) {
+      flex-grow: 4;
+    }
+    .col:last-child {
+      flex-basis: 100%;
+    }
+  }
+
+
+@media(max-width: 460px){
+  .row:nth-of-type(2){
+    display: block;
+  }
+  .row:nth-of-type(3) {
+  .col {
+    flex-grow: 1;
+  }
+  .col:nth-of-type(odd) {
+    order:2;
+  }
+}
+  .row:last-child {
+    .col:nth-child(2) {
+      order:2;
+    }
+    .col:last-child {
+      width: auto;
+    }
+
+}
+  //.row:not(.row--sub){
+  //  flex-direction: column;
+  //}
+  }
+
+
+//rozwiązanie MArka z GRIDEM
+//html {
+//  box-sizing: border-box;
+//}
+//
+//*,
+//*:before,
+//*:after {
+//  box-sizing: inherit;
+//}
+//
+//.crazy-layout {
+//  width: 100%;
+//  max-width: 1140px;
+//  margin: 0 auto;
+//}
+//
+//.row:before, .row:after {
+//  content: "";
+//  display: table;
+//  clear: both;
+//}
+//
+//.row {
+//  margin: 10px 0 0 0;
+//  display: flex;
+//  justify-content: space-around;
+//  align-items: center;
+//  flex-grow: 12;
+//  flex-wrap: wrap;
+//}
+//
+//[class*='col-'] {
+//  min-height: 1px;
+//  /*--gutter --*/
+//  height: 50px;
+//  background: #24A99C;
+//  display: flex;
+//  justify-content: space-around;
+//  align-items: center;
+//  color: slategrey;
+//  font-weight: bold;
+//  font-size: 25px;
+//}
+//
+//@for $i from 1 through 12 {
+//  .col-#{$i} {
+//    display: flex;
+//    flex-grow: #{$i};
+//  }
+//}

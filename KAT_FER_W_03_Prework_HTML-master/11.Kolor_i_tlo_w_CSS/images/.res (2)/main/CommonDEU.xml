@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Deutsch" lcid="0407">
+  <string name="IDS_HELP">Hilfe</string>
+	<string name="IDS_BUTTON_YES">Ja</string>
+	<string name="IDS_BUTTON_NO">Nein</string>
+	<string name="IDS_BUTTON_ACCEPT">Ich stimme zu</string>
+	<string name="IDS_BUTTON_DECLINE">Ablehnen</string>
+	<string name="IDS_BUTTON_CONTINUE">Weiter</string>
+	<string name="IDS_BUTTON_IGNORE">Ignorieren</string>
+	<string name="IDS_BUTTON_BACK">Zurück</string>
+	<string name="IDS_BUTTON_NEXT">Weiter</string>
+	<string name="IDS_BUTTON_CANCEL">Abbrechen</string>
+	<string name="IDS_BUTTON_CLOSE">Schließen</string>
+	<string name="IDS_BUTTON_REMOVE">Entfernen</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Jetzt neu starten</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Später neu starten</string>
+	<string name="IDS_BUTTON_RETRY">Erneut versuchen</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Abbrechen</string>
+	<string name="IDS_BUTTON_INSTALL">Installieren</string>
+  <string name="IDS_BUTTON_PRINT">Drucken</string>
+  <string name="IDS_BUTTON_SAVE">Speichern</string>
+  <string name="IDS_BUTTON_DONE">Fertig</string>
+  <string name="IDS_BUTTON_BROWSE">Durchsuchen...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Auf Standard zurücksetzen</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Wird abgebrochen&lt;/h3&gt; Warten auf Abschließen der ausgeführten Aktion</string>
+	<string name="IDS_MSGBOX_CLOSE">Mit dieser Aktion wird auch der Installationsassistent geschlossen. Weiter?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Pfad auswählen</string>  
+</resources>

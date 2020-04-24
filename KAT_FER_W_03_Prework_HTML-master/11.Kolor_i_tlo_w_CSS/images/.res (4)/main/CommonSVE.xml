@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Sverige" lcid="041d">
+  <string name="IDS_HELP">Hjälp</string>
+	<string name="IDS_BUTTON_YES">Ja</string>
+	<string name="IDS_BUTTON_NO">Nej</string>
+	<string name="IDS_BUTTON_ACCEPT">Godkänn</string>
+	<string name="IDS_BUTTON_DECLINE">Avböj</string>
+	<string name="IDS_BUTTON_CONTINUE">Fortsätt</string>
+	<string name="IDS_BUTTON_IGNORE">Ignorera</string>
+	<string name="IDS_BUTTON_BACK">Tillbaka</string>
+	<string name="IDS_BUTTON_NEXT">Nästa</string>
+	<string name="IDS_BUTTON_CANCEL">Avbryt</string>
+	<string name="IDS_BUTTON_CLOSE">Stäng</string>
+	<string name="IDS_BUTTON_REMOVE">Ta bort</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Starta om nu</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Starta om senare</string>
+	<string name="IDS_BUTTON_RETRY">Försök igen</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Avbryt</string>
+	<string name="IDS_BUTTON_INSTALL">Installera</string>
+  <string name="IDS_BUTTON_PRINT">Skriv ut...</string>
+  <string name="IDS_BUTTON_SAVE">Spara</string>
+  <string name="IDS_BUTTON_DONE">Klart</string>
+  <string name="IDS_BUTTON_BROWSE">Bläddra...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Återställ till standard</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Avbryter&lt;/h3&gt; Väntar på att pågående åtgärd ska slutföras</string>
+	<string name="IDS_MSGBOX_CLOSE">Med den här åtgärden stängs även installationsguiden. Vill du utföra den?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Välj sökväg</string>  
+</resources>

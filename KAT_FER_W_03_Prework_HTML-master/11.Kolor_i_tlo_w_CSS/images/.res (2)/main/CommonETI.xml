@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Eesti" lcid="0425">
+  <string name="IDS_HELP">Spikker</string>
+	<string name="IDS_BUTTON_YES">Jah</string>
+	<string name="IDS_BUTTON_NO">Ei</string>
+	<string name="IDS_BUTTON_ACCEPT">Nõustu</string>
+	<string name="IDS_BUTTON_DECLINE">Keeldu</string>
+	<string name="IDS_BUTTON_CONTINUE">Jätka</string>
+	<string name="IDS_BUTTON_IGNORE">Ignoreeri</string>
+	<string name="IDS_BUTTON_BACK">Tagasi</string>
+	<string name="IDS_BUTTON_NEXT">Järgmine</string>
+	<string name="IDS_BUTTON_CANCEL">Tühista</string>
+	<string name="IDS_BUTTON_CLOSE">Sule</string>
+	<string name="IDS_BUTTON_REMOVE">Eemalda</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Taaskäivita kohe</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Taaskäivita hiljem</string>
+	<string name="IDS_BUTTON_RETRY">Proovige uuesti</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Katkesta</string>
+	<string name="IDS_BUTTON_INSTALL">Installi</string>
+  <string name="IDS_BUTTON_PRINT">Prindi</string>
+  <string name="IDS_BUTTON_SAVE">Salvesta</string>
+  <string name="IDS_BUTTON_DONE">Valmis</string>
+  <string name="IDS_BUTTON_BROWSE">Sirvi...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Lähtesta vaikesätetele</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Aborting&lt;/h3&gt; Käivitatud toimingu lõpetamise ootel</string>
+	<string name="IDS_MSGBOX_CLOSE">See toiming sulgeb ka installiviisardi. Kas soovite kindlasti seda teha?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Select path</string>  
+</resources>

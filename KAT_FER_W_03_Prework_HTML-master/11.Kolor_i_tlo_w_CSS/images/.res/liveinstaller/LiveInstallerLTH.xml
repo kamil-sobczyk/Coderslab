@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Lietuviškai" lcid="0427">
+	<string name="IDS_ELI_LIVE_INSTALLER">Tiesioginio diegimo programa</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Sveiki|Licencijos sutartis|AV Remover|Diegimas|Baigti</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Inicijuojama...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Šis kompiuteris bus valdomas naudojant „ESET Remote Administrator“</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">Šioje diegimo programoje yra toliau nurodyti komponentai</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Licencija:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Serveris:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Grupė:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Konfigūracija:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Ruošiamas diegimo paketas...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Skaičiuojama pasiekiama vieta...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">Naujinys ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Įdiekite šį nemokamą naujinį, kad išliktumėte saugūs</string>
+  <string name="IDS_ELI_UPDATE_TEXT">Siekiant suderinamumo su „Windows 10“, ${bts.package.[0].name} turi būti atnaujinta. Pirmiau įdiegtos versijos nepavyko migruoti į „Windows 10“. Siekiant neprarasti apsaugos, galima automatiškai atsisiųsti ir įdiegti naujausią šio produkto versiją.&lt;BR&gt;&lt;BR&gt;Naujinys nemokamas, jūsų licencija bei nuostatos išliks nepakitusios.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Priminti vėliau</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">Diegti ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Sparti, galinga apsauga nuo virusų</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">Mėgaukitės saugesniu naršymu, žaidimais ir ryšiu, kai viską saugo sparti ir galinga sistema ${bts.package.[0].name}. Šis sprendimas pašalina daug įvairių internetinių grėsmių.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">Diegti ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Interneto saugumo sprendimas „viskas viename“</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">Mėgaukitės kompiuteriu dirbdami, žaisdami ir naršydami internete, kai esate saugomi ${bts.package.[0].name}. Šis sprendimas sujungia apsaugą nuo kenkėjiškos programinės įrangos bei apsaugą nuo elektroninių laiškų brukalo su asmenine užkarda ir tėvų kontrole.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">Diegti ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Interneto saugumo sprendimas „viskas viename“</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">Mėgaukitės kompiuteriu dirbdami, žaisdami ir naršydami internete, kai esate saugomi ${bts.package.[0].name}. Šis sprendimas sujungia apsaugą nuo kenkėjiškos programinės įrangos bei apsaugą nuo elektroninių laiškų brukalo su asmenine užkarda ir tėvų kontrole.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">Diegti ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Interneto saugumo sprendimas „viskas viename“</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">Mėgaukitės kompiuteriu dirbdami, žaisdami ir naršydami internete, kai esate saugomi ${bts.package.[0].name}. Šis sprendimas sujungia apsaugą nuo kenkėjiškos programinės įrangos bei apsaugą nuo elektroninių laiškų brukalo su asmenine užkarda ir tėvų kontrole.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">Diegti ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">Dirbdami, žaisdami ir naršydami internete mėgaukitės savo kompiuterio veikimu, apsaugotu ESET.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">Diegti ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Moderni bazinė apsauga jūsų verslui</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name} su apdovanojimų pelniusia ESET NOD32® aptikimo technologija suteikia jūsų verslui paprastą, modernią bazinę apsaugą, kurią papildo debesų pagrindu veikianti reputacijos sistema. Viską galite lengvai valdyti visiškai naujo dizaino, patogiu naudoti „ESET Remote Administrator“ saityno valdymo pultu.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">Diegti ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Funkcionalus, modernus apsaugos programų paketas</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} yra funkcionalus, modernus apsaugos programų paketas, suteikianti visapusišką, daugiasluoksnę apsaugą nuo visų tipų kenkėjiškų programų. Mėgaukitės maža sistemos apkrova, virtualizacijos palaikymu ir kontrole visiškai nauju „ESET Remote Administrator“ saityno valdymo pultu.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">Noriu, kad ESET AV Remover pašalintų nepageidaujamas antivirusines programas</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">Išleista naujesnė šio produkto versija, kurią galima automatiškai atsisiųsti ir įdiegti vietoj pridėtosios.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Diegti naujesnę versiją</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} nepalaiko šios pasenusios „Microsoft Windows“ versijos. Jums bus įdiegta naujausia {{IDS_ELI_PRODUCT_NAME_ESS}} versija.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} nevisiškai palaiko šią pasenusią „Microsoft Windows“ versiją. Galite tęsti diegimą, tačiau gali iškilti problemų.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Galutinio vartotojo licencijos sutartis</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Galutinio vartotojo licencijos sutartis – %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Tekstas (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Sutinku</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">Nesutinku</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Svarbiausia – rezultatai. Išnaudokite visas apsaugos galimybes.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">Grįžtamojo ryšio sistema „ESET LiveGrid“® leidžia mums rinkti informaciją apie įtartinus objektus, kuriuos mes automatiškai apdorojame, kad savo debesijos sistemoje sukurtumėme aptikimo mechanizmus. Tada nedelsdami pritaikome juos, siekdami užtikrinti, kad mūsų klientų apsaugos lygis būtų maksimalus.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">Įjungti grįžtamojo ryšio sistema „ESET LiveGrid“® (rekomenduojama)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Padėkite mums suteikti jums pačią geriausią apsaugą.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">Daugiau nei 100 mln. jutiklių visame pasaulyje grįžtamojo ryšio sistemai „ESET LiveGrid®“ leidžia rinkti informaciją apie įtartinus objektus, kuriuos automatiškai apdorojame, kad debesų pagrindu veikiančioje reputacijos sistemoje sukurtume aptikimo mechanizmus. Tada nedelsdami pritaikome juos, siekdami užtikrinti maksimalaus lygio apsaugą.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Apsaugos parametrai</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Galimų nepageidaujamų programų aptikimas</string>
+  <string name="IDS_ELI_PUA_QUESTION01">Kas tai yra galima nepageidaujama programa?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">Kodėl klausiame?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET gali aptikti &lt;a {{IDS_HELP_PUA_LINK}}&gt;galimas nepageidaujamas programas&lt;/a&gt; ir prašyti patvirtinimo prieš jas diegiant. Galimos nepageidaujamos programos gali nekelti saugumo pavojaus, tačiau gali paveikti kompiuterio našumą, spartą ir patikimumą arba sukelti elgsenos pokyčių. Prieš jas diegiant paprastai reikia naudotojo sutikimo.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;Pavyzdžiui,&lt;/b&gt; jos gali pakeisti jūsų interneto naršyklės tinklalapių ir paieškos nuostatas.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;PAREIŠKIMAS: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET gali aptikti &lt;a {{IDS_HELP_PUA_LINK}}&gt;galimas nepageidaujamas programas&lt;/a&gt; ir prašyti patvirtinimo prieš jas įdiegiant. Galimos nepageidaujamos programos gali nekelti saugumo pavojaus, tačiau &lt;b&gt;gali paveikti jūsų kompiuterio&lt;/b&gt;&lt;ul&gt;&lt;li&gt;našumą&lt;/li&gt;&lt;li&gt;spartą&lt;/li&gt;&lt;li&gt;patikimumą&lt;/li&gt;&lt;li&gt;elgseną&lt;/li&gt;&lt;/ul&gt;Prieš diegiant tokias programas, paprastai reikia naudotojo sutikimo.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Prieš tęsdami nurodykite parinktį:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Išjungti galimų nepageidaujamų programų aptikimą</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Įjungti galimų nepageidaujamų programų aptikimą</string>
+  <string name="IDS_ELI_PUA_DISABLE2">Neaptikti galimų nepageidaujamų programų</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Aptikti galimas nepageidaujamas programas</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Keisti diegimo aplanką</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Pasirinkite diegimo aplanką</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Produkto aplankas:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Dažnai kintantiems failams noriu nurodyti skirtingus aplankus</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Modulio aplankas:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Duomenų aplankas:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Parinktas negaliojantis aplankas.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Diegiama</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Nuskaitoma</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Aptikta kitų saugumo produktų</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">Sistemoje veikia kita saugumo programinė įranga arba ji nebuvo visiškai pašalinta. Veikiant dviem saugumo sprendimams vienu metu, gali atsirasti stabilumo problemų.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Ieškoma galimų konfliktinių programų...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Kaip išdiegti kitas antivirusines programas</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Specializuota valymo programa</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">Specializuota valymo programa naudojama sudėtingai kenkimo programinei įrangai iš kompiuterio pašalinti. Dėl šios programos gali kilti stabilumo problemų, todėl ja rekomenduojama naudotis tik patyrusiems naudotojams.&lt;br&gt;Jei reikia daugiau informacijos, apsilankykite mūsų &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;žinių bazėje&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Ar tikrai norite paleisti valymo programą?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Atsisiunčiama specializuota valymo programa...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;Veikia specializuota valymo programa.&lt;/b&gt;&lt;br&gt;Prašome palaukti...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">Sistemoje kenkimo programinės įrangos neaptikta.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Sistemoje aptikta kenkimo programinės įrangos ir ji buvo pašalinta.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Sistemoje aptikta kenkimo programinės įrangos.&lt;br&gt;Kreipkitės į pagalbos klientams tarnybą, kad ji pateiktų pašalinimo instrukcijas.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Sistemoje aptikta kenkimo programinės įrangos. Reikia paleisti iš naujo, kad būtų užbaigtas valymas.&lt;br&gt;Atminkite: gali tekti iš naujo paleisti kelis kartus.&lt;br&gt;&lt;br&gt;Ar norite paleisti iš naujo?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">Specializuota valymo programa buvo netikėtai užverta.&lt;br&gt;Kreipkitės pagalbos į pagalbos klientams tarnybą.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">Vykdomas atsisiuntimas</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Atsisiunčiama...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">Atsisiunčiama %1 ...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Diegiama</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Diegiama...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">Diegiama %1 ...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">Ar tikrai norite atšaukti ${bts.package.[${bts.var.package.default}].name} diegimą?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Įdiegta sėkmingai</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[${bts.var.package.default}].name} buvo sėkmingai įdiegta jūsų kompiuteryje. Dabar jame bus nuolat ieškoma virusų ir kenkėjiškos programinės įrangos. &lt;br&gt;&lt;br&gt;Spustelėkite &lt;i&gt;Atlikta&lt;/i&gt;, kad užbaigtumėte produkto konfigūravimą ir galėtumėte jį aktyvuoti.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[${bts.var.package.default}].name} buvo sėkmingai įdiegta jūsų kompiuteryje. Dabar jame bus nuolat ieškoma virusų ir kenkėjiškos programinės įrangos.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Sužinokite daugiau apie saugumą: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;ESET žinių bazė&lt;/a&gt;
+    &lt;br&gt;
+    Susisiekite su ESET:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;„Facebook“&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;„Twitter“&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;„Youtube“&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Atverti apklausą</string>
+  <string name="IDS_ELI_MUNI_TITLE">Saugumo apklausa</string>
+  <string name="IDS_ELI_MUNI_TEXT">Bendradarbiaudama su Masaryko Universitetu, ESET vykdo tyrimą, kuriuo analizuojama naudotojų saugumo elgsena.&lt;br&gt;Kviečiame padėti mums ir užpildyti trumpą apklausą.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Jūsų atsakymai padės mums didinti visų ESET produktų saugumą.&lt;/b&gt;&lt;br&gt;Užpildydami šią apklausą, sutinkate, kad visą jos turinį gali analizuoti tyrėjai iš Masaryko Universiteto. Jūsų duomenys bus naudojami tik statistiniais tikslais: nebus renkama jokių identifikacinių duomenų.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Įdiegti nepavyko</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">Diegimas buvo pertrauktas</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">${bts.package.[${bts.var.package.current}].name} diegimo nepavyko sėkmingai užbaigti. Sistema gali būti nesaugoma nuo kompiuterinių grėsmių. Kad įdiegtumėte ${bts.package.[${bts.var.package.current}].name} savo kompiuteryje, pakartotinai paleiskite diegimo failą.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Diegimo klaida &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">Naudotojas pertraukė diegimo procesą</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">Naudojas pertraukė ${bts.package.[${bts.var.package.default}].name} diegimo procesą. Norėdami įdiegti ${bts.package.[${bts.var.package.default}].name} savo kompiuteryje, paleiskite diegimo procesą dar kartą.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">Diegimo procesas nebuvo užbaigtas sėkmingai</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">Galbūt tai yra kenkimo programinės įrangos veikimo pasekmė. Norint patikrinti sistemą dėl galimų grėsmių, rekomenduojama paleisti &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;specializuotą valymo programą&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Diske nepakanka vietos</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">Diske %1% nepakanka vietos, kad būtų galima atsisiųsti ir įdiegti ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Pasirūpinkite, kad liktų bent %2!d! MB laisvos vietos ir spustelėkite &lt;i&gt;Bandyti dar kartą&lt;/i&gt;, kad patikrintumėte vietos likutį ir tęstumėte atsisiuntimą arba spustelėkite &lt;i&gt;Uždaryti&lt;/i&gt;, kad išjungtumėte diegimo procedūrą.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Diske nepakanka vietos</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">Diske %1% nepakanka vietos, kad būtų galima užbaigti ${bts.package.[${bts.var.package.default}].name} diegimą.&lt;br&gt;&lt;br&gt;Pasirūpinkite, kad liktų bent %2!d! MB laisvos vietos ir spustelėkite &lt;i&gt;Bandyti dar kartą&lt;/i&gt;, kad patikrintumėte vietos likutį ir tęstumėte diegimą arba spustelėkite &lt;i&gt;Uždaryti&lt;/i&gt;, kad išjungtumėte diegimo procedūrą.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Ryšio klaida</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Nepavyksta prisijungti prie serverio. Patikrinkite savo tinklo ryšį ir bandykite dar kartą.&lt;br&gt;&lt;br&gt;Jei problemos nesiliauja, apsilankykite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;, kad atsisiųstumėte atjungtinio diegimo priemonę.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Atsisiuntimo klaida</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Atsisiunčiant duomenis iš serverio, įvyko klaida. Patikrinkite savo tinklo ryšį ir bandykite dar kartą.&lt;br&gt;&lt;br&gt;Jei problemos nesiliauja, apsilankykite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; ir atsisiųskite atjungtinio diegimo priemonę.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Atsisiuntimo klaida</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Serveryje nepavyko rasti diegimo paketo. Apsilankykite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; ir atsisiųskite autonominę diegimo programą.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Vidinė klaida</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Įvyko vidinė klaida. Bandykite dar kartą arba vėl paleiskite diegimo procesą.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Negaliojantis atsakas</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Iš serverio gautas negaliojantis atsakas.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Nerasta derančio paketo</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Serveryje nėra derančio diegimo paketo. Apsilankykite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; ir atsisiųskite atjungtinio diegimo priemonę.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Ryšio klaida</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Nepavyksta prisijungti prie serverio. Patikrinkite savo tinklo ryšį ir bandykite dar kartą. Jei naudojatės įgaliotuoju serveriu, pakeiskite savo &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;įgaliotojo serverio nuostatas&lt;/a&gt; &lt;br&gt;&lt;br&gt;Jei problemos nesiliauja, apsilankykite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; ir atsisiųskite atjungtinio diegimo priemonę.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Jau įdiegta vėliausia versija</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">Šiame kompiuteryje jau įdiegta naujausia ${bts.package.[${bts.var.package.default}].name} versija.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Nederantis paketas</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Šis diegimo paketas skirtas 64 bitų operacinėms sistemoms. Naudokite diegimo paketą, skirtą 32 bitų operacinėms sistemoms.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Nederantis paketas</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Šis diegimo paketas yra skirtas 32 bitų operacinėms sistemoms. Naudokite diegimo paketą, skirtą 64 bitų operacinėms sistemoms.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Tai – ne serverinis produktas</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">${bts.package.[${bts.var.package.current}].name} nėra skirta serverinėms operacinėms sistemoms. Atsisiųskite iš &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; ir įdiekite serverinį produktą.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">Tai – ne klientinis produktas</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">${bts.package.[${bts.var.package.current}].name} nėra skirta serverinėms operacinėms sistemoms. Atsisiųskite iš &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; ir įdiekite klientinį produktą.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Įdiegtas nederantis produktas</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Jau įdiegtas nederantis produktas {PRODUCT}. Išdiekite jį rankiniu būdu ir vėl paleiskite diegimo procesą.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Nederanti operacinė sistema</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">${bts.package.[${bts.var.package.current}].name} neskirtas jūsų operacinėms sistemoms. Atsisiųskite iš &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; ir įdiekite produktą.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Nepavyko rasti paketo</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">Nepavyko rasti ${bts.package.[${bts.var.package.current}].name} diegimo paketo (${bts.package.[${bts.var.package.current}].file}).</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Nepavyko išskleisti paketo</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">${bts.package.[${bts.var.package.current}].name} nepavyko išskleisti.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">${bts.package.[${bts.var.package.current}].name} diegimo nepavyko sėkmingai užbaigti. Sistema gali būti nesaugoma nuo kompiuterinių grėsmių. Kad įdiegtumėte ${bts.package.[${bts.var.package.current}].name} savo kompiuteryje, pakartotinai paleiskite diegimo failą.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Nepakanka teisių, kad galėtumėte įdiegti produktą</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">Neturite pakankamai teisių, kad galėtumėte įdiegti ${bts.package.[${bts.var.package.current}].name}. Norėdami įdiegti ${bts.package.[${bts.var.package.current}].name} savo kompiuteryje, dar kartą paleiskite diegimo procesą administratoriaus teisėmis.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Klaidos kodas: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Šiuo veiksmu taip pat bus užvertas diegimo vediklis. Tikrai norite tai padaryti?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Nustatyti įgaliotąjį serverį</string>
+  <string name="IDS_ELI_PROXY_TEXT2">Įgaliotajam serveriui reikia patvirtinti autentiškumą</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Įgaliotasis serveris:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Prievadas:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Naudotojo vardas:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Slaptažodis:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Naudojuosi įgaliotuoju serveriu</string>
+  
+</resources>

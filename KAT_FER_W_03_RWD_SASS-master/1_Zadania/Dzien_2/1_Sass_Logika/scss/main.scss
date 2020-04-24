@@ -1,0 +1,75 @@
+//zadWykladowca
+
+$line-height:1.5;
+$font-size:16px;
+
+html {
+  line-height: $line-height;
+  font-size: $font-size;
+}
+
+//@for $i from 1 through 4 {
+//  h#{$i} {
+//    font-size: 60 - (4*$i) - $font-size;
+//  }
+//};
+
+
+$i:1;
+@while $i<5 {
+  h#{$i} {
+    font-size: 16/$i;
+    color: #C21F39 * $i;
+  }
+  $i: $i + 1;
+}
+
+//task1
+
+$timeOfDay: 'midday';
+
+//$map: (morning: orange, midday: yellow, evening: navy, night: black);
+//background-color: map-get($map, $timeOfDay);
+
+@mixin nowIs ($timeOfDay) {
+  @if $timeOfDay == 'morning' {
+    background-color: orange;
+  }
+  @else if $timeOfDay == 'midday' {
+    background-color: yellow;
+  }
+  @else if $timeOfDay == 'evening' {
+    background-color: navy;
+  }
+  @else if $timeOfDay == 'night' {
+    background-color: black;
+  }
+}
+
+body {
+  @include nowIs($timeOfDay)
+}
+
+
+
+
+//task2
+
+%div-border {
+  border: 2px solid;
+}
+
+@for $i from 1 through 10 {
+  div.block_#{$i} {
+    @extend %div-border;
+    @if $i%2 == 0 {
+      border-color: orange;
+    }
+    @else {
+      border-color: blue;
+    }
+  }
+}
+
+
+

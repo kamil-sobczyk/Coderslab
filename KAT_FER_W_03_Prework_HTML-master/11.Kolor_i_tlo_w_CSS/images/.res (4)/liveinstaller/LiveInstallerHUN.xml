@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Magyar" lcid="040e">
+	<string name="IDS_ELI_LIVE_INSTALLER">Online telepítő</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Kezdőképernyő|Licencszerződés|AV Remover|Telepítés|Befejezés</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Inicializálás...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Ezt a számítógépet az ESET Remote Administrator fogja kezelni</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">A telepítő az alábbi összetevőket tartalmazza</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Licenc:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Szerver:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Csoport:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Konfiguráció:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">A telepítőcsomag előkészítése...</string>
+  <string name="IDS_ELI_CALC_TEXT01">A rendelkezésre álló hely kiszámítása...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">Az ${bts.package.[0].name} frissítése</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Telepítse ezt az ingyenes frissítést a védelem további biztosításához</string>
+  <string name="IDS_ELI_UPDATE_TEXT">Az ${bts.package.[0].name} csomagot frissíteni kell ahhoz, hogy kompatibilis legyen a Windows 10 rendszerrel. A korábban telepített verziót nem sikerült áttelepíteni a Windows 10 rendszerbe. A védelem további biztosításához letöltheti és automatikusan telepítheti a program legújabb verzióját.&lt;BR&gt;&lt;BR&gt;A frissítés ingyenes, és licence és beállításai megőrződnek.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Emlékeztetés később</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">Az ${bts.package.[0].name} telepítése</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Gyors, hatékony vírusvédelem</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">Az ${bts.package.[0].name} gyors és hatékony védelme biztonságosabb böngészést, játékot és kapcsolódást tesz lehetővé. A program védelmet biztosít az internet kártevőivel szemben.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">Az ${bts.package.[0].name} telepítése</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Integrált biztonsági megoldás</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">Élvezze a biztonságos számítógép használatot munka, játék és internetezés közben – az ${bts.package.[0].name} védelme alatt. Ez a megoldás egyesíti a kártevők elleni védelmet az Adattitkosítás és a Password Manager funkciókkal.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">Az ${bts.package.[0].name} telepítése</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Integrált biztonsági megoldás</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">Élvezze a biztonságos számítógép használatot munka, játék és internetezés közben – az ${bts.package.[0].name} védelme alatt. Ez a megoldás egyesíti a kártevők elleni védelmet az Adattitkosítás és a Password Manager funkciókkal.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">Az ${bts.package.[0].name} telepítése</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Integrált biztonsági megoldás</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">Élvezze a biztonságos számítógép használatot munka, játék és internetezés közben – az ${bts.package.[0].name} védelme alatt. Ez a megoldás egyesíti a kártevők elleni védelmet az Adattitkosítás és a Password Manager funkciókkal.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">Az ${bts.package.[0].name} telepítése</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">Élvezze a biztonságos számítógép használatot munka, játék és internetezés közben - az ESET védelme alatt.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">Az ${bts.package.[0].name} telepítése</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Továbbfejlesztett vállalati végpontvédelem</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">A díjnyertes ESET NOD32® észlelési technológiát használó és a felhő alapú megbízhatósági rendszerünkkel kibővített ${bts.package.[0].name} magas szintű védelmet biztosít vállalata számára. A távadminisztráció is könnyedén ellátható a teljesen újratervezett, felhasználóbarát ESET Remote Administrator webkonzolunk segítségével.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">Az ${bts.package.[0].name} telepítése</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Teljes körű szolgáltatásokat nyújtó, továbbfejlesztett biztonsági programcsomag</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">Az ${bts.package.[0].name} az Ön teljeskörű szolgáltatásokat nyújtó, továbbfejlesztett biztonsági programcsomagja, amely átfogó, többszintű védelmet nyújt a kártevők minden típusával szemben. Rendszerigénye alacsony, támogatott a virtualizáció, és a távadminisztráció is könnyedén ellátható a teljesen újratervezett, felhasználóbarát ESET Remote Administrator webkonzolunk segítségével.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">El szeretné távolítani a nemkívánatos vírusirtó alkalmazásokat az ESET AV Remover segítségével?</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">A program újabb verziója elérhető az interneten, automatikusan letölthető és telepíthető a meglévő helyett.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Újabb verzió telepítése</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">Az ${bts.package.[0].name} nem támogatja ezt az elavult Microsoft Windows-verziót. Az {{IDS_ELI_PRODUCT_NAME_ESS}} legfrissebb kompatibilis verziója lesz telepítve.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">A használt Microsoft Windows verzió elavult, így nem teljes mértékben támogatott. Folytathatja a telepítést, de a program használata során problémák léphetnek fel.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Végfelhasználói licencszerződés</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Végfelhasználói licencszerződés – %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Szöveg (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Elfogadom</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">Nem fogadom el</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Egységben az erő. Biztosítsa a legmagasabb szintű védelmet.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">Az ESET LiveGrid® visszajelzési rendszer lehetővé teszi, hogy információkat gyűjtsünk a gyanús szoftverekről, fájlokról (több mint 100 millió szenzor), és ezeket automatikusan feldolgozva olyan észlelési mechanizmusokat hozzunk létre felhő alapú rendszerünkben, amelyeket alkalmazva a legmagasabb szintű védelmet tudjuk biztosítani ügyfeleinknek.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">Az ESET LiveGrid® visszajelzési rendszer engedélyezése (javasolt)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Biztosítsa a legmagasabb szintű védelmet.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">Az ESET LiveGrid® visszajelzési rendszer lehetővé teszi, hogy információkat gyűjtsünk a gyanús szoftverekről, fájlokról (több mint 100 millió szenzor), és ezeket automatikusan feldolgozva olyan észlelési mechanizmusokat hozzunk létre felhő alapú rendszerünkben, amelyeket alkalmazva a legmagasabb szintű védelmet tudjuk biztosítani ügyfeleinknek.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Védelmi beállítások</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Kéretlen alkalmazások keresése</string>
+  <string name="IDS_ELI_PUA_QUESTION01">Mit nevezünk kéretlen alkalmazásnak?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">Miért kérdezzük?</string>
+  <string name="IDS_ELI_PUA_TEXT01">Az ESET felismeri és kiszűri a más programokkal együtt, &lt;a {{IDS_HELP_PUA_LINK}}&gt;kéretlenül települő alkalmazásokat&lt;/a&gt;. A kéretlen alkalmazások nem jelentenek biztonsági kockázatot, de hatással lehetnek a számítógép teljesítményére, sebességére és megbízhatóságára, illetve megváltoztathatják a viselkedését.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;Megváltoztathatják például&lt;/b&gt; a webböngésző weboldalát és keresési beállításait.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;FONTOS: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">Az ESET felismeri és kiszűri a más programokkal együtt, &lt;a {{IDS_HELP_PUA_LINK}}&gt;kéretlenül települő alkalmazásokat&lt;/a&gt;. A kéretlen alkalmazások nem jelentenek biztonsági kockázatot, de hatással lehetnek a számítógép:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;teljesítményére&lt;/li&gt;&lt;li&gt;sebességére &lt;/li&gt;&lt;li&gt;megbízhatóságára&lt;/li&gt;&lt;li&gt;viselkedésére&lt;/li&gt;&lt;/ul&gt;Telepítés előtt rendszerint kérik a felhasználó jóváhagyását.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">A folytatás előtt válasszon egy beállítást:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Kéretlen alkalmazások keresésének tiltása</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Kéretlen alkalmazások keresésének engedélyezése</string>
+  <string name="IDS_ELI_PUA_DISABLE2">Kéretlen alkalmazások keresésének mellőzése</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Kéretlen alkalmazások keresése</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Telepítési mappa módosítása</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Telepítési mappa kiválasztása</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Programmappa:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Szeretnék más mappákat megadni a gyakran változó fájlokhoz</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Modulmappa:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Adatmappa:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Érvénytelen mappa van kijelölve.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">A telepítés folyamatban van</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Ellenőrzés</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">A rendszerben más biztonsági termékek is jelen vannak</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">Másik biztonsági szoftver is található a rendszerben, illetve nem sikerült azt teljesen eltávolítania. Instabilitást okozhat, ha egyidejűleg két biztonsági alkalmazást futtat.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Feltehetően ütköző alkalmazások keresése...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Más vírusvédelmi szoftverek eltávolításának módja</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Speciális eltávolító</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">A speciális eltávolító összetett kártevőket távolít el a számítógépéről. Ez az alkalmazás stabilitási problémákat okozhat, és használatát csak tapasztalt felhasználóknak ajánljuk.&lt;br&gt;További tudnivalókért keresse fel &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;tudásbázisunkat&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Szeretné folytatni, és futtatja az eltávolítót?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;A speciális eltávolító letöltése...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;A speciális eltávolító fut.&lt;/b&gt;&lt;br&gt;Kis türelmet...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">Nem található kártevő a rendszerben.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Az alkalmazás kártevőt talált a rendszerben, és eltávolította azt.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Az alkalmazás kártevőt talált a rendszerben.&lt;br&gt;Eltávolítási utasításokért forduljon a terméktámogatásunkhoz.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Az alkalmazás kártevőt talált a rendszerben. A megtisztítás befejezéséhez újra kell indítani a rendszert.&lt;br&gt;Ügyeljen arra, hogy több rendszerindításra lehet szükség.&lt;br&gt;&lt;br&gt;Folytatja az újraindítással?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">A speciális eltávolító váratlanul kilépett.&lt;br&gt;Segítségért forduljon a terméktámogatásunkhoz.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">A letöltés folyamatban van</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Letöltés...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">Az %1 letöltése...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">A telepítés folyamatban van</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Telepítés...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">Az %1 telepítése...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">Biztosan megszakítja az ${bts.package.[${bts.var.package.default}].name} telepítését?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Sikeres telepítés</string>
+  <string name="IDS_ELI_DONE_TEXT">Az ${bts.package.[${bts.var.package.default}].name} telepítése sikerült, ezentúl a program folyamatosan ellenőrzi, hogy találhatók-e kártevők a számítógépén. &lt;br&gt; &lt;br&gt; Kattintson a &lt;i&gt;Kész&lt;/i&gt; feliratú gombra a program beállításainak véglegesítéséhez és az aktiválási folyamat megkezdéséhez.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">Az ${bts.package.[${bts.var.package.default}].name} telepítése sikerült, ezentúl a program folyamatosan ellenőrzi, hogy találhatók-e kártevők a számítógépén</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Tudnivalók a biztonságról: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;ESET Tudásbázis&lt;/a&gt;
+    &lt;br&gt;
+    Kapcsolatfelvétel az ESET-tel:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Felmérés megnyitása</string>
+  <string name="IDS_ELI_MUNI_TITLE">Felmérés a biztonságról</string>
+  <string name="IDS_ELI_MUNI_TEXT">Az ESET a Masaryk egyetemmel együttműködve kutatást folytat a felhasználók biztonsággal kapcsolatos viselkedését illetően. Segítsen minket a rövid, angol nyelvű felmérésünk kitöltésével.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Válaszaival hozzájárulhat ahhoz, hogy az ESET termékei magasabb szintű védelemet biztosítsanak.&lt;/b&gt;&lt;br&gt;A felmérés kitöltésével hozzájárul ahhoz, hogy a Masaryk Egyetem kutatói elemezzék az összes tartalmat. Adatait csak statisztikai célokra használjuk. Személyazonosításra szolgáló adatokat nem gyűjtünk.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">A telepítés nem sikerült</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">A telepítés megszakadt</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">Az ${bts.package.[${bts.var.package.current}].name} telepítése nem sikerült. A rendszer védtelen lehet a számítógépes kártevők ellen. Ha szeretné telepíteni az ${bts.package.[${bts.var.package.current}].name} programot a számítógépén, futtassa újból a telepítést.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Telepítési hiba &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">A felhasználó megszakította a telepítést</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">A felhasználó megszakította az ${bts.package.[${bts.var.package.default}].name} telepítését. Ha szeretné telepíteni az ${bts.package.[${bts.var.package.default}].name} programot a számítógépén, futtassa újból a telepítést.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">A telepítés nem sikerült</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">A sikertelenséget kártevők okozhatták. Javasoljuk, hogy a &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;speciális eltávolítót&lt;/a&gt; futtatva ellenőrizze, hogy találhatók-e kártevők a rendszerben.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Megtelt a lemez</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">Nincs elég lemezterület a köteten (%1%) az ${bts.package.[${bts.var.package.default}].name} letöltéséhez és a telepítés elindításához.&lt;br&gt;&lt;br&gt;Gondoskodjon arról, hogy legalább %2!d! MB szabad hellyel rendelkezzen, majd kattintson az &lt;i&gt;Újra&lt;/i&gt; gombra a rendelkezésre álló hely ellenőrzéséhez és a letöltés folytatásához, vagy a &lt;i&gt;Bezárás&lt;/i&gt; gombra kattintva lépjen ki a telepítésből.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Megtelt a lemez</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">Nincs elég lemezterület a köteten (%1%) az ${bts.package.[${bts.var.package.default}].name} telepítéséhez.&lt;br&gt;&lt;br&gt;Gondoskodjon arról, hogy legalább %2!d! MB szabad hellyel rendelkezzen, majd kattintson az &lt;i&gt;Újra&lt;/i&gt; gombra a rendelkezésre álló hely ellenőrzéséhez és a letöltés folytatásához, vagy a &lt;i&gt;Bezárás&lt;/i&gt; gombra kattintva lépjen ki a telepítésből.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Kapcsolódási hiba</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Nem lehet csatlakozni a szerverhez. Ellenőrizze a hálózati kapcsolatot, és próbálkozzon újra.&lt;br&gt;&lt;br&gt;Ha továbbra is hibákat tapasztal, keresse fel a &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; webhelyet, és töltse le a kapcsolat nélküli telepítőt.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Letöltési hiba</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Hiba történt az adatok letöltésekor a szerverről. Ellenőrizze a hálózati kapcsolatot, és próbálkozzon újra.&lt;br&gt;&lt;br&gt;Ha továbbra is hibákat tapasztal, keresse fel a &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; webhelyet, és töltse le a kapcsolat nélküli telepítőt.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Letöltési hiba</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Egy telepítési csomag nem található a szerveren. Kapcsolat nélküli telepítő letöltéséhez kérjük, keresse fel a &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; webhelyet.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Belső hiba</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Belső hiba történt. Próbálkozzon újra, és indítsa el ismét a telepítést.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Érvénytelen válasz</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Érvénytelen válasz érkezett a szerverről.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Nem található kompatibilis csomag</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Nem található kompatibilis telepítőcsomag a szerveren. Keresse fel a &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; webhelyet, és töltse le a kapcsolat nélküli telepítőt.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Kapcsolódási hiba</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Nem lehet csatlakozni a szerverhez. Ellenőrizze a hálózati kapcsolatot, és próbálkozzon újra. Proxyszerver használata esetén változtassa meg a &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;proxyszerver beállításait&lt;/a&gt;. &lt;br&gt;&lt;br&gt;Ha továbbra is hibákat tapasztal, keresse fel a &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; webhelyet, és töltse le a kapcsolat nélküli telepítőt.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Már telepítve van a legújabb verzió</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">Az ${bts.package.[${bts.var.package.default}].name} legújabb verziója már telepítve van a számítógépen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Nem kompatibilis csomag</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Ez a telepítőcsomag 64 bites operációs rendszerekhez készült. Használja a 32 bites operációs rendszerek telepítőcsomagját.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Nem kompatibilis csomag</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Ez a telepítőcsomag 32 bites operációs rendszerekhez készült. Használja a 64 bites operációs rendszerek telepítőcsomagját.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Nem szerverprogram</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">Az ${bts.package.[${bts.var.package.current}].name} nem szerveres operációs rendszerekhez készült. Töltsön le és telepítsen egy szerverprogramot a &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; webhelyről.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">Nem ügyfélprogram</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">Az ${bts.package.[${bts.var.package.current}].name} nem szerveres operációs rendszerekhez készült. Töltsön le és telepítsen egy ügyfélprogramot a &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; webhelyről.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Nem kompatibilis program van telepítve</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Egy nem kompatibilis {PRODUCT} program már van telepítve. Távolítsa el manuálisan, és kezdje el újból a telepítést.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Nem kompatibilis operációs rendszer</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">Az ${bts.package.[${bts.var.package.current}].name} nem szerveres operációs rendszerekhez készült. Töltsön le és telepítsen egy ügyfélprogramot a &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; webhelyről.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">A csomag nem található</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">Az ${bts.package.[${bts.var.package.current}].name} telepítési csomag (${bts.package.[${bts.var.package.current}].file}) nem található.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">A csomag kibontása nem sikerült</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">Az ${bts.package.[${bts.var.package.current}].name} kibontása nem sikerült.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">Az ${bts.package.[${bts.var.package.current}].name} telepítése nem sikerült. A rendszer védtelen lehet a számítógépes kártevők ellen. Ha szeretné telepíteni az ${bts.package.[${bts.var.package.current}].name} programot a számítógépén, futtassa újból a telepítést.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Nincs megfelelő jogosultsága a program telepítéséhez</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">Nem rendelkezik megfelelő jogosultsággal az ${bts.package.[${bts.var.package.current}].name} telepítéséhez. Ha szeretné telepíteni az ${bts.package.[${bts.var.package.current}].name} programot a számítógépen, rendszergazdaként futtassa újból a telepítést.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Hibakód: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Ez a művelet is bezárja a telepítővarázslót. Biztosan ezt szeretné?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Proxyszerver beállítása</string>
+  <string name="IDS_ELI_PROXY_TEXT2">A proxyszerver hitelesítést igényel</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Proxyszerver:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Port:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Felhasználónév:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Jelszó:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Proxyszervert használok</string>
+  
+</resources>

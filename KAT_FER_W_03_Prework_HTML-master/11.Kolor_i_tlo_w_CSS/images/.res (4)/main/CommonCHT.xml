@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="繁體中文" lcid="0404">
+  <string name="IDS_HELP">說明</string>
+	<string name="IDS_BUTTON_YES">是</string>
+	<string name="IDS_BUTTON_NO">否</string>
+	<string name="IDS_BUTTON_ACCEPT">接受</string>
+	<string name="IDS_BUTTON_DECLINE">拒絕</string>
+	<string name="IDS_BUTTON_CONTINUE">繼續</string>
+	<string name="IDS_BUTTON_IGNORE">略過</string>
+	<string name="IDS_BUTTON_BACK">上一步</string>
+	<string name="IDS_BUTTON_NEXT">下一步</string>
+	<string name="IDS_BUTTON_CANCEL">取消</string>
+	<string name="IDS_BUTTON_CLOSE">關閉</string>
+	<string name="IDS_BUTTON_REMOVE">移除</string>
+	<string name="IDS_BUTTON_RESTARTNOW">立即重新啟動</string>
+	<string name="IDS_BUTTON_RESTARTLATER">稍後重新啟動</string>
+	<string name="IDS_BUTTON_RETRY">再試一次</string>
+	<string name="IDS_BUTTON_OK">確定</string>
+	<string name="IDS_BUTTON_ABORT">中止</string>
+	<string name="IDS_BUTTON_INSTALL">安裝</string>
+  <string name="IDS_BUTTON_PRINT">列印</string>
+  <string name="IDS_BUTTON_SAVE">儲存</string>
+  <string name="IDS_BUTTON_DONE">完成</string>
+  <string name="IDS_BUTTON_BROWSE">瀏覽</string>
+  <string name="IDS_BUTTON_DEFAULTS">重設為預設值</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;正在中止&lt;/h3&gt; 正在等待執行中的處理方法完成</string>
+	<string name="IDS_MSGBOX_CLOSE">此處理方法也會關閉應用程式精靈。您確定要執行此作業嗎?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">選取路徑</string>  
+</resources>

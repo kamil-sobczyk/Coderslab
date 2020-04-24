@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources langname="English" lcid="0409">
+  <string name="IDS_HELP">Help</string>
+	<string name="IDS_BUTTON_YES">Yes</string>
+	<string name="IDS_BUTTON_NO">No</string>
+	<string name="IDS_BUTTON_ACCEPT">Accept</string>
+	<string name="IDS_BUTTON_DECLINE">Decline</string>
+	<string name="IDS_BUTTON_CONTINUE">Continue</string>
+	<string name="IDS_BUTTON_IGNORE">Ignore</string>
+	<string name="IDS_BUTTON_BACK">Back</string>
+	<string name="IDS_BUTTON_NEXT">Next</string>
+	<string name="IDS_BUTTON_CANCEL">Cancel</string>
+	<string name="IDS_BUTTON_CLOSE">Close</string>
+	<string name="IDS_BUTTON_REMOVE">Remove</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Restart now</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Restart later</string>
+	<string name="IDS_BUTTON_RETRY">Try again</string>
+	<string name="IDS_BUTTON_OK">Ok</string>
+	<string name="IDS_BUTTON_ABORT">Abort</string>
+	<string name="IDS_BUTTON_INSTALL">Install</string>
+  <string name="IDS_BUTTON_PRINT">Print</string>
+  <string name="IDS_BUTTON_SAVE">Save</string>
+  <string name="IDS_BUTTON_DONE">Done</string>
+  <string name="IDS_BUTTON_BROWSE">Browse</string>
+  <string name="IDS_BUTTON_DEFAULTS">Reset to default</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Aborting&lt;/h3&gt; Waiting for running action to finish</string>
+	<string name="IDS_MSGBOX_CLOSE">This action will close the Wizard. Are you sure you want to close the Wizard?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Select path</string>  
+</resources>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Česky" lcid="0405">
+  <string name="IDS_HELP">Nápověda</string>
+	<string name="IDS_BUTTON_YES">Ano</string>
+	<string name="IDS_BUTTON_NO">Ne</string>
+	<string name="IDS_BUTTON_ACCEPT">Souhlasím</string>
+	<string name="IDS_BUTTON_DECLINE">Nesouhlasím</string>
+	<string name="IDS_BUTTON_CONTINUE">Pokračovat</string>
+	<string name="IDS_BUTTON_IGNORE">Ignorovat</string>
+	<string name="IDS_BUTTON_BACK">Zpět</string>
+	<string name="IDS_BUTTON_NEXT">Další</string>
+	<string name="IDS_BUTTON_CANCEL">Zrušit</string>
+	<string name="IDS_BUTTON_CLOSE">Zavřít</string>
+	<string name="IDS_BUTTON_REMOVE">Odstranit</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Restartovat nyní</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Restartovat později</string>
+	<string name="IDS_BUTTON_RETRY">Zkusit znovu</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Přerušit</string>
+	<string name="IDS_BUTTON_INSTALL">Nainstalovat</string>
+  <string name="IDS_BUTTON_PRINT">Tisk</string>
+  <string name="IDS_BUTTON_SAVE">Uložit</string>
+  <string name="IDS_BUTTON_DONE">Dokončit</string>
+  <string name="IDS_BUTTON_BROWSE">Procházet</string>
+  <string name="IDS_BUTTON_DEFAULTS">Standardní</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Rušení akce&lt;/h3&gt; Vyčkejte na spuštění akce pro dokončení</string>
+	<string name="IDS_MSGBOX_CLOSE">Tímto krokem ukončíte průvodce. Opravdu chcete ukončit průvodce?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Vyberte cestu</string>  
+</resources>

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Tiếng Việt" lcid="042A">
+	<string name="IDS_ELI_LIVE_INSTALLER">Trình cài đặt Trực tiếp</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Chào mừng|Thỏa thuận giấy phép|AV Remover|Cài đặt|Kết thúc</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security Premium</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Đang khởi tạo...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Máy tính này sẽ được quản lý bởi ESET Remote Administrator</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">Trình cài đặt này bao gồm các thành phần sau</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Giấy phép:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Máy chủ:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Nhóm:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Cấu hình:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Đang chuẩn bị gói cài đặt...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Đang tính toán không gian khả dụng...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">Cập nhật ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Cài đặt bản cập nhật miễn phí này để được bảo vệ</string>
+  <string name="IDS_ELI_UPDATE_TEXT">${bts.package.[0].name} phải được cập nhật để tương thích với Windows 10. Không thể di chuyển phiên bản đã cài đặt trước kia vào Windows 10. Để được bảo vệ, hãy tải xuống phiên bản sản phẩm mới nhất và cài đặt tự động.&lt;BR&gt;&lt;BR&gt;Bản cập nhật miễn phí và giấy phép cũng như cài đặt của bạn sẽ được duy trì.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Nhắc tôi sau</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">Cài đặt ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Chống vi rút Nhanh, Mạnh mẽ</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">Tận hưởng duyệt web, chơi game an toàn hơn và kết nối với công cụ bảo vệ nhanh chóng và mạnh mẽ của ${bts.package.[0].name}. Giải pháp này sẽ loại bỏ một phạm vi lớn các mối đe dọa trên Internet.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">Cài đặt ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Bảo mật Internet Tất cả trong một</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">Tận hưởng sử dụng máy tính của bạn cho công việc, giải trí và kết nối - được bảo vệ bởi ${bts.package.[0].name}. Giải pháp kết hợp bảo vệ chống phần mềm độc hại với tính năng chống thư rác, tường lửa cá nhân và kiểm soát của phụ huynh.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">Cài đặt ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Bảo mật Internet Tất cả trong một</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">Tận hưởng sử dụng máy tính của bạn cho công việc, giải trí và kết nối - được bảo vệ bởi ${bts.package.[0].name}. Giải pháp kết hợp bảo vệ chống phần mềm độc hại với tính năng chống thư rác, tường lửa cá nhân và kiểm soát của phụ huynh.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">Cài đặt ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Bảo mật Internet Tất cả trong một</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">Tận hưởng sử dụng máy tính của bạn cho công việc, giải trí và kết nối - được bảo vệ bởi ${bts.package.[0].name}. Giải pháp kết hợp bảo vệ chống phần mềm độc hại với tính năng chống thư rác, tường lửa cá nhân và kiểm soát của phụ huynh.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">Cài đặt ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">Thoải mái sử dụng máy tính để làm việc, chơi trò chơi và kết nối - được bảo vệ bởi ESET.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">Cài đặt ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Bảo vệ đường cơ sở nâng cao cho doanh nghiệp của bạn</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name}, bao gồm công nghệ phát hiện ESET NOD32® giành giải thưởng, mang đến cho doanh nghiệp của bạn giải pháp bảo vệ đường cơ sở nâng cao, gọn nhẹ, được tăng cường bởi hệ thống danh tiếng dựa trên đám mây của chúng tôi. Dễ dàng kiểm soát chương trình với bảng điều khiển web ESET Remote Administrator có thiết kế hoàn toàn mới, thân thiện với người dùng.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">Cài đặt ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Bộ giải pháp bảo mật nâng cao, đầy đủ tính năng của bạn</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} là bộ giải pháp bảo mật nâng cao, đầy đủ tính năng, cung cấp khả năng bảo vệ toàn diện, đa lớp chống lại mọi kiểu phần mềm độc hại. Hãy tận hưởng ứng dụng với yêu cầu hệ thống cực thấp, hỗ trợ ảo hóa và giám sát qua bảng điều khiển web ESET Remote Administrator hoàn toàn mới.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">Tôi muốn gỡ cài đặt các ứng dụng diệt vi rút không mong muốn bằng ESET AV Remover</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">Phiên bản sản phẩm mới hơn đã có sẵn trực tuyến và có thể tải xuống và cài đặt thay vì chương trình đi kèm.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Cài đặt phiên bản mới hơn</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} không hỗ trợ phiên bản Microsoft Windows lỗi thời. Phiên bản {{IDS_ELI_PRODUCT_NAME_ESS}} tương thích gần đây nhất sẽ được cài đặt.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} không hỗ trợ hoàn toàn cho phiên bản Microsoft Windows đã lỗi thời này. Bạn có thể tiếp tục cài đặt nhưng có thể xảy ra vấn đề.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Thỏa thuận Giấy phép Người dùng Cuối</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Thỏa thuận giấy phép người dùng cuối - %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Văn bản (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Tôi chấp nhận</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">Tôi không chấp nhận</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Các con số cũng có sức mạnh, hãy trải nghiệm mức bảo vệ cao nhất.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">Hệ thống phản hồi ESET LiveGrid® cho phép chúng tôi thu thập thông tin về các đối tượng khả nghi mà chúng tôi xử lý tự động để tạo các cơ chế phát hiện trong hệ thống đám mây. Sau đó chúng tôi sẽ ngay lập tức áp dụng để đảm bảo rằng khách hàng có mức bảo vệ cao nhất.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">Bật hệ thống phản hồi ESET LiveGrid® (khuyến nghị)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Hãy giúp chúng tôi cung cấp cho bạn giải pháp bảo mật thậm chí còn tốt hơn.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">Hệ thống phản hồi ESET LiveGrid® sử dụng hơn 100 triệu bộ cảm biến trên toàn thế giới cho phép chúng tôi thu thập thông tin về các đối tượng khả nghi mà chúng tôi tự động xử lý để tạo các cơ chế phát hiện bằng hệ thống danh tiếng dựa trên đám mây của chúng tôi. Sau đó chúng tôi sẽ ngay lập tức áp dụng những thông tin này để đảm bảo rằng khách hàng có mức bảo vệ cao nhất.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Cài đặt bảo vệ</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Phát hiện Ứng dụng Không mong muốn Tiềm ẩn</string>
+  <string name="IDS_ELI_PUA_QUESTION01">Ứng dụng không mong muốn tiềm ẩn là gì?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">Tại sao chúng tôi hỏi?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET có thể phát hiện các ứng dụng không mong muốn tiềm ẩn và yêu cầu xác nhận trước khi chúng cài đặt. Các ứng dụng không mong muốn tiềm ẩn có thể không gây ra rủi ro bảo mật nhưng có thể ảnh hưởng đến hiệu suất, tốc độ và độ ổn định của máy tính hoặc gây ra các thay đổi trong hành vi. Chúng thường yêu cầu sự đồng ý của người dùng trước khi cài đặt.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;Ví dụ:&lt;/b&gt; chúng có thể thay đổi cài đặt tìm kiếm và trang web của trình duyệt của bạn.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;LƯU Ý: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET có thể phát hiện các ứng dụng không mong muốn tiềm ẩn trước khi chúng cài đặt. Các ứng dụng không mong muốn tiềm ẩn có thể không gây ra rủi ro bảo mật nhưng &lt;b&gt;có thể ảnh hưởng đến:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;hiệu suất&lt;/li&gt;&lt;li&gt;tốc độ&lt;/li&gt;&lt;li&gt;độ ổn định&lt;/li&gt;&lt;li&gt;và hành vi của máy tính của bạn&lt;/li&gt;&lt;/ul&gt;Chúng thường yêu cầu sự đồng ý của người dùng trước khi cài đặt.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Chọn một tùy chọn trước khi bạn tiếp tục:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Tắt phát hiện ứng dụng không mong muốn tiềm ẩn</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Bật phát hiện ứng dụng không mong muốn tiềm ẩn</string>
+  <string name="IDS_ELI_PUA_DISABLE2">Không phát hiện ứng dụng không mong muốn tiềm ẩn</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Phát hiện ứng dụng không mong muốn tiềm ẩn</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Thay đổi thư mục cài đặt</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Chọn Thư mục Cài đặt</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Thư mục sản phẩm:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Tôi muốn chỉ định các thư mục khác cho tệp thường xuyên thay đổi</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Thư mục mô-đun:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Thư mục dữ liệu:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Thư mục không hợp lệ đã được chọn.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Đang cài đặt</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Quét tìm ứng dụng diệt vi rút</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Đã tìm thấy các sản phẩm bảo mật khác</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">Phần mềm bảo mật khác đã có mặt trên hệ thống và chưa được loại bỏ hoàn toàn. Việc chạy hai giải pháp bảo mật đồng thời có thể gây mất ổn định.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Kiểm tra các ứng dụng xung đột có thể...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Cách gỡ cài đặt các phần mềm diệt vi rút khác</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Trình dọn dẹp chuyên dụng</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">Trình dọn dẹp chuyên dụng được thiết kế để loại bỏ phần mềm độc hại phức tạp khỏi máy tính của bạn. Ứng dụng này có thể gây ra vấn đề về độ ổn định và chỉ được khuyến nghị cho người dùng nâng cao.&lt;br&gt;Để biết thêm thông tin, hãy truy cập &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;Cơ sở kiến thức&lt;/a&gt; của chúng tôi.&lt;br&gt;&lt;br&gt;Bạn có muốn tiếp tục và chạy trình dọn dẹp không?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Đang tải xuống trình dọn dẹp Chuyên dụng...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;Trình dọn dẹp chuyên dụng đang chạy.&lt;/b&gt;&lt;br&gt;Vui lòng đợi...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">Không tìm thấy phần mềm độc hại nào trên hệ thống.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Phần mềm độc hại đã được phát hiện và bị xóa khỏi hệ thống.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Đã phát hiện phần mềm độc hại trên hệ thống.&lt;br&gt;Vui lòng liên hệ với bộ phận Chăm sóc Khách hàng của chúng tôi để có hướng dẫn loại bỏ.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Đã phát hiện phần mềm độc hại trên hệ thống. Cần phải khởi động lại để kết thúc dọn dẹp.&lt;br&gt;Xin lưu ý rằng có thể cần phải khởi động lại nhiều lần.&lt;br&gt;&lt;br&gt;Tiếp tục khởi động lại?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">Trình dọn dẹp chuyên dụng thoát bất ngờ.&lt;br&gt;Vui lòng liên hệ bộ phận Chăm sóc Khách hàng của chúng tôi để được trợ giúp.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">Đang tải xuống...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Đang tải xuống...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">Đang tải xuống %1...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Đang cài đặt</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Đang cài đặt...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">Đang cài đặt %1...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">Bạn có chắc muốn hủy cài đặt ${bts.package.[0].name} không?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Cài đặt thành công</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[0].name} đã được cài đặt thành công trên máy tính của bạn. Máy tính của bạn sẽ liên tục được kiểm tra phát hiện vi rút và phần mềm độc hại. &lt;br&gt; &lt;br&gt; Bấm &lt;i&gt;Xong&lt;/i&gt; để hoàn tất thiết lập sản phẩm và bắt đầu quy trình kích hoạt.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[0].name} đã được cài đặt thành công trên máy tính của bạn. Máy tính của bạn sẽ liên tục được kiểm tra phát hiện vi rút và phần mềm độc hại.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Tìm hiểu thêm về bảo mật: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;Cơ sở kiến thức ESET&lt;/a&gt;
+    &lt;br&gt;
+    Kết nối với ESET:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Khảo sát mở</string>
+  <string name="IDS_ELI_MUNI_TITLE">Khảo sát bảo mật</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET phối hợp với trường Đại học Masaryk triển khai một nghiên cứu dựa trên hành vi bảo mật của người dùng.&lt;br&gt;Hãy giúp chúng tôi và điền vào bản khảo sát ngắn này.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Các câu trả lời của bạn sẽ giúp chúng tôi nâng cao bảo mật chung của các sản phẩm ESET.&lt;/b&gt;&lt;br&gt;Bằng việc điền vào khảo sát này, bạn đồng ý rằng tất cả các nội dung có thể được các nhà nghiên cứu từ Đại học Masaryk nghiên cứu, nhưng dữ liệu của bạn chỉ được sử dụng cho mục đích thống kê. Không có dữ liệu danh tính nào sẽ được thu thập.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Cài đặt thất bại</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">Cài đặt đã bị gián đoạn</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">Quá trình cài đặt ${bts.package.[0].name} chưa hoàn tất thành công. Hệ thống có thể không được bảo vệ chống lại các mối đe dọa máy tính. Để cài đặt ${bts.package.[0].name} trên máy tính của bạn, vui lòng chạy lại cài đặt.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Lỗi: &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">Cài đặt đã bị người dùng gián đoạn</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">Quá trình cài đặt ${bts.package.[0].name} đã bị người dùng gián đoạn. Để cài đặt ${bts.package.[0].name} trên máy tính của bạn, vui lòng chạy lại cài đặt.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">Cài đặt chưa được hoàn tất thành công</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">Việc này có thể là kết quả của hoạt động phần mềm độc hại. Để kiểm tra hệ thống tìm mối đe dọa tiềm ẩn, bạn nên chạy &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;Trình dọn dẹp Chuyên dụng&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Hết không gian đĩa</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">Không đủ không gian đĩa trên ổ đĩa %1% để tải xuống và bắt đầu cài đặt ${bts.package.[0].name}.&lt;br&gt;&lt;br&gt;Vui lòng đảm bảo rằng bạn có ít nhất %2!d! MB trống và bấm &lt;i&gt;Thử lại&lt;/i&gt; để kiểm tra lại không gian khả dụng và tiếp tục tải xuống, hoặc bấm &lt;i&gt;Đóng&lt;/i&gt; để thoát cài đặt.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Hết không gian đĩa</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">Không có đủ không gian đĩa trên đĩa %1% để hoàn tất cài đặt ${bts.package.[0].name}.&lt;br&gt;&lt;br&gt;Vui lòng đảm bảo rằng bạn có ít nhất %2!d! MB trống và bấm &lt;i&gt;Thử lại&lt;/i&gt; để kiểm tra lại không gian khả dụng và tiếp tục cài đặt hoặc bấm &lt;i&gt;Đóng&lt;/i&gt; để thoát cài đặt.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Lỗi kết nối</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Không thể kết nối với máy chủ. Vui lòng kiểm tra kết nối mạng của bạn và thử lại.&lt;br&gt;&lt;br&gt;Nếu bạn vẫn gặp vấn đế, vui lòng truy cập &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; để tải xuống trình cài đặt ngoại tuyến.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Lỗi tải xuống</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Đã xảy ra lỗi khi tải xuống dữ liệu từ máy chủ. Vui lòng kiểm tra kết nối mạng của bạn và thử lại.&lt;br&gt;&lt;br&gt;Nếu bạn vẫn gặp vấn đề, vui lòng truy cập &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; để tải xuống trình cài đặt ngoại tuyến.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Lỗi tải xuống</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Không tìm thấy gói cài đặt trên máy chủ. Vui lòng truy cập &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; để tải xuống trình cài đặt ngoại tuyến.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Lỗi nội bộ</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Đã xảy ra lỗi nội bộ. Vui lòng thử lại để bắt đầu cài đặt lại.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Phản hồi không hợp lệ</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Đã nhận được phản hồi không hợp lệ từ máy chủ.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Không tìm thấy gói tương thích.</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Không có gói cài đặt tương thích nào khả dụng trên máy chủ. Vui lòng truy cập &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; để tải xuống trình cài đặt ngoại tuyến.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Lỗi kết nối</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Không thể kết nối với máy chủ. Vui lòng kiểm tra kết nối mạng của bạn và thử lại. Trong trường hợp bạn đang sử dụng máy chủ proxy, hãy thay đổi &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;cài đặt máy chủ proxy&lt;/a&gt; của bạn. &lt;br&gt;&lt;br&gt;Nếu bạn vẫn gặp vấn đề, vui lòng truy cập &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; để tải xuống trình cài đặt ngoại tuyến.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Phiên bản mới nhất đã được cài đặt</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">Một phiên bản ${bts.package.[0].name} mới nhất đã được cài đặt trên máy tính này.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Gói không tương thích</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Gói cài đặt này dành cho hệ điều hành 64-bit. Vui lòng sử dụng gói cài đặt cho hệ điều hành 32-bit.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Gói không tương thích</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Gói cài đặt này dành cho hệ điều hành 32-bit. Vui lòng sử dụng gói cài đặt cho hệ điều hành 64-bit.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Không phải là một sản phẩm máy chủ</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">${bts.package.[0].name} không dành cho hệ điều hành máy chủ. Vui lòng tải xuống và cài đặt một sản phẩm máy chủ từ &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">Không phải là một sản phẩm ứng dụng khách</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">${bts.package.[0].name} không dành cho hệ điều hành máy chủ. Vui lòng tải xuống và cài đặt một sản phẩm ứng dụng khách từ &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Phiên bản không tương thích đã được cài đặt</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Một sản phẩm {PRODUCT} không tương thích đã được cài đặt. Vui lòng thủ công gỡ cài đặt sản phẩm này và bắt đầu cài đặt lại.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Hệ điều hành không tương thích</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">${bts.package.[0].name} không dành cho hệ điều hành của bạn. Vui lòng tải xuống và cài đặt một sản phẩm từ &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Không tìm thấy gói</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">Không tìm thấy gói cài đặt ${bts.package.[${bts.var.package.current}].name} (${bts.package.[${bts.var.package.current}].file}).</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Không trích xuất được gói</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">Trích xuất ${bts.package.[${bts.var.package.current}].name} không thành công.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">Quá trình cài đặt ${bts.package.[0].name} chưa hoàn tất thành công. Hệ thống có thể không được bảo vệ chống lại các mối đe dọa máy tính. Để cài đặt ${bts.package.[0].name} trên máy tính của bạn, vui lòng chạy lại cài đặt.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Không có đủ quyền để cài đặt sản phẩm</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">Bạn không có đủ quyền để cài đặt ${bts.package.[0].name}. Để cài đặt ${bts.package.[0].name} trên máy tính của bạn, vui lòng chạy lại cài đặt với tư cách quản trị viên.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Mã lỗi: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Hành động này cũng sẽ đóng trình hướng dẫn cài đặt. Bạn có muốn làm việc này không?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Thiết lập máy chủ proxy</string>
+  <string name="IDS_ELI_PROXY_TEXT2">Máy chủ proxy yêu cầu xác thực</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Máy chủ proxy:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Cổng:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Tên người dùng:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Mật khẩu:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Tôi đang sử dụng một máy chủ proxy</string>
+  
+</resources>

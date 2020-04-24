@@ -1,0 +1,66 @@
+// Zadanie 1
+
+.test_units {
+  font-size: 30px;
+  border: 2px solid red;
+  width: 25em;
+  height: 5em;
+  header {
+    font-size: 50%;
+  }
+  span {
+    font-size: 1em;
+  }
+}
+
+
+//zadanie 2
+
+
+.blocks {
+  .block {
+    box-sizing: border-box;
+    width: 25%;
+    height: 100vh;
+    border: 1px solid red;
+    float: left;
+  }
+}
+
+@media (max-width: 450px) {
+  .blocks {
+    .block {
+      float: none;
+    }
+    .block:last-child {
+      display: none;
+    }
+  }
+}
+
+@media (min-width: 450px) and (max-width: 720px) {
+  .blocks {
+    .block {
+      float: left;
+    }
+    .block:first-child {
+      display: none;
+    }
+  }
+}
+
+@media (min-width: 720px) and (max-width: 1024px) {
+  .blocks {
+    .block {
+      display: none;
+    }
+    .block:first-child {
+      display: inline;
+    }
+    .block:last-child {
+      display: inline;
+    }
+  }
+}
+
+

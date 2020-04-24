@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Română" lcid="0418">
+	<string name="IDS_ELI_LIVE_INSTALLER">Program de instalare în direct</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Bun venit|Acord de licenţă|AV Remover|Instalare|Terminare</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Iniţializare...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Acest computer va fi administrat de ESET Remote Administrator</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">Următoarele componente sunt incluse în acest program de instalare</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Licenţă:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Server:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Grup:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Configuraţie:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Se pregătește pachetul de instalare...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Se calculează spaţiul disponibil...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">Actualizare ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Instalați această actualizare gratuită pentru a rămâne protejat</string>
+  <string name="IDS_ELI_UPDATE_TEXT">${bts.package.[0].name} trebuie actualizat pentru compatibilitate cu Windows 10. Versiunea instalată anterior nu a putut fi migrată la Windows 10. Pentru a rămâne protejat, cea mai nouă versiune a acestui produs poate fi descărcată și instalată automat.&lt;BR&gt;&lt;BR&gt;Actualizarea este gratuită și licența și setările dvs. vor rămâne neschimbate.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Aminteşte-mi mai târziu</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">Instalare ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Antivirus rapid şi puternic</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">Beneficiați de experiențe de navigare, jocuri și conectare mai sigure cu protecția rapidă și puternică a produsului ${bts.package.[0].name}. Această soluție elimină o gamă largă de amenințări de pe internet.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">Instalare ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Securitate completă pentru internet</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">Beneficiați de experiențe optime de utilizare a computerului când lucrați, vă jucați și vă conectați - protejat de ${bts.package.[0].name}. Această soluție combină protecția anti-malware și antispam cu protecția firewall și controlul parental.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">Instalare ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Securitate completă pentru internet</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">Beneficiați de experiențe optime de utilizare a computerului când lucrați, vă jucați și vă conectați - protejat de ${bts.package.[0].name}. Această soluție combină protecția anti-malware și antispam cu protecția firewall și controlul parental.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">Instalare ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Securitate completă pentru internet</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">Beneficiați de experiențe optime de utilizare a computerului când lucrați, vă jucați și vă conectați - protejat de ${bts.package.[0].name}. Această soluție combină protecția anti-malware și antispam cu protecția firewall și controlul parental.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">Instalare ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">Utilizaţi cu plăcere computerul când lucraţi, vă jucaţi şi vă conectaţi - protejat de ESET.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">Instalare ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Protecţie standard avansată pentru compania dvs.</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name} dispune de tehnologia de detectare premiată ESET NOD32® care oferă  companiei dvs. o protecţie standard avansată cu consum redus al resurselor, îmbunătăţită cu sistemul nostru de reputaţie din cloud. Controlul se face fără efort prin intermediul consolei web prietenoase ESET Remote Administrator, complet reproiectată.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">Instalare ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Suita dvs. de securitate avansată şi completă</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} este suita dvs. de securitate avansată şi completă care vă oferă protecţie cuprinzătoare pe mai multe niveluri împotriva tuturor tipurilor de malware. Beneficiaţi de solicitarea redusă a resurselor sistemului, asistenţă pentru virtualizare şi supraveghere atentă prin intermediul noii console web ESET Remote Administrator.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">Doresc să dezinstalez aplicaţiile antivirus nedorite utilizând ESET AV Remover</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">Este disponibilă online o versiune mai nouă a acestui produs care poate fi descărcată și instalată automat în locul versiunii incluse.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Instalați versiunea mai nouă</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} nu acceptă această versiune veche de Microsoft Windows. Va fi instalată cea mai recentă versiune compatibilă a produsului {{IDS_ELI_PRODUCT_NAME_ESS}}.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} nu acceptă în totalitate această versiune veche de Microsoft Windows. Puteţi continua instalarea, dar pot să apară probleme.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Acord de licenţă pentru utilizatorul final</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Acord de licenţă pentru utilizatorul final - %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Text (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Accept</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">Nu accept</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Precizia crește odată cu numărul. Obţineţi nivelul maxim de protecţie.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">Sistemul de feedback ESET LiveGrid® ne permite să colectăm informații despre obiectele suspecte, pe care le procesăm automat pentru a crea mecanisme de detectare în sistemul nostru cloud. Apoi aplicăm imediat aceste mecanisme pentru a asigura clienților noștri un nivel  maxim de protecție.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">Activați sistemul de feedback ESET LiveGrid® (recomandat)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Ajutaţi-ne să vă oferim cea mai bună securitate existentă.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">Sistemul de feedback ESET LiveGrid® foloseşte peste 100 de milioane de senzori din întreaga lume care ne permit să colectăm informaţii despre obiectele suspecte, pe care le procesăm automat pentru a crea mecanisme de detectare cu ajutorul sistemul nostru de reputaţie din cloud. Apoi, aplicăm imediat aceste mecanisme pentru a ne asigura că beneficiaţi de nivelul maxim de protecţie.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Setări protecţie</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Detectarea aplicaţiilor potenţial nedorite</string>
+  <string name="IDS_ELI_PUA_QUESTION01">Ce este o aplicaţie potenţial nedorită?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">De ce întrebăm?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET poate detecta &lt;a {{IDS_HELP_PUA_LINK}}&gt;aplicaţii potenţial nedorite&lt;/a&gt; şi poate solicita o confirmare înainte de instalarea acestora. Este posibil ca aplicaţiile potenţial nedorite să nu prezinte un risc la adresa securităţii, însă pot afecta performanţele, viteza şi fiabilitatea computerului sau pot cauza modificări la nivel comportamental. De obicei, aceste aplicații solicită consimţământul utilizatorului înainte de instalare.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;De exemplu,&lt;/b&gt; pot schimba pagina Web a browserului dvs. și setările de căutare.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;NOTIFICARE: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET poate să detecteze &lt;a {{IDS_HELP_PUA_LINK}}&gt;aplicații potențial nedorite&lt;/a&gt; și să solicite confirmare înainte de instalarea lor. Este posibil ca aplicațiile potențial nedorite să nu prezinte riscuri de securitate, însă &lt;b&gt;pot afecta:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;performanțele&lt;/li&gt;&lt;li&gt;viteza&lt;/li&gt;&lt;li&gt;fiabilitatea&lt;/li&gt;&lt;li&gt;comportarea&lt;/li&gt; computerului dvs.&lt;/ul&gt;De obicei, aceste aplicații necesită consimțământul utilizatorului înainte de instalare.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Alegeţi o opţiune înainte de a continua:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Dezactivaţi detectarea aplicaţiilor potenţial nedorite</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Activaţi detectarea aplicaţiilor potenţial nedorite</string>
+  <string name="IDS_ELI_PUA_DISABLE2">Nu se detectează aplicaţiile potenţial nedorite</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Detectare aplicaţii potenţial nedorite</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Schimbare director de instalare</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Selectare director de instalare</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Director produs:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Doresc să specific alte directoare pentru fișierele care se modifică frecvent</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Director modul:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Director date:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">A fost selectat un director nevalid.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Instalare în curs</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Se scanează</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Au fost găsite alte produse de securitate</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">În sistem este prezentă alt software de securitate sau un astfel de software nu a fost eliminat complet. Executarea simultană a două soluţii de securitate poate cauza instabilitate.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Se verifică posibilele aplicaţii aflate în conflict...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Cum se dezinstalează alte software-uri antivirus</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Aplicaţie de curăţare specializată</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">Aplicaţia de curăţare specializată este destinată eliminării programelor malware complexe de pe computer. Această aplicaţie poate cauza probleme de stabilitate şi este recomandată numai utilizatorilor avansaţi.&lt;br&gt;Pentru informaţii suplimentare, vizitaţi &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;Baza de cunoştinţe&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Sigur doriţi să executaţi aplicaţia de curăţare?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Se descarcă aplicația de curățare specializată...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;Aplicația de curățare specializată se execută.&lt;/b&gt;&lt;br&gt;Așteptați...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">Nu a fost găsit niciun program malware în sistem.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Au fost detectate programe malware şi au fost eliminate din sistem.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Au fost detectate programe malware în sistem.&lt;br&gt;Contactaţi serviciul pentru clienţi pentru instrucţiuni privind eliminarea.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Au fost detectate programe malware în sistem. Este necesară repornirea sistemului pentru finalizarea curăţării.&lt;br&gt;Reţineţi că pot fi necesare mai multe reporniri ale sistemului.&lt;br&gt;&lt;br&gt;Continuați cu repornirea sistemului?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">Aplicaţia de curăţare specializată s-a închis în mod neaşteptat.\nContactaţi serviciul nostru pentru clienţi pentru asistenţă.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">Descărcare în curs</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Se descarcă…</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">Se descarcă %1 ...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Instalare în curs</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Instalare...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">Se instalează %1...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">Sigur doriţi să revocaţi instalarea pachetului ${bts.package.[${bts.var.package.default}].name}?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Instalare finalizată cu succes</string>
+  <string name="IDS_ELI_DONE_TEXT">Pachetul ${bts.package.[${bts.var.package.default}].name} a fost instalat cu succes pe computer. Computerul va fi verificat permanent pentru viruși și programe malware. &lt;br&gt; &lt;br&gt; Faceți clic pe &lt;i&gt;Terminat&lt;/i&gt; pentru a finaliza setarea produsului și a începe procesul de activare.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">Pachetul ${bts.package.[${bts.var.package.default}].name} a fost instalat cu succes pe computer. Computerul va fi verificat permanent pentru viruși și programe malware.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Aflați mai multe despre securitate: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;Baza de cunoștințe ESET&lt;/a&gt;
+    &lt;br&gt;
+    Conectați-vă la ESET:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Deschideți sondajul</string>
+  <string name="IDS_ELI_MUNI_TITLE">Sondaj privind securitatea</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET, în colaborare cu Universitatea Masaryk, efectuează o cercetare privind comportamentul utilizatorilor în ceea ce privește securitatea.&lt;br&gt;Ajutați-ne și participați la scurtul nostru sondaj.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Răspunsurile dvs. ne vor ajuta să îmbunătățim securitatea globală asigurată de produsele ESET.&lt;/b&gt;&lt;br&gt;Participând la acest sondaj sunteți de acord că întregul conținut poate fi analizat de cercetători de la Universitatea Masaryk, însă datele dvs. vor fi utilizate numai în scopuri statistice. Nu vor fi colectate date de identificare.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Instalarea a eşuat</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">Instalarea a fost întreruptă</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">Instalarea pachetului ${bts.package.[${bts.var.package.current}].name} nu s-a finalizat cu succes. Este posibil să nu aveți computerul protejat împotriva amenințărilor informatice. Pentru a instala pachetul ${bts.package.[${bts.var.package.current}].name} pe computerul dvs., executați instalarea din nou.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Eroare:&lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">Instalarea a fost întreruptă de utilizator</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">Instalarea pachetului ${bts.package.[${bts.var.package.default}].name} a fost întreruptă de către utilizator. Pentru a instala pachetul ${bts.package.[${bts.var.package.default}].name} pe computerul dvs., executați instalarea din nou.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">Instalarea nu s-a finalizat cu succes</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">Acest lucru poate fi rezultatul activității unor programe malware. Pentru a verifica sistemul pentru potențiale amenințări, este recomandat să executați o &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;aplicație de curățare specializată&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Lipsă spaţiu disc</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">Nu există suficient spațiu pe volumul %1% pentru descărcarea și pornirii instalării pachetului ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Asigurați-vă că aveți cel puțin %2!d! MB de spațiu liber și faceți clic pe &lt;i&gt;Încercați din nou&lt;/i&gt; pentru a verifica din nou spațiul disponibil și a continua instalarea sau faceți clic pe &lt;i&gt;Închidere&lt;/i&gt; pentru a părăsi instalarea.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Lipsă spaţiu disc</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">Nu există suficient spațiu pe volumul %1% pentru finalizarea instalării pachetului ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Asigurați-vă că aveți cel puțin %2!d! MB de spațiu liber și faceți clic pe &lt;i&gt;Încercați din nou&lt;/i&gt; pentru a verifica din nou spațiul disponibil și a continua instalarea sau faceți clic pe &lt;i&gt;Închidere&lt;/i&gt; pentru a părăsi instalarea.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Eroare la conectare</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Conectarea la server nu a reușit. Verificați-vă conexiunea la rețea și încercați din nou.&lt;br&gt;&lt;br&gt;Dacă aveți în continuare probleme, accesați &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; pentru a descărca programul de instalare offline.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Eroare la descărcare</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">A survenit o eroare la descărcarea datelor de pe server. Verificați-vă conexiunea la rețea și încercați din nou.&lt;br&gt;&lt;br&gt;Dacă aveți în continuare probleme, accesați &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; pentru a descărca programul de instalare offline.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Eroare la descărcare</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Nu a fost găsit pe server niciun pachet de instalare. Vizitaţi &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; pentru a descărca programul de instalare offline.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Eroare internă</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">A survenit o eroare internă. Încercaţi să porniţi din nou instalarea.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Răspuns nevalid</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">A fost primit un răspuns nevalid de la server.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Pachet compatibil negăsit</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Nu este disponibil pe server niciun pachet de instalare compatibil. Accesați &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; pentru a descărca programul de instalare offline.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Eroare la conectare</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Conectarea la server nu a reușit. verificați-vă conexiunea la rețea și încercați din nou. Dacă utilizați un server proxy, schimbați &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;setările pentru serverul proxy&lt;/a&gt;. &lt;br&gt;&lt;br&gt;Dacă aveți în continuare probleme, accesați &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; pentru a descărca programul de instalare offline.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Cea mai recentă versiune este deja instalată</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">Este deja instalată pe acest computer cea mai recentă versiune de ${bts.package.[${bts.var.package.default}].name}.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Pachet incompatibil</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Acest pachet de instalare este destinat sistemelor de operare pe 64 de biţi. Utilizaţi un pachet de instalare pentru sisteme de operare pe 32 de biţi.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Pachet incompatibil</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Acest pachet de instalare este destinat sistemelor de operare pe 32 de biţi. Utilizaţi un pachet de instalare pentru sisteme de operare pe 64 de biţi.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Nu este un produs server</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">Pachetul ${bts.package.[${bts.var.package.current}].name} nu este destinat sistemelor de operare pentru servere. Descărcați și instalați un produs server de la &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">Nu este un produs client</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">Pachetul ${bts.package.[${bts.var.package.current}].name} nu este destinat sistemelor de operare pentru servere. Descărcați și instalați un produs client de la &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Produs incompatibil instalat</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Este deja instalat un produs {PRODUCT} incompatibil. Dezinstalaţi-l manual şi porniţi din nou instalarea.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Sistem de operare incompatibil</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">Pachetul ${bts.package.[${bts.var.package.current}].name} nu este destinat sistemelor dvs. de operare. Descărcați și instalați un produs de la &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Pachetul nu a fost găsit.</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">Pachetul de instalare a programului ${bts.package.[${bts.var.package.current}].name} (${bts.package.[${bts.var.package.current}].file}) nu a fost găsit.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Extragerea pachetului a eşuat</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">Extragerea pachetului ${bts.package.[${bts.var.package.current}].name} a eşuat.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">Instalarea pachetului ${bts.package.[${bts.var.package.current}].name} nu s-a finalizat cu succes. Este posibil să nu aveți computerul protejat împotriva amenințărilor informatice. Pentru a instala pachetul ${bts.package.[${bts.var.package.current}].name} pe computerul dvs., executați instalarea din nou.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Drepturi insuficiente pentru instalarea produsului</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">Nu aveți drepturi suficiente pentru a instala ${bts.package.[${bts.var.package.current}].name}. Pentru a instala ${bts.package.[${bts.var.package.current}].name} pe computerul dvs., executați din nou instalarea ca administrator.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Cod eroare: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Această acţiune va avea ca rezultat inclusiv închiderea Asistentului pentru instalare. Sigur doriţi acest lucru?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Setare server proxy</string>
+  <string name="IDS_ELI_PROXY_TEXT2">Serverul proxy necesită autentificare</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Server proxy:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Port:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Nume utilizator:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Parolă:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Utilizez un server proxy</string>
+  
+</resources>

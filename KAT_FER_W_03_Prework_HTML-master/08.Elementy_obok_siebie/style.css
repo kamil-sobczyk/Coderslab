@@ -1,0 +1,19 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.box-left {float:left}
+.box-right {float: right}
+.clearfix {clear: both;
+display: block}
+p {
+    width: 80px;
+    border: 2px;
+    border-style: dotted;
+    border-color: red;
+    /*float: left;*/
+    display: inline-block;
+}

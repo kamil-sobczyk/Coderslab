@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="ελληνικά" lcid="0408">
+  <string name="IDS_HELP">Βοήθεια</string>
+	<string name="IDS_BUTTON_YES">Ναι</string>
+	<string name="IDS_BUTTON_NO">Όχι</string>
+	<string name="IDS_BUTTON_ACCEPT">Αποδοχή</string>
+	<string name="IDS_BUTTON_DECLINE">Απόρριψη</string>
+	<string name="IDS_BUTTON_CONTINUE">Συνέχεια</string>
+	<string name="IDS_BUTTON_IGNORE">Παράβλεψη</string>
+	<string name="IDS_BUTTON_BACK">Πίσω</string>
+	<string name="IDS_BUTTON_NEXT">Επόμενο</string>
+	<string name="IDS_BUTTON_CANCEL">Ακύρωση</string>
+	<string name="IDS_BUTTON_CLOSE">Κλείσιμο</string>
+	<string name="IDS_BUTTON_REMOVE">Κατάργηση</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Επανεκκίνηση τώρα</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Επανεκκίνηση αργότερα</string>
+	<string name="IDS_BUTTON_RETRY">Προσπαθήστε ξανά</string>
+	<string name="IDS_BUTTON_OK">ΟΚ</string>
+	<string name="IDS_BUTTON_ABORT">Ματαίωση</string>
+	<string name="IDS_BUTTON_INSTALL">Εγκατάσταση</string>
+  <string name="IDS_BUTTON_PRINT">Εκτύπωση...</string>
+  <string name="IDS_BUTTON_SAVE">Αποθήκευση</string>
+  <string name="IDS_BUTTON_DONE">Τέλος</string>
+  <string name="IDS_BUTTON_BROWSE">Αναζήτηση...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Επαναφορά προεπιλογών</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Ματαίωση&lt;/h3&gt; Αναμονή ολοκλήρωσης της εκτελούμενης ενέργειας</string>
+	<string name="IDS_MSGBOX_CLOSE">Αυτή η ενέργεια θα κλείσει επίσης τον οδηγό εγκατάστασης. Είστε βέβαιοι ότι θέλετε να συμβεί αυτό;</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Επιλογή διαδρομής</string>  
+</resources>

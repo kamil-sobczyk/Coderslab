@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Suomi" lcid="040b">
+	<string name="IDS_ELI_LIVE_INSTALLER">Live-asennusohjelma</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Tervetuloa|Käyttöoikeussopimus|AV Remover|Asennus|Lopeta</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Alustetaan...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Tämän tietokoneen hallinnasta vastaa ESET Remote Administrator</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">Seuraavat komponentit sisältyvät tähän asennusohjelmaan</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Käyttöoikeus:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Palvelin:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Ryhmä:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Kokoonpano:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Valmistellaan asennuspakettia...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Lasketaan käytettävissä olevaa tilaa...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">Päivitä ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Asenna tämä maksuton päivitys, jotta pysyt suojattuna</string>
+  <string name="IDS_ELI_UPDATE_TEXT">${bts.package.[0].name} on päivitettävä, jotta se on Windows 10 -yhteensopiva. Aiemmin asennettua versiota ei voitu siirtää Windows 10:een. Pysyt suojattuna, kun määrität, että tämän tuotteen uusin versio ladataan ja asennetaan automaattisesti.&lt;BR&gt;&lt;BR&gt;Päivitys ei maksa mitään, ja käyttöoikeus ja asetukset pysyvät ennallaan.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Muistuta myöhemmin</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">Asenna ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Nopea, tehokas virustentorjunta</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">Nopea ja tehokas ${bts.package.[0].name} tekee selauksesta, pelaamisesta ja yhteyksien muodostamisesta entistä turvallisempaa. Ratkaisu ehkäisee suuren määrän Internet-uhkia.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">Asenna ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Kaikenkattava Internet-suojaus</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">Voit käyttää tietokonettasi töissä, vapaa-ajalla ja yhteyksien ylläpitoon – suojauksesta vastaa ${bts.package.[0].name}. Ratkaisu yhdistää haittaohjelmasuojauksen roskapostiin, henkilökohtaiseen palomuuriin ja käytönvalvontaan.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">Asenna ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Kaikenkattava Internet-suojaus</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">Voit käyttää tietokonettasi töissä, vapaa-ajalla ja yhteyksien ylläpitoon – suojauksesta vastaa ${bts.package.[0].name}. Ratkaisu yhdistää haittaohjelmasuojauksen roskapostiin, henkilökohtaiseen palomuuriin ja käytönvalvontaan.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">Asenna ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Kaikenkattava Internet-suojaus</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">Voit käyttää tietokonettasi töissä, vapaa-ajalla ja yhteyksien ylläpitoon – suojauksesta vastaa ${bts.package.[0].name}. Ratkaisu yhdistää haittaohjelmasuojauksen roskapostiin, henkilökohtaiseen palomuuriin ja käytönvalvontaan.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">Asenna ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">Voit käyttää tietokonettasi töissä, vapaa-ajalla ja yhteyksien ylläpitoon – suojauksesta vastaa ESET.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">Asenna ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Kehittynyt perustason suojaus yrityksellesi</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">Palkittua ESET NOD32® -tunnistustekniikkaa käyttävä ${bts.package.[0].name} sisältää pilvipohjaisella maineentarkistusjärjestelmällä tehostetun kevyen perustason suojauksen. Voit hallinnoida kaikkea vaivattomasti täysin uusiksi suunnitellulla käyttäjäystävällisellä ESET Remote Administrator -verkkokonsolilla.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">Asenna ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Täydet ominaisuudet sisältävä kehittynyt tietoturvaohjelmisto</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} on täydet ominaisuudet sisältävä kehittynyt tietoturvaohjelmisto, jonka kattava, monikerroksinen suojaus suojaa kaikenlaisilta haittaohjelmilta. Järjestelmälle asetettavat vaatimukset ovat vähäiset, virtualisointi toimii, ja upouusi ESET Remote Administrator -verkkokonsoli on näppärä väline valvontaan.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">Haluan poistaa epätoivottuja virustentorjuntaohjelmia ESET AV Remover -ohjelmalla</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">Uudempi versio tästä tuotteesta on käytettävissä verkossa. Sen voi ladata ja asentaa automaattisesti mukana tulleen version sijaan.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Asenna uudempi versio</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} ei tue tätä vanhentunutta Microsoft Windows -versiota. Asennetaan tuotteen {{IDS_ELI_PRODUCT_NAME_ESS}} uusin yhteensopiva versio.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} ei tue tätä vanhentunutta Microsoft Windows -versiota täysin. Voit jatkaa asennusta, mutta ongelmia saattaa ilmetä.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Käyttöoikeussopimus</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Käyttöoikeussopimus – %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Tekstitiedostot (*.txt)|*.txt|HTML-tiedostot (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Hyväksyn</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">En hyväksy</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Määrässä on voimaa. Hanki paras mahdollinen suojaus.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">ESET LiveGrid® -palautejärjestelmän avulla saamme kerättyä tietoja epäilyttävistä kohteista, jotka käsittelemme automaattisesti ja luomme näin tunnistusmekanismeja pilvijärjestelmäämme. Otamme ne sitten heti käyttöön, mikä takaa parhaan mahdollisen suojauksen asiakkaillemme.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">Ota ESET LiveGrid® -palautejärjestelmä käyttöön (suositus)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Auta meitä parantamaan tietoturvaa entisestään.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">ESET LiveGrid® -palautejärjestelmän yli 100 miljoonan eri puolilla maailmaa toimivan sensorin avulla saamme kerättyä tietoja epäilyttävistä kohteista, jotka käsittelemme automaattisesti ja luomme näin tunnistusmekanismeja pilvijärjestelmäämme. Otamme ne sitten heti käyttöön, mikä takaa parhaan mahdollisen suojauksen asiakkaillemme.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Suojausasetukset</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Mahdollisesti ei-toivottujen sovellusten tunnistus</string>
+  <string name="IDS_ELI_PUA_QUESTION01">Mikä on mahdollisesti ei-toivottu sovellus?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">Miksi kysymme asiasta?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET voi tunnistaa &lt;a {{IDS_HELP_PUA_LINK}}&gt;mahdollisesti ei-toivotut sovellukset&lt;/a&gt; ja pyytää vahvistusta ennen niiden asentamista. Mahdollisesti ei-toivotut sovellukset eivät välttämättä aiheuta tietoturvariskiä, mutta ne saattavat vaikuttaa tietokoneen suorituskykyyn, nopeuteen ja luotettavuuteen tai aiheuttaa muutoksia toimintaan. Niiden asennus edellyttää yleensä käyttäjän lupaa.</string>
+  <string name="IDS_ELI_PUA_TEXT02">Ne voivat &lt;b&gt;esimerkiksi&lt;/b&gt; muuttaa selaimen verkkosivun ja hakuasetukset.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;HUOMAUTUS: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET voi tunnistaa &lt;a {{IDS_HELP_PUA_LINK}}&gt;mahdollisesti ei-toivotut sovellukset&lt;/a&gt; ja pyytää vahvistusta ennen niiden asentamista. Mahdollisesti ei-toivotut sovellukset eivät välttämättä aiheuta tietoturvariskiä, mutta ne &lt;b&gt;voivat vaikuttaa tietokoneesi:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;suorituskykyyn&lt;/li&gt;&lt;li&gt;nopeuteen&lt;/li&gt;&lt;li&gt;luotettavuuteen&lt;/li&gt;&lt;li&gt;toimintaan&lt;/li&gt;&lt;/ul&gt;. Niiden asennus edellyttää yleensä käyttäjän lupaa.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Valitse vaihtoehto, ennen kuin jatkat:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Poista mahdollisesti ei-toivottujen sovellusten tunnistus käytöstä</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Ota mahdollisesti ei-toivottujen sovellusten tunnistus käyttöön</string>
+  <string name="IDS_ELI_PUA_DISABLE2">Älä tunnista mahdollisesti ei-toivottuja sovelluksia</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Tunnista mahdollisesti ei-toivotut sovellukset</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Vaihda asennuskansio</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Valitse asennuskansio</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Tuotteen kansio:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Haluan määrittää eri kansiot tiedostoille, jotka muuttuvat usein</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Moduulin kansio:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Tietojen kansio:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Virheellinen kansio valittu.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Asennus käynnissä</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Tarkistetaan</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Löytyi muita tietoturvatuotteita</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">Järjestelmässä on jokin muu tietoturvaohjelmisto tai sitä ei ole poistettu kokonaan. Kahden tietoturvaratkaisun suorittaminen samaan aikaan voi aiheuttaa epävakautta.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Tarkistetaan mahdollisesti ristiriidassa olevia sovelluksia...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Muiden virustentorjuntaohjelmien asennuksen poistaminen</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Erikoispuhdistaja</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">Erikoispuhdistaja on suunniteltu poistamaan vaikeat haittaohjelmat tietokoneestasi. Tämä sovellus saattaa aiheuttaa vakausongelmia, ja sitä suositellaan vain kokeneille käyttäjille.&lt;br&gt;Lisätietoja on &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;tietämyskannassa&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Haluatko jatkaa ja suorittaa puhdistuksen?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Ladataan erikoispuhdistajaa...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;Erikoispuhdistaja on käynnissä.&lt;/b&gt;&lt;br&gt;Odota...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">Järjestelmästä ei löytynyt yhtään haittaohjelmaa.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Järjestelmästä löytyi haittaohjelma ja se poistettiin.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Järjestelmästä löytyi haittaohjelma.&lt;br&gt;Pyydä poisto-ohjeet asiakastuestamme.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Järjestelmästä löytyi haittaohjelma. Puhdistus vaatii järjestelmän käynnistämisen uudelleen.&lt;br&gt;Uudelleenkäynnistys on mahdollisesti tehtävä useita kertoja.&lt;br&gt;&lt;br&gt;Haluatko käynnistää uudelleen nyt?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">Erikoispuhdistajan suoritus päättyi odottamattomasti.&lt;br&gt;Pyydä lisäohjeita asiakastuestamme.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">Lataus käynnissä</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Ladataan...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">Ladataan kohdetta %1...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Asennus käynnissä</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Asennetaan...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">Asennetaa kohdetta %1...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">Haluatko varmasti peruuttaa ohjelman ${bts.package.[${bts.var.package.default}].name} asennuksen?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Asennus onnistui</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[${bts.var.package.default}].name} on asennettu tietokoneeseen. Tietokoneesi tarkistetaan jatkuvasti virusten ja haittaohjelmien varalta. &lt;br&gt; &lt;br&gt; Valitse &lt;i&gt;Valmis&lt;/i&gt;, jos haluat viimeistellä tuoteasetusten määrityksen ja aloittaa aktivoinnin.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[${bts.var.package.default}].name} on asennettu tietokoneeseen. Tietokoneesi tarkistetaan jatkuvasti virusten ja haittaohjelmien varalta.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Lue lisää tietoturvasta: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;ESET-tietämyskanta&lt;/a&gt;
+    &lt;br&gt;
+    Ole yhteydessä ESETiin:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;YouTube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Avoin kysely</string>
+  <string name="IDS_ELI_MUNI_TITLE">Tietoturvakysely</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET ja Masaryk University ovat laatineet yhteistyössä tutkimuksen, joka keskittyy tietoturvaan liittyvään käyttäytymiseen.&lt;br&gt;Ole mukana ja vastaa lyhyeen kyselyyn.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Vastaustesi avulla voimme parantaa ESET-tuotteiden yleistä tietoturvaa.&lt;/b&gt;&lt;br&gt;Kun vastaat tähän kyselyyn, hyväksyt, että Masaryk Universityn tutkijat voivat analysoida kaikkea sisältöä, mutta tietojasi käytetään vain tilastointitarkoituksissa. Henkilötietoja ei kerätä.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Asennus epäonnistui</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">Asennus on keskeytetty</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">${bts.package.[${bts.var.package.current}].name} ei asentunut oikein. Järjestelmää ei ole ehkä suojattu tietokoneuhilta. Asenna ${bts.package.[${bts.var.package.current}].name} uudelleen.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Asennusvirhe &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">Käyttäjä on keskeyttänyt asennuksen</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">Käyttäjä on keskeyttänyt tuotteen ${bts.package.[${bts.var.package.default}].name} asennuksen. Asenna ${bts.package.[${bts.var.package.default}].name} uudelleen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">Asennus ei onnistunut</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">Tämä saattaa johtua haittaohjelmasta. Voit tarkistaa järjestelmän mahdollisten uhkien varalta suorittamalla &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;erikoispuhdistajan&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Levytila ei riitä</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">Aseman %1% levytila ei riitä tuotteen ${bts.package.[${bts.var.package.default}].name} lataamiseen ja asennuksen aloittamiseen.&lt;br&gt;&lt;br&gt;Varmista, että vapaana on vähintään %2!d! Mt. Valitse &lt;i&gt;Yritä uudelleen&lt;/i&gt;, jos haluat tarkistaa käytettävissä olevan tilan uudelleen ja jatkaa lataamista, tai valitse &lt;i&gt;Sulje&lt;/i&gt;, jos haluat lopettaa asennuksen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Levytila ei riitä</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">Aseman %1% levytila ei riitä tuotteen ${bts.package.[${bts.var.package.default}].name} asennuksen viimeistelemiseen.&lt;br&gt;&lt;br&gt;Varmista, että vapaana on vähintään %2!d! Mt. Valitse &lt;i&gt;Yritä uudelleen&lt;/i&gt;, jos haluat tarkistaa käytettävissä olevan tilan uudelleen ja jatkaa lataamista, tai valitse &lt;i&gt;Sulje&lt;/i&gt;, jos haluat lopettaa asennuksen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Yhteysvirhe</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Yhteyttä palvelimeen ei voida muodostaa. Tarkista verkkoyhteys ja yritä uudelleen.&lt;br&gt;&lt;br&gt;Jos ongelmia ilmenee edelleen, käy osoitteessa &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; ja lataa offline-asennusohjelma.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Latausvirhe</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Virhe ladattaessa tietoja palvelimesta. Tarkista verkkoyhteys ja yritä uudelleen.&lt;br&gt;&lt;br&gt;Jos ongelmia ilmenee edelleen, käy osoitteessa &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; ja lataa offline-asennusohjelma.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Latausvirhe</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Palvelimesta ei löydy asennuspakettia. Lataa offline-asennusohjelma osoitteesta &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Sisäinen virhe</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Sisäinen virhe. Yritä uudelleen ja aloita asennus alusta.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Virheellinen vastaus</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Virheellinen vastaus palvelimesta.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Yhteensopivaa pakettia ei löydy</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Palvelimessa ei ole yhteensopivaa asennuspakettia. Käy osoitteessa &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; ja lataa offline-asennusohjelma.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Yhteysvirhe</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Yhteyttä palvelimeen ei voida muodostaa. Tarkista verkkoyhteys ja yritä uudelleen. Jos käytössä on välityspalvelin, muuta &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;välityspalvelinasetuksia&lt;/a&gt;. &lt;br&gt;&lt;br&gt;Jos ongelmia ilmenee edelleen, käy osoitteessa &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; ja lataa offline-asennusohjelma.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Uusin versio on jo asennettu</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">Tuotteen ${bts.package.[${bts.var.package.default}].name} uusin versio on jo asennettu tähän tietokoneeseen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Paketti ei ole yhteensopiva</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Tämä asennuspaketti on tarkoitettu 64-bittisille käyttöjärjestelmille. Käytä 32-bittisille käyttöjärjestelmille tarkoitettua asennuspakettia.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Paketti ei ole yhteensopiva</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Tämä asennuspaketti on tarkoitettu 32-bittisille käyttöjärjestelmille. Käytä 64-bittisille käyttöjärjestelmille tarkoitettua asennuspakettia.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Ei palvelintuote</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">${bts.package.[${bts.var.package.current}].name} ei toimi palvelinkäyttöjärjestelmissä. Lataa ja asenna palvelintuote osoitteesta &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">Ei asiakasohjelmatuote</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">${bts.package.[${bts.var.package.current}].name} ei toimi palvelinkäyttöjärjestelmissä. Lataa ja asenna asiakasohjelmatuote osoitteesta &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Epäyhteensopiva tuote asennettu</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Epäyhteensopiva {PRODUCT} on jo asennettu. Poista sen asennus manuaalisesti ja aloita asennus uudelleen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Epäyhteensopiva käyttöjärjestelmä</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">${bts.package.[${bts.var.package.current}].name} ei toimi käyttöjärjestelmissäsi. Lataa ja asenna tuote osoitteesta &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Pakettia ei löydy</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">Asennuspakettia ${bts.package.[${bts.var.package.current}].name} (${bts.package.[${bts.var.package.current}].file}) ei löytynyt.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Paketin purku epäonnistui</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">Paketin ${bts.package.[${bts.var.package.current}].name} purku epäonnistui.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">${bts.package.[${bts.var.package.current}].name} ei asentunut oikein. Järjestelmää ei ole ehkä suojattu tietokoneuhilta. Asenna ${bts.package.[${bts.var.package.current}].name} uudelleen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Oikeudet eivät riitä tuotteen asennukseen</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">Oikeutesi eivät riitä tuotteen ${bts.package.[${bts.var.package.current}].name} asentamiseen. Voit asentaa tuotteen ${bts.package.[${bts.var.package.current}].name} tietokoneeseen suorittamalla asennuksen uudelleen järjestelmänvalvojana.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Virhekoodi: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Tämä toiminto sulkee myös ohjatun asennustoiminnon. Haluatko varmasti tehdä näin?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Määritä välityspalvelimen asetukset</string>
+  <string name="IDS_ELI_PROXY_TEXT2">Välityspalvelin edellyttää todennusta</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Välityspalvelin:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Portti:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Käyttäjänimi:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Salasana:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Käytä välityspalvelinta</string>
+  
+</resources>

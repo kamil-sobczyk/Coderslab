@@ -1,0 +1,150 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-family:'Open Sans', Arial, sans-serif;
+}
+.row::after {
+    content:"";
+    display: block;
+    clear: both;
+}
+.container {
+    width: 100%;
+    max-width: 920px;
+    margin: 0 auto;
+}
+header {
+    width: 100%;
+    height: 800px;
+    background: url("../images/background.jpg") no-repeat center/cover;
+}
+.top {
+    height: 80px;
+}
+
+div.col {
+    float:left;
+    width:100px;
+    height:20px;
+    background: url("../images/logo.png") no-repeat center/contain;
+    padding:27px;
+}
+header nav.col{
+    float:right;
+    padding: 32px 0;
+}
+
+header nav li{
+    display: inline-block;
+    padding: 0 12.5px;
+}
+
+header a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 0 10px;
+    font-size: 14px;
+}
+div.main {
+    width: 100%;
+    height: 550px;
+    padding-top: 170px;
+}
+h1 {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-bottom: 20px;
+    color: white;
+}
+h2 {
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    padding-bottom: 50px;
+    color: white;
+}
+.red-box {
+    width: 200px;
+    height: 70px;
+    background-color: red;
+    border-radius: 5px;
+}
+.main a {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 70px;
+    padding-left: 50px;
+}
+.middle {
+    width: 100%;
+    height: 500px;
+}
+h3 {
+    width: 45%;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 50px;
+    padding: 175px 0;
+    float: left;
+    color: #b7b7b7b7;
+
+}
+article {
+    width: 45%;
+    padding: 125px 0;
+    display: block;
+    float: right;
+}
+p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #b7b7b7b7;
+}
+article p:first-child {
+    padding-bottom: 26px;
+}
+footer {
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+.footer_first-row {
+    width: 100%;
+    height: 90px;
+}
+.footer-logo {
+    width: 100px;
+    height: 20px;
+    background: url("../images/logo.png") no-repeat center/contain;
+    padding: 35px 0;
+}
+.footer_second-row {
+    padding-bottom: 90px;
+}
+footer nav {
+    width: 100%;
+    height: 90px;
+}
+footer nav ul {
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+footer nav ul:last-child{
+    float: right;
+}
+footer nav ul li {
+    list-style-type: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 40px;
+    color: #474747;
+}
+footer nav ul:last-child li {
+    line-height: 40px;
+    color: #353434;
+}

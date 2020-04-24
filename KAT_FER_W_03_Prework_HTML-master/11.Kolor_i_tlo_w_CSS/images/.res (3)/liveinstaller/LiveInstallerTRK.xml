@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Türkçe" lcid="041f">
+	<string name="IDS_ELI_LIVE_INSTALLER">Canlı Yükleyici</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Hoş geldiniz|Lisans sözleşmesi|AV Remover|Yükleme|Bitir</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Başlatılıyor...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Bu bilgisayar ESET Remote Administrator tarafından yönetilecek</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">Aşağıdaki bileşenler bu yükleyici kapsamındadır</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Lisans:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Sunucu:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Grup:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Yapılandırma:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Yükleme paketi hazırlanıyor...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Kullanılabilir alan hesaplanıyor...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">${bts.package.[0].name} ürününü güncelle</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Korunmaya devam etmek için bu ücretsiz güncellemeyi yükleyin</string>
+  <string name="IDS_ELI_UPDATE_TEXT">${bts.package.[0].name}, Windows 10 ile uyumlu olmak için güncellenmelidir. Önceden yüklenen sürüm Windows 10'a taşınamadı. Korunmaya devam etmek için bu ürünün en son sürümü indirilebilir ve otomatik olarak yüklenebilir.&lt;BR&gt;&lt;BR&gt;Güncelleme ücretsizdir ve lisansınız ile ayarlarınız aynı şekilde devam eder.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Daha sonra hatırlat</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">${bts.package.[0].name} paketini yükle</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Hızlı, Güçlü Antivirus</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">${bts.package.[0].name} paketinin hızlı ve güçlü koruması ile daha güvenli gezinmenin, oyunların ve bağlantıların keyfini çıkarın. Bu çözüm, çok çeşitli İnternet tehditlerini engeller.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">${bts.package.[0].name} paketini yükle</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Tümü Bir Arada İnternet Güvenliği</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">${bts.package.[0].name} ürünüyle korunurken bilgisayarınızda çalışmanın, oyun oynamanın ve bağlanmanın keyfini çıkarın. Çözüm; kötü amaçlı yazılımlara karşı koruma, kişisel güvenlik duvarı ve ebeveyn kontrolünü bir araya getiriyor.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">${bts.package.[0].name} paketini yükle</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Tümü Bir Arada İnternet Güvenliği</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">${bts.package.[0].name} ürünüyle korunurken bilgisayarınızda çalışmanın, oyun oynamanın ve bağlanmanın keyfini çıkarın. Çözüm; kötü amaçlı yazılımlara karşı koruma, kişisel güvenlik duvarı ve ebeveyn kontrolünü bir araya getiriyor.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">${bts.package.[0].name} paketini yükle</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Tümü Bir Arada İnternet Güvenliği</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">${bts.package.[0].name} ürünüyle korunurken bilgisayarınızda çalışmanın, oyun oynamanın ve bağlanmanın keyfini çıkarın. Çözüm; kötü amaçlı yazılımlara karşı koruma, kişisel güvenlik duvarı ve ebeveyn kontrolünü bir araya getiriyor.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">${bts.package.[0].name} paketini yükle</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">ESET tarafından korunan bilgisayarınızda çalışmanın, oyun oynamanın ve bağlanmanın keyfini çıkarın.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">${bts.package.[0].name} paketini yükle</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">İşletmeniz için gelişmiş temel koruma</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name}, ödüllü ESET NOD32® algılama teknolojisine sahiptir ve işletmenizi hafif, gelişmiş temel korumayla güvence altına alır. Bulut tabanlı saygınlık sistemimizle genişletilmiştir. Tamamen yeniden tasarlanan kullanıcı dostu ESET Remote Administrator web konsolumuzla her şeyi zahmetsizce kontrol edin.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">${bts.package.[0].name} paketini yükle</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Tam özellikli, gelişmiş güvenlik setiniz</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} tam özellikli, gelişmiş güvenlik setinizdir. Her türden kötü amaçlı yazılıma karşı tam kapsamlı, çok katmanlı koruma sağlar. Düşük sistem gereksinimlerinin ve sanallaştırma desteğinin keyfini çıkarın. Tamamen yenilenen ESET Remote Administrator web konsolu üzerinden her şeyi kontrol edin.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">ESET AV Remover kullanarak istenmeyen antivirus uygulamalarını kaldırmak istiyorum</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">Bu ürünün yeni sürümü çevrimiçi olarak bulunuyor; sürüm halihazırdaki sürümün yerine otomatik olarak indirilebilir ve yüklenebilir.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Yeni sürümü yükle</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name}, Microsoft Windows'un bu eski sürümünü desteklemiyor. En son uyumlu {{IDS_ELI_PRODUCT_NAME_ESS}} sürümü yüklenecek.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name}, Microsoft Windows'un bu eski sürümünü tam olarak desteklemiyor. Yüklemeye devam edebilirsiniz, ancak sorunlar oluşabilir.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Son Kullanıcı Lisans Sözleşmesi</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Son kullanıcı lisans sözleşmesi - %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Metin (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Kabul Ediyorum</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">Kabul Etmiyorum</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Sayıların gücünden faydalanın. Maksimum koruma düzeyi edinin.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">ESET LiveGrid® geri bildirim sistemi şüpheli nesneler hakkında bilgiler toplamamıza olanak sağlar; bu bilgileri bulut sistemimizde algılama mekanizmaları oluşturmak için otomatik olarak işleriz. Daha sonra müşterilerimizin maksimum düzeyde korunmasını sağlamak için bunları derhal uygulamaya geçiririz.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">ESET LiveGrid® geri bildirim sistemini etkinleştir (önerilir)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Size her zamankinden daha iyi bir güvenlik sistemi sağlamamıza yardımcı olun.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">ESET LiveGrid® geri bildirim sistemi şüpheli nesneler hakkında bilgiler toplamamıza olanak sağlayan, dünya genelinde 100 milyondan fazla sensör kullanmaktadır. Bu nesneleri bulut tabanlı saygınlık sistemimizi kullanarak algılama mekanizmaları oluşturmak için otomatik olarak işleriz. Ardından, maksimum düzeyde korunmanızı sağlamak için bunları hemen uygulamaya geçiririz.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Koruma ayarları</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">İstenmeyen Türden Olabilecek Uygulamaların Algılanması</string>
+  <string name="IDS_ELI_PUA_QUESTION01">İstenmeyen türden olabilecek uygulama nedir?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">Neden soruyoruz?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET &lt;a {{IDS_HELP_PUA_LINK}}&gt;istenmeyen türden olabilecek uygulamaları&lt;/a&gt; algılayabilir ve bunlar yüklenmeden önce onay ister. İstenmeyen türden olabilecek uygulamalar güvenlik riski taşımayabilir ancak bilgisayarın performansını, hızını ve güvenilirliğini etkileyebilir veya bilgisayarın davranışında değişikliklere neden olabilir. Bunlar genellikle yükleme işleminden önce kullanıcının onayını gerektirir.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;Örneğin,&lt;/b&gt; web tarayıcınızın web sayfasını ve arama ayarlarınızı değiştirebilir.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;BİLDİRİM: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET &lt;a {{IDS_HELP_PUA_LINK}}&gt;istenmeyen türden olabilecek uygulamaları&lt;/a&gt; algılayabilir ve bunlar yüklenmeden önce onay ister. İstenmeyen türden olabilecek uygulamalar güvenlik riski taşımayabilir ancak &lt;b&gt;bilgisayarınızın şu özelliklerini etkileyebilir:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;performans&lt;/li&gt;&lt;li&gt;hız&lt;/li&gt;&lt;li&gt;güvenilirlik&lt;/li&gt;&lt;li&gt;davranış&lt;/li&gt;&lt;/ul&gt;Bunlar genellikle yükleme işleminden önce kullanıcının onayını gerektirir.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Devam etmeden önce bir seçenek belirleyin:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">İstenmeyen türden olabilecek uygulamaların algılanmasını devre dışı bırak</string>
+  <string name="IDS_ELI_PUA_ENABLE1">İstenmeyen türden olabilecek uygulamaların algılanmasını etkinleştir</string>
+  <string name="IDS_ELI_PUA_DISABLE2">İstenmeyen türden olabilecek uygulamaları algılama</string>
+  <string name="IDS_ELI_PUA_ENABLE2">İstenmeyen türden olabilecek uygulamaları algıla</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Yükleme klasörünü değiştir</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Yükleme Klasörünü Seç</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Ürün klasörü:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Sık sık değişen dosyalar için farklı klasörler belirlemek istiyorum</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Modül klasörü:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Veri klasörü:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Geçersiz klasör seçildi.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Yükleme devam ediyor.</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Taranıyor</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Diğer güvenlik ürünleri bulundu</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">Sistemde başka bir güvenlik yazılımı mevcut veya tamamen kaldırılmamış. Aynı anda iki güvenlik çözümü çalıştırılması, sistem kararsızlığına neden olabilir.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Olası çakışan uygulamalar kontrol ediliyor...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Diğer antivirus yazılımlarının kaldırılması</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Özelleştirilmiş temizleyici</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">Özelleştirilmiş temizleyici, karmaşık kötü amaçlı yazılımları bilgisayarınızdan kaldırmak için tasarlanmıştır. Bu uygulama sistem kararlılığı sorunlarına neden olabilir ve yalnızca ileri düzey kullanıcılar için önerilir.&lt;br&gt;Daha fazla bilgi için &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;Bilgi Bankamızı&lt;/a&gt; ziyaret edin.&lt;br&gt;&lt;br&gt;Devam edip temizleyiciyi çalıştırmak istediğinizden emin misiniz?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Özelleştirilmiş temizleyici indiriliyor...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;Özelleştirilmiş temizleyici çalışıyor.&lt;/b&gt;&lt;br&gt;Lütfen bekleyin...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">Sistemde hiçbir kötü amaçlı yazılım bulunmadı.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Kötü amaçlı yazılım algılandı ve sistemden temizlendi.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Sistemde kötü amaçlı yazılım algılandı.&lt;br&gt;Kaldırma talimatları için lütfen Müşteri Destek birimimiz ile iletişime geçin.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Sistemde kötü amaçlı yazılım algılandı. Temizlemeyi bitirmek için yeniden başlatma gerekiyor.&lt;br&gt;Birden fazla yeniden başlatma gerekebileceğini unutmayın.&lt;br&gt;&lt;br&gt;Şimdi yeniden başlatmak istiyor musunuz?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">Özelleştirilmiş temizleyiciden beklenmeyen bir şekilde çıkıldı.&lt;br&gt;Lütfen yardım için Müşteri Destek birimimizle iletişime geçin.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">İndirme işlemi devam ediyor</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">İndiriliyor...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">İndiriliyor %1 ...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Yükleme devam ediyor.</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Yükleniyor...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">Yükleniyor %1 ...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">${bts.package.[${bts.var.package.default}].name} yüklemesini iptal etmek istediğinizden emin misiniz?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Yükleme başarılı</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[${bts.var.package.default}].name} bilgisayarınıza başarıyla yüklendi. Bilgisayarınız virüs ve kötü amaçlı yazılımlar için sürekli olarak kontrol edilecek. &lt;br&gt; &lt;br&gt; Ürün kurulumunu tamamlamak ve etkinleştirme işlemine başlamak için &lt;i&gt;Bitti&lt;/i&gt; seçeneğine tıklayın.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[${bts.var.package.default}].name} bilgisayarınıza başarıyla yüklendi. Bilgisayarınız virüs ve kötü amaçlı yazılımlar için sürekli olarak kontrol edilecek.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Güvenlik hakkında bilgi edinin: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;ESET Bilgi Bankası&lt;/a&gt;
+    &lt;br&gt;
+    ESET'e bağlanın:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Anketi aç</string>
+  <string name="IDS_ELI_MUNI_TITLE">Güvenlik anketi</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET Masaryk Üniversitesi ile işbirliği içinde kullanıcı güvenliği davranışına odaklanan bir araştırma gerçekleştiriyor.&lt;br&gt;Bize yardım edin ve kısa anketimizi doldurun.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Yanıtlarınız ESET ürünlerinin genel güvenliğini geliştirmemize yardımcı olur.&lt;/b&gt;&lt;br&gt;Bu anketi doldurarak tüm içeriklerin Masaryk Üniversitesi araştırmacıları tarafından incelenebileceğini kabul edersiniz, ancak verileriniz yalnızca istatistiksel amaçlar için kullanılır. Hiçbir kişisel veri toplanmaz.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Yüklenemedi</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">Yükleme yarıda kesildi</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">${bts.package.[${bts.var.package.current}].name} yüklemesi tamamlanamadı. Sistem bilgisayar tehditlerine karşı korunmuyor olabilir. Bilgisayarınıza ${bts.package.[${bts.var.package.current}].name} yüklemek için lütfen yüklemeyi yeniden çalıştırın.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Yükleme hatası &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">Yükleme kullanıcı tarafından yarıda kesildi</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">${bts.package.[${bts.var.package.default}].name} yüklemesi kullanıcı tarafından yarıda kesildi. Bilgisayarınıza ${bts.package.[${bts.var.package.default}].name} yüklemek için lütfen yüklemeyi yeniden çalıştırın.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">Yükleme tamamlanamadı</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">Bu, kötü amaçlı yazılım aktivitesinden kaynaklanıyor olabilir. Potansiyel tehditler için sistemi kontrol etmek üzere &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;Özelleştirilmiş temizleyici&lt;/a&gt; çalıştırmanız önerilir.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Disk alanı yetersiz</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">${bts.package.[${bts.var.package.default}].name} yüklemesini indirmek ve başlatmak için %1% biriminde yeterli disk alanı yok.&lt;br&gt;&lt;br&gt;Lütfen en az %2!d! MB boş alan olduğundan emin olun ve kullanılabilir alanı yeniden kontrol etmek ve indirme işlemine devam etmek için &lt;i&gt;Tekrar dene&lt;/i&gt; seçeneğine tıklayın veya yüklemeden çıkmak için &lt;i&gt;Kapat&lt;/i&gt; seçeneğine tıklayın.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Disk alanı yetersiz</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">${bts.package.[${bts.var.package.default}].name} yüklemesini tamamlamak için %1% biriminde yeterli disk alanı yok.&lt;br&gt;&lt;br&gt;Lütfen en az %2!d! MB boş alan olduğundan emin olun ve kullanılabilir alanı yeniden kontrol etmek ve indirme işlemine devam etmek için &lt;i&gt;Tekrar dene&lt;/i&gt; seçeneğine tıklayın veya yüklemeden çıkmak için &lt;i&gt;Kapat&lt;/i&gt; seçeneğine tıklayın.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Bağlantı hatası</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Sunucuya bağlanılamıyor. Lütfen ağ bağlantınızı kontrol edip yeniden deneyin.&lt;br&gt;&lt;br&gt;Yine sorun yaşarsanız çevrimdışı yükleyiciyi indirmek için lütfen &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; sayfasını ziyaret edin.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">İndirme hatası</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Veriler sunucudan indirilirken bir hata oluştu. Lütfen ağ bağlantınızı kontrol edip tekrar deneyin.&lt;br&gt;&lt;br&gt;Sorun yaşamaya devam ederseniz çevrimdışı yükleyiciyi indirmek için lütfen &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; sayfasını ziyaret edin.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">İndirme hatası</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Sunucuda yükleme paketi bulunamadı. Lütfen çevrimdışı yükleyiciyi indirmek için &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; adresini ziyaret edin.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Dahili hata</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Dahili bir hata oluştu. Lütfen yüklemeyi tekrar başlatmayı deneyin.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Geçersiz yanıt</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Sunucudan geçersiz yanıt alındı.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Uyumlu paket bulunamadı</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Sunucuda uyumlu yükleme paketi bulunamıyor. Çevrimdışı yükleyiciyi indirmek için &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; sayfasını ziyaret edin.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Bağlantı hatası</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Sunucuya bağlanma hatası. Lütfen ağ bağlantınızı kontrol edip tekrar deneyin. Proxy sunucusu kullanıyorsanız &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;proxy sunucu ayarlarınızı&lt;/a&gt; değiştirin&lt;br&gt;&lt;br&gt;Yine sorun yaşarsanız çevrimdışı yükleyiciyi indirmek için lütfen &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; sayfasını ziyaret edin.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">En son sürüm zaten yüklendi</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">${bts.package.[${bts.var.package.default}].name} ürününün son sürümü bu bilgisayarda zaten yüklü.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Uyumsuz paket</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Bu yükleme paketi, 64 bit işletim sistemlerine yöneliktir. Lütfen 32 bit işletim sistemlerine uygun bir yükleme paketi kullanın.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Uyumsuz paket</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Bu yükleme paketi, 32 bit işletim sistemlerine yöneliktir. Lütfen 64 bit işletim sistemlerine uygun bir yükleme paketi kullanın.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Sunucu ürünü değil</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">${bts.package.[${bts.var.package.current}].name} ürünü sunucu işletim sistemleri için tasarlanmamıştır. Lütfen &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; sayfasından bir sunucu ürünü indirip yükleyin.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">İstemci ürünü değil</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">${bts.package.[${bts.var.package.current}].name} ürünü sunucu işletim sistemleri için tasarlanmamıştır. Lütfen &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; sayfasından bir istemci ürünü indirip yükleyin.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Uyumsuz ürün yüklendi</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Uyumsuz {PRODUCT} ürünü zaten yüklendi. Lütfen bu ürünü manuel olarak kaldırıp yüklemeyi yeniden başlatın.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Uyumsuz işletim sistemi</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">${bts.package.[${bts.var.package.current}].name} ürünü işletim sistemleriniz için tasarlanmamıştır. Lütfen &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; sayfasından bir ürün indirip yükleyin.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Paket bulunamadı</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">${bts.package.[${bts.var.package.current}].name} yükleme paketi (${bts.package.[${bts.var.package.current}].file}) bulunamadı.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Paket ayıklama işlemi başarısız</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">${bts.package.[${bts.var.package.current}].name} paketi ayıklanamadı.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">${bts.package.[${bts.var.package.current}].name} yüklemesi tamamlanamadı. Sistem bilgisayar tehditlerine karşı korunmuyor olabilir. Bilgisayarınıza ${bts.package.[${bts.var.package.current}].name} yüklemek için lütfen yüklemeyi yeniden çalıştırın.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Ürünü yüklemek için yeterli haklar bulunmuyor</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">${bts.package.[${bts.var.package.current}].name} ürününü yüklemek için yeterli haklara sahip değilsiniz. Bilgisayarınıza ${bts.package.[${bts.var.package.current}].name} yüklemek için lütfen yüklemeyi yönetici olarak yeniden çalıştırın.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Hata Kodu: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Bu işlem, Kurulum Sihirbazını kapatır. Bunu yapmak istediğinizden emin misiniz?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Proxy sunucusunu ayarla</string>
+  <string name="IDS_ELI_PROXY_TEXT2">Proxy sunucusu kimlik doğrulaması gerektirir</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Proxy sunucusu:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Bağlantı Noktası:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Kullanıcı adı:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Parola:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Proxy sunucusu kullanıyorum</string>
+  
+</resources>

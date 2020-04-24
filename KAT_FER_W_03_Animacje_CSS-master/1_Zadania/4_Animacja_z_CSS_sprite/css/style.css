@@ -1,0 +1,11 @@
+.zombie {
+    width: 200px;
+    height: 312px;
+    margin: 2% auto;
+    background: url("walkingdead.png") left center;
+    animation: play .8s steps(10) infinite;
+}
+
+@keyframes play {
+    100% {background-position: -2000px;}
+}

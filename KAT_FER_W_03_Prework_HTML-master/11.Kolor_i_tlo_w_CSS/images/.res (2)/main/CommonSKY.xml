@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Slovensky" lcid="041b">
+  <string name="IDS_HELP">Pomocník</string>
+	<string name="IDS_BUTTON_YES">Áno</string>
+	<string name="IDS_BUTTON_NO">Nie</string>
+	<string name="IDS_BUTTON_ACCEPT">Prijať</string>
+	<string name="IDS_BUTTON_DECLINE">Nesúhlasím</string>
+	<string name="IDS_BUTTON_CONTINUE">Pokračovať</string>
+	<string name="IDS_BUTTON_IGNORE">Ignorovať</string>
+	<string name="IDS_BUTTON_BACK">Späť</string>
+	<string name="IDS_BUTTON_NEXT">Ďalej</string>
+	<string name="IDS_BUTTON_CANCEL">Zrušiť</string>
+	<string name="IDS_BUTTON_CLOSE">Zatvoriť</string>
+	<string name="IDS_BUTTON_REMOVE">Odstrániť</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Reštartovať teraz</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Reštartovať neskôr</string>
+	<string name="IDS_BUTTON_RETRY">Skúsiť znova</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Prerušiť</string>
+	<string name="IDS_BUTTON_INSTALL">Inštalovať</string>
+	<string name="IDS_BUTTON_PRINT">Tlačiť</string>
+  <string name="IDS_BUTTON_SAVE">Uložiť</string>
+  <string name="IDS_BUTTON_DONE">Dokončiť</string>
+  <string name="IDS_BUTTON_BROWSE">Prehľadávať</string>
+  <string name="IDS_BUTTON_DEFAULTS">Obnoviť predvolené</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Zrušenie&lt;/h3&gt; Čaká sa na dokončenie spustenej akcie</string>
+	<string name="IDS_MSGBOX_CLOSE">Táto akcia zatvorí inštalátor. Želáte si pokračovať?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Zvoľte cestu</string>  
+</resources>

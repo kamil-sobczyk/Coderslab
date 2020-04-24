@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="العربية" lcid="0c01">
+	<string name="IDS_ELI_LIVE_INSTALLER">برنامج التثبيت المباشر</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">مرحبًا|اتفاقية الترخيص|AV Remover|التثبيت|إنهاء</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security Premium</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">التهيئة...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">ستتم إدارة هذا الكمبيوتر بواسطة ESET Remote Administrator</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">المكونات التالية مضمنة في برنامج التثبيت هذا</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">الترخيص:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">الخادم:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">المجموعة:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">التكوين:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">جاري تجهيز حزمة التثبيت...</string>
+  <string name="IDS_ELI_CALC_TEXT01">جاري حساب المساحة المتوفرة...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">تحديث ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">قم بتثبيت هذا التحديث المجاني لتبقى محميًا</string>
+  <string name="IDS_ELI_UPDATE_TEXT">يجب تحديث ${bts.package.[0].name} للتوافق مع Windows 10. يتعذر نقل الإصدار الذي تم تثبيته سابقًا إلى Windows 10.  لتبقى محميًا، يمكنك تحميل أحدث إصدار من هذا المنتج وتثبيته تلقائيًا.&lt;BR&gt;&lt;BR&gt;التحديث مجاني والترخيص والإعدادات ستبقى كما هي.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">ذكرني لاحقًا</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">تثبيت ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">مكافح للفيروسات سريع وقوي</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">استمتع بالتصفح واللعب الآمن واتصل مع الحماية السريعة والقوية لـ ${bts.package.[0].name}. هذا الحل يقضي على مجموعة واسعة من التهديدات عبر الانترنت.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">تثبيت ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">أمان الإنترنت الكل في واحد</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">استمتع مع استخدام الكمبيوتر وأنت تعمل وتلعب وتتصل - فالكمبيوتر محمي باستخدام ${bts.package.[0].name}. يجمع الحل بين الحماية من البرامج الضارة مع الحماية من البريد العشوائي وجدار الحماية الشخصي والمراقبة الأبوية.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">تثبيت ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">أمان الإنترنت الكل في واحد</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">استمتع مع استخدام الكمبيوتر وأنت تعمل وتلعب وتتصل - فالكمبيوتر محمي باستخدام ${bts.package.[0].name}. يجمع الحل بين الحماية من البرامج الضارة مع الحماية من البريد العشوائي وجدار الحماية الشخصي والمراقبة الأبوية.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">تثبيت ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">أمان الإنترنت الكل في واحد</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">استمتع مع استخدام الكمبيوتر وأنت تعمل وتلعب وتتصل - فالكمبيوتر محمي باستخدام ${bts.package.[0].name}. يجمع الحل بين الحماية من البرامج الضارة مع الحماية من البريد العشوائي وجدار الحماية الشخصي والمراقبة الأبوية.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">تثبيت ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">استمتع بإستخدام جهاز الكمبيوتر أثناء العمل واللعب والإتصال - فهو محمي مع إسيت</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">تثبيت ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">حماية أساسية متقدمة لأعمالك</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name}، يتميز بتقنية الاكتشاف ESET NOD32® الحائزة على الجوائز، وتزود أعمالك بحماية أساسية خفيفة ومتقدمة، ويعززها نظامنا الشهير المعتمد على الخدمة السحابية. يمكنك التحكم في جميع وظائفها بسهولة من خلال وحدة التحكم المعتمدة على الويب ESET Remote Administrator المطورة وسهلة الاستخدام.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">تثبيت ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">مجموعة الأمان كاملة الميزات المتقدمة</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} هي مجموعة الأمان كاملة الميزات المتقدمة، حيث توفر حماية شاملة متعددة الطبقات ضد جميع أنواع البرامج الضارة. استمتع بالمتطلبات المنخفضة للنظام ودعم البيئة الافتراضية والإشراف عبر وحدة التحكم المعتمدة على الويب ESET Remote Administrator الجديدة تمامًا.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">أريد إزالة تثبيت تطبيقات مكافحة فيروسات غير مرغوب فيها باستخدام ESET AV Remover</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">الإصدار الأحدث لهذا المنتج متوفر عبر الإنترنت ويمكن تنزيله وتثبيته تلقائيًا بدل الإصدار الموجود.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">تثبيت الإصدار الأحدث</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} لا تدعم هذا الإصدار القديم من Microsoft Windows. سيتم تثبيت الإصدار المتوافق الأخير من {{IDS_ELI_PRODUCT_NAME_ESS}}.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} لا تدعم هذا الإصدار القديم من Microsoft Windows دعمًا كاملاً. يمكنك متابعة التثبيت ولكن قد تحدث مشاكل.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">اتفاقية ترخيص المستخدم النهائي</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">اتفاقية ترخيص المستخدم النهائي - %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">النص (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">أوافق</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">لا أوافق</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">قوة العالم الرقمي. احصل على أقصى مستوى من الحماية.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">يسمح نظام الملاحظات في ESET LiveGrid® feedback لنا بجمع المعلومات المتعلقة بالكائنات المشتبه بها، التي نعالجها تلقائيًا لإنشاء آليات الكشف في نظام السحابة لدينا. ثم بعد ذلك نقوم بتطبيقه على الفور لضمان وجود العملاء في اعلى مستوى من الحماية.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">تمكين نظام ملاحظات ESET LiveGrid® (موصى به)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">ساعدنا على توفير أفضل أمان على الإطلاق.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">يستخدم نظام التعليقات ESET LiveGrid® أكثر من 100 مليون مستشعر على مستوى العالم بما يسمح لنا بجمع المعلومات المتعلقة بالكائنات المشتبه بها، التي نعالجها تلقائيًا لإنشاء آليات الكشف باستخدام نظام السحابة الشهير الخاص بنا. ثم بعد ذلك نقوم بتطبيقه على الفور لضمان الاستمتاع بأعلى مستوى من الحماية.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">إعدادات الحماية</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">الكشف عن احتمالية وجود تطبيقات غير مرغوب فيها</string>
+  <string name="IDS_ELI_PUA_QUESTION01">ما التطبيق غير المرغوب فيه المحتمل؟</string>
+  <string name="IDS_ELI_PUA_QUESTION02">لما نسأل؟</string>
+  <string name="IDS_ELI_PUA_TEXT01">يستطيع ESET اكتشاف &lt;a {{IDS_HELP_PUA_LINK}}&gt;التطبيقات غير المرغوبة المحتملة&lt;/a&gt; وطلب التأكيد قبل تثبيتها. قد لا تشكّل التطبيقات غير المرغوبة المحتملة خطرًا على الأمان ولكنها قد تؤثر على أداء الكمبيوتر وسرعته وموثوقيته أو تتسبب في تغيير طريقة الأداء. وعادة ما تتطلب موافقة المستخدم قبل التثبيت.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;على سبيل المثال&lt;/b&gt; قد تتسب في تغيير صفحة ويب المتصفح وإعدادات البحث.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;ملاحظة: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">يستطيع ESET اكتشاف &lt;a {{IDS_HELP_PUA_LINK}}&gt;التطبيقات غير المرغوبة المحتملة&lt;/a&gt; وطلب التأكيد قبل تثبيتها. قد لا تشكّل التطبيقات غير المرغوبة المحتملة خطرًا على الأمان ولكنها &lt;b&gt;قد تؤثر على الكمبيوتر من حيث:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;الأداء&lt;/li&gt;&lt;li&gt;السرعة&lt;/li&gt;&lt;li&gt;الموثوقية&lt;/li&gt;&lt;li&gt;السلوك&lt;/li&gt;&lt;/ul&gt;وعادة ما تتطلب موافقة المستخدم قبل التثبيت.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">حدد خيارًا قبل المتابعة:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">تعطيل الكشف عن احتمالية وجود تطبيقات غير مرغوب فيها</string>
+  <string name="IDS_ELI_PUA_ENABLE1">تمكين الكشف عن احتمالية وجود تطبيقات غير مرغوب فيها</string>
+  <string name="IDS_ELI_PUA_DISABLE2">لا تكشف عن احتمالية وجود تطبيقات غير مرغوب فيها</string>
+  <string name="IDS_ELI_PUA_ENABLE2">اكتشاف تطبيقات قد تكون غير مرغوب فيها</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">تغيير مجلد التثبيت</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">تحديد مجلد التثبيت</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">مجلد المنتج:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">أريد تحديد مجلدات مختلفة للملفات التي تتغير بتكرار</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">مجلد الوحدة:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">مجلد البيانات:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">تم تحديد مجلد غير صالح.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">التثبيت قيد التقدم</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">الفحص</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">تم العثور على منتجات أمان أخرى</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">يوجد برنامج أمان آخر على النظام أو لم تتم إزالته بالكامل. قد يتسبب تشغيل حلَّين من حلول الأمان في الوقت نفسه في حدوث حالة من التعارض.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">التحقق من احتمالية حدوث تضارب بين التطبيقات...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">كيفية إزالة تثبيت برامج مكافحة الفيروسات الأخرى</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">أداة المسح المخصصة</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">تم تصميم أداة المسح المتخصصة لإزالة البرامج الضارة المعقدة من جهاز الكمبيوتر. قد يتسبب هذا التطبيق في مشكلات تتعلق بعدم ثبات النظام ولا يوصى به إلا للمستخدم المتقدم فقط.&lt;br&gt;لمزيد من المعلومات، تفضل بزيارة &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;قاعدة المعارف&lt;/a&gt;.&lt;br&gt;&lt;br&gt; هل أنت متأكد من أنك تريد تشغيل أداة المسح?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;جاري تنزيل أداة المسح المخصصة...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;أداة المسح المخصصة تعمل.&lt;/b&gt;&lt;br&gt;انتظر من فضلك...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">لم يتم العثور على برامج ضارة في النظام.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">تم الكشف عن برامج ضارة وإزالتها من النظام.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">تم اكتشاف برامج ضارة في النظام.&lt;br&gt;يُرجى الاتصال بخدمة العملاء لمعرفة تعليمات الإزالة.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">لقد تم اكتشاف برامج ضارة في النظام. مطلوب إعادة التشغيل لإنهاء التنظيف.&lt;br&gt;يُرجى ملاحظة أنه قد يكون مطلوبًا إعادة التشغيل عدة مرات.&lt;br&gt;&lt;br&gt;المتابعة مع إعادة التشغيل?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">تم إنهاء أداة المسح المخصصة بشكل غير متوقع.&lt;br&gt;يُرجى الاتصال بخدمة العملاء للحصول على المساعدة.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">التنزيل قيد التنفيذ</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">جارٍ التنزيل...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">جارٍ تنزيل %1 ...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">التثبيت قيد التقدم</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">جارٍ التثبيت...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">جارٍ تثبيت %1...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">هل أنت متأكد من أنك تريد إلغاء تثبيت ${bts.package.[${bts.var.package.default}].name}؟</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">تم التثبيت بنجاح</string>
+  <string name="IDS_ELI_DONE_TEXT">تم تثبيت ${bts.package.[${bts.var.package.default}].name} بنجاح في الكمبيوتر. سيتم فحص الكمبيوتر باستمرار للبحث عن الفيروسات والبرامج الضارة. &lt;br&gt; &lt;br&gt; انقر فوق &lt;i&gt;تم&lt;/i&gt; لإكمال إعداد المنتج وبدء عملية التفعيل.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">تم تثبيت ${bts.package.[${bts.var.package.default}].name} بنجاح في الكمبيوتر. سيتم فحص الكمبيوتر باستمرار للبحث عن الفيروسات والبرامج الضارة.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    تعرف على الأمان: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;قاعدة معارف ESET&lt;/a&gt;
+    &lt;br&gt;
+    تواصل مع ESET عبر الروابط التالية:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">فتح استقصاء</string>
+  <string name="IDS_ELI_MUNI_TITLE">استقصاء عن الأمان</string>
+  <string name="IDS_ELI_MUNI_TEXT">أجرت ESET بالتعاون مع جامعة مازاريك بحثًا ركز على سلوك الأمان عند المستخدم.&lt;br&gt;ساعدنا واملأ هذا الاستقصاء القصير.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;إجاباتك سوف تساعدنا على تحسين الأمن الشامل لمنتجات ESET.&lt;/b&gt;&lt;br&gt;بملء هذا الاستقصاء فأنت توافق على أن جميع المحتويات قد يتم تحليلها من قبل الباحثين من جامعة مازاريك، ولكن سيتم استخدام بياناتك لأغراض إحصائية فقط. وسيتم جمع أي بيانات تحديد الهوية.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">فشل التثبيت</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">لقد تم انقطاع عملية التثبيت</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">لم تكتمل عملية تثبيت ${bts.package.[${bts.var.package.current}].name} بنجاح. قد يكون النظام غير محمي من تهديدات الكمبيوتر. لتثبيت ${bts.package.[${bts.var.package.current}].name} في الكمبيوتر، يُرجى إعادة التثبيت مرة أخرى.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;خطأ تثبيت &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">تم إنهاء التثبيت عن طريق المستخدم</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">تم إنهاء تثبيت ${bts.package.[${bts.var.package.default}].name} عن طريق المستخدم. لتثبيت ${bts.package.[${bts.var.package.default}].name} في الكمبيوتر، يُرجى إعادة التثبيت مرة أخرى.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">التثبيت لم ينته بنجاح</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">قد يكون ذلك نتيجة لنشاط البرامج الضارة. لفحص النظام بحثًا عن تهديدات محتملة فمن المستحسن تشغيل &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;أداة مسح مخصصة&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">نفدت مساحة القرص</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">لا توجد مساحة قرص كافية في وحدة التخزين %1% لتنزيل تثبيت ${bts.package.[${bts.var.package.default}].name} وبدء تشغيله.&lt;br&gt;&lt;br&gt;يُرجى التأكد من أن لديك ما لا يقل  %2!d! ميجا بايت خالية وانقر فوق &lt;i&gt;إعادة المحاولة&lt;/i&gt; للتحقق من المساحة المتوفرة مرة أخرى ومواصلة التحميل، أو انقر فوق &lt;i&gt;إغلاق&lt;/i&gt; لإغلاق التثبيت.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">نفدت مساحة القرص</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">لا توجد مساحة قرص كافية في وحدة التخزين %1% لاستكمال تثبيت ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;يُرجى التأكد من أن لديك مساحة %2!d! ميجا بايت خالية على الأقل وانقر فوق &lt;i&gt;إعادة المحاولة&lt;/i&gt; للتحقق من المساحة المتوفرة مرة أخرى ومتابعة التثبيت، أو انقر فوق &lt;i&gt;إغلاق&lt;/i&gt; للخروج من التثبيت.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">خطأ اتصال</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">غير قادر على الاتصال بالخادم. يُرجى التحقق من اتصال الشبكة والمحاولة مرة أخرى.&lt;br&gt;&lt;br&gt;إذا كنت لا تزال تواجه المشكلات، فيُرجى زيارة &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; لتنزيل برنامج التثبيت في وضع عدم الاتصال.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">خطأ تنزيل</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">لقد حدث خطأ في أثناء تنزيل البيانات من الخادم. يُرجى التحقق من اتصال الشبكة والمحاولة مرة أخرى.&lt;br&gt;&lt;br&gt;إذا كنت لا تزال تواجه مشكلات، يُرجى زيارة &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; لتنزيل برنامج التثبيت في وضع عدم الاتصال.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">خطأ تنزيل</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">حزمة التثبيت غير موجودة على الخادم. يرجى زيارة &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; لتنزيل برنامج تثبيت في وضع عدم الاتصال.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">خطأ داخلي</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">لقد حدث خطأ داخلي، يُرجى المحاولة مرة أخرى لبدء التثبيت ثانية.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">استجابة غير صالحة</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">تم استلام استجابة غير صالحة من الخادم.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">لم يتم العثور على حزمة ملائمة</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">لا يوجد حزمة تثبيت ملائمة متوفرة في الخادم. يُرجى زيارة &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; لتنزيل برنامج التثبيت في وضع عدم الاتصال.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">خطأ اتصال</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">غير قادر على الاتصال بالخادم. يُرجى التحقق من اتصال الشبكة والمحاولة مرة أخرى. إذا كنت تستخدم خادم وكيل، فقم بتغيير إعدادات الخادم &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;الوكيل،&lt;/a&gt; &lt;br&gt;&lt;br&gt;إذا كنت لا تزال توجه مشكلات، يُرجى زيارة &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; لتنزيل برنامج التثبيت في وضع عدم الاتصال.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">أحدث إصدار مُثبت بالفعل</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">أحدث إصدار من ${bts.package.[${bts.var.package.default}].name} مُثبت بالفعل في الكمبيوتر.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">حزمة غير ملائمة</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">حزمة التثبيت هذه مخصصة لأنظمة التشغيل 64 بت. يُرجى استخدام حزمة تثبيت لأنظمة التشغيل 32 بت.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">حزمة غير ملائمة</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">حزمة التثبيت هذه مخصصة لأنظمة التشغيل 32 بت. يرجى استخدام حزمة تثبيت لأنظمة التشغيل 64 بت.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">ليس منتج خادم</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">تُعد ${bts.package.[${bts.var.package.current}].name} غير مخصصة لنظم تشغيل الخادم. يُرجى تنزيل وتثبيت منتج خادم من &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">ليس منتج خادم</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">تُعد ${bts.package.[${bts.var.package.current}].name} غير مخصصة لنظم تشغيل الخادم. يُرجى تنزيل وتثبيت منتج عميل من &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">تم تثبيت منتج غير ملائم</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">هناك منتج {PRODUCT} غير ملائم مُثبت بالفعل. يُرجى إلغاء التثبيت يدويًا وبدء التثبيت مرة أخرى.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">نظام تشغيل غير ملائم</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">يُعد ${bts.package.[${bts.var.package.current}].name} غير مخصص لنظم التشغيل لديك. يُرجى تنزيل برنامج من &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; وتثبيته.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">لم يتم العثور على الحزمة.</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">لم يتم العثور على حزمة التثبيت (${bts.package.[${bts.var.package.current}].file}) لـ ${bts.package.[${bts.var.package.current}].name}</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">فشل استخراج الحزمة</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">فشل استخراج ${bts.package.[${bts.var.package.current}].name}</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">لم تكتمل عملية تثبيت ${bts.package.[${bts.var.package.current}].name} بنجاح. قد يكون النظام غير محمي من تهديدات الكمبيوتر. لتثبيت ${bts.package.[${bts.var.package.current}].name} في الكمبيوتر، يُرجى إعادة التثبيت مرة أخرى.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">ليس لديك الحقوق الكافية لتثبيت البرنامج</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">ليس لديك الحقوق الكافية لتثبيت${bts.package.[${bts.var.package.current}].name}. لتثبيت ${bts.package.[${bts.var.package.current}].name} في الكمبيوتر، يُرجى تشغيل التثبيت مرة أخرى كمسؤول.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">رمز الخطأ: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">سيؤدي هذا الإجراء أيضًا إلى إغلاق معالج التثبيت. هل تريد القيام بذلك بالتأكيد؟</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">إعداد الخادم الوكيل</string>
+  <string name="IDS_ELI_PROXY_TEXT2">الخادم الوكيل يتطلب مصادقة</string>
+  <string name="IDS_ELI_PROXY_TEXT3">خادم الوكيل:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">المنفذ:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">اسم المستخدم:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">كلمة المرور:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">أنا أستخدم خادم وكيل</string>
+  
+</resources>

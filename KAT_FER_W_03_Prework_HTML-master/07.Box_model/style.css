@@ -1,0 +1,77 @@
+a {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+p {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+h1 {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+h2 {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+h3 {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+div {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+span {
+    color:red;
+    border: 1px solid red;
+    width: 500px}
+em {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+strong {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+u{
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+ul {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+ol {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+table {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+img {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+iframe {
+    color:red;
+    border: 1px solid red;
+    width: 500px
+}
+table, th, td {
+    border: 1px solid black;
+}

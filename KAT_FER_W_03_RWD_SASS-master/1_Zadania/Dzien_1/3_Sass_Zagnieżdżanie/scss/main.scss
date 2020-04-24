@@ -1,0 +1,63 @@
+.main-width {
+  li {
+    &:first-child {
+      color:red;
+    }
+  }
+};
+
+$list-backgroundColor: lightcyan;
+$border-color: green;
+$site-width: 1000px;
+
+.menu {
+  background-color: $list-backgroundColor;
+  li {
+    display: inline;
+    padding-left: 10px;
+  }
+};
+
+.main-width {
+  width: $site-width;
+  header {
+    border: 2px solid $border-color;
+  }
+  ul {
+    li {
+      a:hover {
+        color: red;
+      }
+      &:first-child {
+          a {
+            color: orange;
+            &:hover {
+              color:red;
+            }
+          }
+      }
+      &:last-child {
+        a {
+          color:green;
+          &:hover {
+            color:red;
+          }
+        }
+      }
+      }
+    }
+  }
+
+
+
+footer {
+  li {
+    float: left;
+    &:hover {
+      color: pink;
+    }
+    &:last-child {
+      float: right;
+    }
+  }
+}

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Hrvatski (Hrvatska)" lcid="041a">
+	<string name="IDS_ELI_LIVE_INSTALLER">Live Installer</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Dobro došli|Licenčni ugovor|AV Remover|Instalacija|Kraj</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Pokretanje...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Ovim računalom upravljat će ESET Remote Administrator</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">Instalacijski program sadrži sljedeće komponente</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Licenca:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Server:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Grupa:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Konfiguracija:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Priprema instalacijskog paketa...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Izračunavanje slobodnog prostora...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">Nadogradnja ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Instalirajte ovu besplatnu aktualizaciju da biste ostali zaštićeni</string>
+  <string name="IDS_ELI_UPDATE_TEXT">${bts.package.[0].name} mora se aktualizirati za kompatibilnost sa sustavom Windows 10. Prethodno instalirana verzija ne može se migrirati na sustav Windows 10. Da biste ostali zaštićeni, najnoviju verziju programa možete automatski preuzeti i instalirati.&lt;BR&gt;&lt;BR&gt;Nadogradnja je besplatna, a vaša licenca i postavke ostaju nepromijenjeni.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Podsjeti me kasnije</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">Instalacija programa ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Brz, snažan antivirusni program</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">Uživajte u sigurnom pregledavanju, igranju i povezivanju s brzom i snažnom zaštitom programa ${bts.package.[0].name}. Rješenje eliminira širok raspon internetskih prijetnji.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">Instalacija programa ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Cjelovito rješenje za sigurnost na internetu</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">Uživajte u korištenju računalom u radu, igri ili prilikom povezivanja – zaštićeni programom ${bts.package.[0].name}. Rješenje kombinira zaštitu od zlonamjernih programa s antispam zaštitom, osobnim firewallom i roditeljskom kontrolom.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">Instalacija programa ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Cjelovito rješenje za sigurnost na internetu</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">Uživajte u korištenju računalom u radu, igri ili prilikom povezivanja – zaštićeni programom ${bts.package.[0].name}. Rješenje kombinira zaštitu od zlonamjernih programa s antispam zaštitom, osobnim firewallom i roditeljskom kontrolom.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">Instalacija programa ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Cjelovito rješenje za sigurnost na internetu</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">Uživajte u korištenju računalom u radu, igri ili prilikom povezivanja – zaštićeni programom ${bts.package.[0].name}. Rješenje kombinira zaštitu od zlonamjernih programa s antispam zaštitom, osobnim firewallom i roditeljskom kontrolom.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">Instalacija programa ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">Uživajte u korištenju računalom u radu, igri ili prilikom povezivanja – zaštićeni programima tvrtke ESET.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">Instalacija programa ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Napredna osnovna zaštita za vaše poslovanje</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name}, s nagrađivanom tehnologijom za otkrivanje ESET NOD32®, pruža vašem poslovanju jednostavnu, naprednu osnovnu zaštitu, proširenu našim sustavom reputacije na temelju cloud tehnologije. Upravljajte svime bez napora na našoj preuređenoj i praktičnoj web-konzoli programa ESET Remote Administrator.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">Instalacija programa ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Napredni zaštitni paket sa svim funkcijama</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} vaš je napredni zaštitni paket sa svim funkcijama koji vam pruža sveobuhvatnu, višeslojnu zaštitu od svih vrsta zlonamjernog softvera. Ne zahtijeva velike tehničke resurse, a nudi podršku i nadzor za virtualizaciju s potpuno novom web-konzolom programa ESET Remote Administrator.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">Želim deinstalirati neželjene antivirusne aplikacije pomoću programa ESET AV Remover.</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">Novija verzija programa dostupna je na mreži i može se automatski preuzeti i instalirati umjesto uključene verzije.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Instaliraj noviju verziju</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} ne podržava ovu zastarjelu verziju sustava Microsoft Windows. Bit će instalirana najnovija kompatibilna verzija programa {{IDS_ELI_PRODUCT_NAME_ESS}}.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} ne podržava u potpunosti ovu zastarjelu verziju sustava Microsoft Windows. Možete nastaviti s instalacijom, ali može doći do problema.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Licenčni ugovor za krajnjeg korisnika</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Licenčni ugovor za krajnjeg korisnika - %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Tekstualne datoteke (*.txt)|*.txt|HTML datoteke (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Prihvaćam</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">Ne prihvaćam</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Što više to bolje. Odaberite maksimalnu razinu zaštite.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">Sustav za povratne informacije programa ESET LiveGrid® omogućuje prikupljanje informacija o sumnjivim objektima, koje automatski obrađujemo kako bismo stvorili mehanizme za otkrivanje u našem cloud sustavu. Zatim te informacije odmah primjenjujemo kako bismo osigurali da naši korisnici imaju maksimalnu razinu zaštite.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">Aktiviraj sustav za povratne informacije programa ESET LiveGrid® (preporučuje se)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Zaštitite se našom sve naprednijom zaštitom.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">Sustav za povratne informacije programa ESET LiveGrid® upotrebljava više od 100 milijuna senzora diljem svijeta koji nam omogućuju prikupljanje informacija o sumnjivim objektima, koje automatski obrađujemo kako bismo stvorili mehanizme za otkrivanje s našim sustavom reputacije na temelju cloud tehnologije. Zatim te informacije odmah primjenjujemo kako bismo vam osigurali maksimalnu razinu zaštite.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Postavke zaštite</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Otkrivanje potencijalno neželjenih aplikacija</string>
+  <string name="IDS_ELI_PUA_QUESTION01">Što je potencijalno neželjena aplikacija?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">Zašto pitamo?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET može otkriti &lt;a {{IDS_HELP_PUA_LINK}}&gt;potencijalno neželjene aplikacije&lt;/a&gt; i zatražiti pristanak prije nego što se instaliraju. Potencijalno neželjene aplikacije možda ne predstavljaju sigurnosni rizik, ali mogu utjecati na performanse računala, njegovu brzinu i pouzdanost ili pak uzrokovati promjene u uobičajenom radu. Obično se prije njihove instalacije traži pristanak korisnika.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;Primjerice,&lt;/b&gt; mogu promijeniti početnu stranicu vašeg web preglednika i postavke pretraživanja.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;OBAVIJEST: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET može otkriti &lt;a {{IDS_HELP_PUA_LINK}}&gt;potencijalno neželjene aplikacije&lt;/a&gt; i zatražiti pristanak prije nego što se one instaliraju. Potencijalno neželjene aplikacije možda ne predstavljaju sigurnosni rizik, ali &lt;b&gt;mogu utjecati na &lt;/b&gt;&lt;ul&gt;&lt;li&gt;performanse&lt;/li&gt;&lt;li&gt;brzinu&lt;/li&gt;&lt;li&gt;pouzdanost&lt;/li&gt;&lt;li&gt;uobičajeni rad&lt;/li&gt;&lt;/ul&gt; vašeg računala. Obično se prije njihove instalacije traži pristanak korisnika.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Odaberite opciju prije nego što nastavite:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Deaktiviraj otkrivanje potencijalno neželjenih aplikacija</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Aktiviraj otkrivanje potencijalno neželjenih aplikacija</string>
+  <string name="IDS_ELI_PUA_DISABLE2">Nemoj otkrivati potencijalno neželjene aplikacije</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Otkrij potencijalno neželjene aplikacije</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Promijeni mapu za instalaciju</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Odaberite mapu za instalaciju</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Mapa programa:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Želim odrediti druge mape za datoteke koje se često mijenjaju</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Mapa modula:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Podatkovna mapa:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Odabrana je neispravna mapa.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Instalacija u tijeku</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Skeniranje za antivirusne aplikacije</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Pronađeni su drugi sigurnosni programi</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">Drugi sigurnosni softver prisutan je u sustavu ili nije u potpunosti uklonjen. Istodobno izvođenje dvaju sigurnosnih rješenja može uzrokovati nestabilnost.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Provjera mogućih aplikacija koje su u sukobu...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Deinstalacija drugog antivirusnog softvera</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Specijalizirani čistač</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">Specijalizirani čistač osmišljen je za uklanjanje složenog zlonamjernog softvera s računala. Ta aplikacija može uzrokovati nestabilnost sustava i preporučuje se samo naprednim korisnicima.&lt;br&gt;Dodatne informacije naći ćete u našoj &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;Bazi znanja&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Jeste li sigurni da želite pokrenuti čistač?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Preuzimanje specijaliziranog čistača...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;Specijalizirani čistač je pokrenut.&lt;/b&gt;&lt;br&gt;Pričekajte...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">U sustavu nije pronađen zlonamjerni softver.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Zlonamjerni softver otkriven je i očišćen iz sustava.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">U sustavu je otkriven zlonamjerni softver.&lt;br&gt;Upute za uklanjanje zatražite od naše korisničke službe.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">U sustavu je otkriven zlonamjerni softver. Za dovršetak čišćenja potrebno je ponovno pokretanje sustava.&lt;br&gt;Napominjemo da će možda biti potrebno nekoliko ponovnih pokretanja sustava.&lt;br&gt;&lt;br&gt;Želite li sada ponovno pokrenuti sustav?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">Specijalizirani čistač neočekivano se zatvorio.&lt;br&gt;Za pomoć se obratite našoj korisničkoj službi.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">Preuzimanje u tijeku</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Preuzimanje...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">Preuzimanje %1 ...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Instalacija u tijeku</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Instalacija...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">Instalacija %1 ...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">Jeste li sigurni da želite odustati od instalacije programa ${bts.package.[${bts.var.package.default}].name}?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Instalacija uspješna</string>
+  <string name="IDS_ELI_DONE_TEXT">Program ${bts.package.[${bts.var.package.default}].name} uspješno je instaliran na vaše računalo. Vaše računalo često će se provjeravati radi otkrivanja virusa i zlonamjernog softvera. &lt;br&gt; &lt;br&gt; Kliknite &lt;i&gt;Gotovo&lt;/i&gt; da biste dovršili postavljanje programa i započeli postupak aktivacije.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">Program ${bts.package.[${bts.var.package.default}].name} uspješno je instaliran na vaše računalo. Vaše računalo često će se provjeravati radi otkrivanja virusa i zlonamjernog softvera.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Saznajte više o sigurnosti: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;ESET-ova baza znanja&lt;/a&gt;
+    &lt;br&gt;
+    Povežite se s tvrtkom ESET:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Otvorite anketu</string>
+  <string name="IDS_ELI_MUNI_TITLE">Sigurnosna anketa</string>
+  <string name="IDS_ELI_MUNI_TEXT">Tvrtka ESET u suradnji sa Sveučilištem Masaryk provodi istraživanje o sigurnosnom ponašanju korisnika.&lt;br&gt;Pomozite nam ispunjavanjem kratke ankete.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Vaši odgovori pomažu nam poboljšati opću sigurnost ESET-ovih programa.&lt;/b&gt;&lt;br&gt;Ispunjavanjem ove ankete slažete se da sadržaj smiju analizirati istraživači sa Sveučilišta Masaryk, a vaši podaci koristit će se samo za statističke svrhe. Neće se prikupljati identifikacijski podaci.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Instalacija nije uspjela</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">Instalacija je prekinuta</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">Instalacija programa ${bts.package.[${bts.var.package.current}].name} nije uspješno završena. Sustav možda neće biti zaštićen od računalnih prijetnji. Da biste instalirali ${bts.package.[${bts.var.package.current}].name} na svoje računalo, ponovno pokrenite instalaciju.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Pogreška u instalaciji &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">Instalaciju je prekinuo korisnik</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">Instalaciju programa ${bts.package.[${bts.var.package.default}].name} prekinuo je korisnik. Da biste instalirali program ${bts.package.[${bts.var.package.default}].name} na svoje računalo, ponovno pokrenite instalaciju.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">Instalacija nije uspješno završena</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">To može biti rezultat aktivnosti zlonamjernog programa. Preporučuje se pokretanje &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;specijaliziranog čistača&lt;/a&gt; kako biste pronašli potencijalne prijetnje u sustavu.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Ponestalo je diskovnog prostora</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">Na jedinici %1% nema dovoljno diskovnog prostora za preuzimanje i početak instalacije programa ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Osigurajte barem %2!d! MB slobodnog prostora i kliknite &lt;i&gt;Pokušajte ponovno&lt;/i&gt; da biste provjerili ima li dovoljno prostora i nastavili do preuzimanja ili kliknite &lt;i&gt;Zatvori&lt;/i&gt; da biste zatvorili instalaciju.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Ponestalo je diskovnog prostora</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">Na jedinici %1% nema dovoljno diskovnog prostora za dovršetak instalacije programa ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Osigurajte barem %2!d! MB slobodnog prostora i kliknite &lt;i&gt;Pokušajte ponovno&lt;/i&gt; da biste provjerili ima li dovoljno prostora i nastavili s instalacijom ili kliknite &lt;i&gt;Zatvori&lt;/i&gt; da biste zatvorili instalaciju.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Pogreška s vezom</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Nije moguće povezati se sa serverom. Provjerite svoju mrežnu vezu i pokušajte ponovno.&lt;br&gt;&lt;br&gt;Ako još uvijek imate poteškoća, posjetite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; da biste preuzeli izvanmrežni instalacijski program.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Pogreška u preuzimanju</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Došlo je do pogreške tijekom preuzimanja podataka sa servera. Pregledajte postavke svoje mrežne veze i pokušajte ponovno.&lt;br&gt;&lt;br&gt;Ako još uvijek imate poteškoća, posjetite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; da biste preuzeli izvanmrežni instalacijski program.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Pogreška u preuzimanju</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Instalacijski paket nije pronađen na serveru. Molimo posjetite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; kako biste preuzeli izvanmrežni instalacijski program.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Interna pogreška</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Došlo je do interne pogreške. Pokušajte ponovno pokrenuti instalaciju.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Nevaljani odgovor</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Primljen nevaljani odgovor sa servera.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Nije pronađen kompatibilan paket</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Na serveru nema dostupnih kompatibilnih instalacijskih paketa. Posjetite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; da biste preuzeli izvanmrežni instalacijski program.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Pogreška s vezom</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Nije moguće spojiti se na server. Provjerite postavke svoje mreže i pokušajte ponovno. U slučaju da koristite proxy server, promijenite svoje &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;postavke proxy servera&lt;/a&gt; &lt;br&gt;&lt;br&gt;Ako još imate poteškoća, posjetite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; da biste preuzeli izvanmrežni instalacijski program.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Najnovija verzija već je instalirana</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">Najnovija verzija programa ${bts.package.[${bts.var.package.default}].name} već je instalirana na ovom računalu.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Nekompatibilan paket</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Ovaj instalacijski paket namijenjen je 64-bitnim operacijskim sustavima. Upotrijebite instalacijski paket za 32-bitne operacijske sustave.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Nekompatibilan paket</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Ovaj instalacijski paket namijenjen je 32-bitnim operacijskim sustavima. Upotrijebite instalacijski paket za 64-bitne operacijske sustave.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Nije serverski program</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">Program ${bts.package.[${bts.var.package.current}].name} nije namijenjen za serverske operacijske sustave. Preuzmite i instalirajte serverski program sa stranice &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">Nije klijentski program</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">Program ${bts.package.[${bts.var.package.current}].name} nije namijenjen za serverske operacijske sustave. Preuzmite i instalirajte klijentski program sa stranice &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Instaliran je nekompatibilan program</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Nekompatibilan program {PRODUCT} već je instaliran. Ručno ga deinstalirajte i ponovno pokrenite instalaciju.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Nekompatibilan operacijski sustav</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">Program ${bts.package.[${bts.var.package.current}].name} nije namijenjen za vaš operacijski sustav. Preuzmite i instalirajte program sa stranice &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Paket nije nađen</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">Instalacijski paket ${bts.package.[${bts.var.package.current}].name} (${bts.package.[${bts.var.package.current}].file}) nije nađen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Neuspješno izdvajanje paketa</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">Izdvajanje paketa ${bts.package.[${bts.var.package.current}].name} nije uspjelo.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">Instalacija programa ${bts.package.[${bts.var.package.current}].name} nije uspješno završena. Sustav možda neće biti zaštićen od računalnih prijetnji. Da biste instalirali ${bts.package.[${bts.var.package.current}].name} na svoje računalo, ponovno pokrenite instalaciju.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Nedovoljna prava za instalaciju programa</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">Nemate dovoljno prava za instalaciju programa ${bts.package.[${bts.var.package.current}].name}. Za instalaciju programa ${bts.package.[${bts.var.package.current}].name} na svoje računalo pokrenite instalaciju kao administrator.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Kôd pogreške: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Ova radnja zatvorit će čarobnjaka za instalaciju. Jeste li sigurni da želite nastaviti?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Postavljanje proxy servera</string>
+  <string name="IDS_ELI_PROXY_TEXT2">Proxy server zahtijeva autorizaciju</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Proxy server:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Port:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Korisničko ime:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Lozinka:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Koristim proxy server</string>
+  
+</resources>

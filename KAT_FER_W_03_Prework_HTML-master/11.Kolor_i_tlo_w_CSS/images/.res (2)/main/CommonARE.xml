@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="العربية" lcid="0c01">
+  <string name="IDS_HELP">التعليمات</string>
+	<string name="IDS_BUTTON_YES">نعم</string>
+	<string name="IDS_BUTTON_NO">لا</string>
+	<string name="IDS_BUTTON_ACCEPT">قبول</string>
+	<string name="IDS_BUTTON_DECLINE">رفض</string>
+	<string name="IDS_BUTTON_CONTINUE">متابعة</string>
+	<string name="IDS_BUTTON_IGNORE">تجاهل</string>
+	<string name="IDS_BUTTON_BACK">رجوع</string>
+	<string name="IDS_BUTTON_NEXT">التالي</string>
+	<string name="IDS_BUTTON_CANCEL">إلغاء</string>
+	<string name="IDS_BUTTON_CLOSE">إغلاق</string>
+	<string name="IDS_BUTTON_REMOVE">إزالة</string>
+	<string name="IDS_BUTTON_RESTARTNOW">إعادة التشغيل الآن</string>
+	<string name="IDS_BUTTON_RESTARTLATER">إعادة التشغيل لاحقًا</string>
+	<string name="IDS_BUTTON_RETRY">إعادة المحاولة</string>
+	<string name="IDS_BUTTON_OK">موافق</string>
+	<string name="IDS_BUTTON_ABORT">إيقاف</string>
+	<string name="IDS_BUTTON_INSTALL">تثبيت</string>
+  <string name="IDS_BUTTON_PRINT">طباعة...</string>
+  <string name="IDS_BUTTON_SAVE">حفظ</string>
+  <string name="IDS_BUTTON_DONE">تم</string>
+  <string name="IDS_BUTTON_BROWSE">استعراض...</string>
+  <string name="IDS_BUTTON_DEFAULTS">إعادة التعيين إلى الوضع الافتراضي</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;الإيقاف&lt;/h3&gt; بانتظار انتهاء الإجراء المشغل حاليًا</string>
+	<string name="IDS_MSGBOX_CLOSE">سيؤدي هذا الإجراء أيضًا إلى إغلاق معالج التثبيت. هل تريد القيام بذلك بالتأكيد؟</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">تحديد المسار</string>  
+</resources>

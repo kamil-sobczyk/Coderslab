@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Русский" lcid="0419">
+  <string name="IDS_HELP">Справка</string>
+	<string name="IDS_BUTTON_YES">Да</string>
+	<string name="IDS_BUTTON_NO">Нет</string>
+	<string name="IDS_BUTTON_ACCEPT">Принять</string>
+	<string name="IDS_BUTTON_DECLINE">Отклонить</string>
+	<string name="IDS_BUTTON_CONTINUE">Продолжить</string>
+	<string name="IDS_BUTTON_IGNORE">Пропустить</string>
+	<string name="IDS_BUTTON_BACK">Назад</string>
+	<string name="IDS_BUTTON_NEXT">Далее</string>
+	<string name="IDS_BUTTON_CANCEL">Отмена</string>
+	<string name="IDS_BUTTON_CLOSE">Закрыть</string>
+	<string name="IDS_BUTTON_REMOVE">Удалить</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Перезагрузить сейчас</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Перезагрузить позже</string>
+	<string name="IDS_BUTTON_RETRY">Повторить попытку</string>
+	<string name="IDS_BUTTON_OK">ОК</string>
+	<string name="IDS_BUTTON_ABORT">Прервать</string>
+	<string name="IDS_BUTTON_INSTALL">Установить</string>
+  <string name="IDS_BUTTON_PRINT">Печать...</string>
+  <string name="IDS_BUTTON_SAVE">Сохранить</string>
+  <string name="IDS_BUTTON_DONE">Готово</string>
+  <string name="IDS_BUTTON_BROWSE">Обзор...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Восстановить значения по умолчанию</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Прерывание&lt;/h3&gt; Ожидается завершение выполнения действия</string>
+	<string name="IDS_MSGBOX_CLOSE">Это действие также приведет к закрытию мастера установки. Действительно выполнить его?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Выберите путь</string>  
+</resources>

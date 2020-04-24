@@ -1,0 +1,46 @@
+//z wykładowcą:
+
+.images {
+  img {
+    float: left;
+    display: inline;
+    width: 50%;
+
+  }
+  .rabbit {
+    background: url("../images/rabbit.png") no-repeat center/cover;
+    width: 50%;
+    float: right;
+    height: 400px;
+  }
+}
+@media (max-width: 640px) {
+  .images {
+    img, .rabbit {
+      width: 100%;
+      display: block;
+    }
+  }
+}
+
+//task1
+.one-image{
+  width: 40%;
+  height: 25vw;
+  border: 2px solid #445588; //blue
+  img{
+    width: 100%;
+  }
+}
+
+//rozszerza rodzica lub nie, zależy jakimi jednostkami ma rodzic ustawiona wielkość
+
+
+.one-image-bg {
+  height: 25vw;
+  width: 60%;
+  border: 2px solid green;
+  background-image: url("../images/rabbit.png");
+  background-size: 50%;
+  background-repeat: no-repeat;
+}

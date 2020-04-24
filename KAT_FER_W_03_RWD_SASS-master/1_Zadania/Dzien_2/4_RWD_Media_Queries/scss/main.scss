@@ -1,0 +1,68 @@
+//z wykładowcą
+
+@media (max-width: 420px) {
+  body {
+  background-color: yellow;}
+}
+
+@media (min-width: 420px) {
+  body {
+  background-color: blue;}
+}
+
+@mixin placeholder () {
+  $list: "::-webkit-input-placeholder", "::-moz-placeholder", "-ms-input-placeholder";
+  @each $browser in $list {
+    #{$browser} {
+      @content;
+    }
+  }
+}
+
+@include placeholder() {
+  color:red;
+  opacity:1;
+}
+
+//task2
+
+@media (max-width: 400px) {
+  body {
+    background-color: green;
+  }
+}
+@media (min-width: 400px) and (max-width: 800px) {
+  body {
+    background-color: purple;
+  }
+}
+@media (min-width: 800px) {
+  body {
+    background-color: orange;
+  }
+}
+
+//task3
+
+%box {
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  //float:left;
+  margin-left: 10px;
+  margin-top: 20px;
+  background-color: lightskyblue;
+}
+
+div {
+  @extend %box
+}
+
+
+@media (max-width: 640px) {
+  div {
+    display: block;
+    width: 100%;
+  }
+}
+

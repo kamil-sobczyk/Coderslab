@@ -1,0 +1,22 @@
+.parent{
+    border: 2px solid green;
+}
+
+.box{
+    width: 100px;
+    height: 200px;
+    background: blue;
+}
+
+.left{
+    float:left;
+}
+
+.right{
+    float:right;
+}
+
+.clearfix{
+    display: block;
+    clear: both;
+}

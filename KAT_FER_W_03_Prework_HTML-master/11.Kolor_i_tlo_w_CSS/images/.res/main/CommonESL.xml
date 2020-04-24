@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Español latinoamericano" lcid="340a">
+  <string name="IDS_HELP">Ayuda</string>
+	<string name="IDS_BUTTON_YES">Sí</string>
+	<string name="IDS_BUTTON_NO">No</string>
+	<string name="IDS_BUTTON_ACCEPT">Aceptar</string>
+	<string name="IDS_BUTTON_DECLINE">Rechazar</string>
+	<string name="IDS_BUTTON_CONTINUE">Continuar</string>
+	<string name="IDS_BUTTON_IGNORE">Ignorar</string>
+	<string name="IDS_BUTTON_BACK">Atrás</string>
+	<string name="IDS_BUTTON_NEXT">Siguiente</string>
+	<string name="IDS_BUTTON_CANCEL">Cancelar</string>
+	<string name="IDS_BUTTON_CLOSE">Cerrar</string>
+	<string name="IDS_BUTTON_REMOVE">Eliminar</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Reiniciar ahora</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Reiniciar más tarde</string>
+	<string name="IDS_BUTTON_RETRY">Intentar de nuevo</string>
+	<string name="IDS_BUTTON_OK">Aceptar</string>
+	<string name="IDS_BUTTON_ABORT">Anular</string>
+	<string name="IDS_BUTTON_INSTALL">Instalar</string>
+  <string name="IDS_BUTTON_PRINT">Imprimir...</string>
+  <string name="IDS_BUTTON_SAVE">Guardar</string>
+  <string name="IDS_BUTTON_DONE">Listo</string>
+  <string name="IDS_BUTTON_BROWSE">Examinar...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Restablecer a valores predeterminados</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Abortando&lt;/h3&gt; Esperando que la acción en ejecución finalice</string>
+	<string name="IDS_MSGBOX_CLOSE">Esta acción también cerrará el asistente de instalación. ¿Está seguro de que desea hacerlo?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Seleccionar ruta</string>  
+</resources>

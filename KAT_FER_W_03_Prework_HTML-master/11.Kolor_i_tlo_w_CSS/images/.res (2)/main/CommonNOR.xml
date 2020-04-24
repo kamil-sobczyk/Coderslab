@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Norsk" lcid="0414">
+  <string name="IDS_HELP">Hjelp</string>
+	<string name="IDS_BUTTON_YES">Ja</string>
+	<string name="IDS_BUTTON_NO">Nei</string>
+	<string name="IDS_BUTTON_ACCEPT">Godta</string>
+	<string name="IDS_BUTTON_DECLINE">Ikke godta</string>
+	<string name="IDS_BUTTON_CONTINUE">Fortsett</string>
+	<string name="IDS_BUTTON_IGNORE">Ignorer</string>
+	<string name="IDS_BUTTON_BACK">Tilbake</string>
+	<string name="IDS_BUTTON_NEXT">Neste</string>
+	<string name="IDS_BUTTON_CANCEL">Avbryt</string>
+	<string name="IDS_BUTTON_CLOSE">Lukk</string>
+	<string name="IDS_BUTTON_REMOVE">Fjern</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Start på nytt nå</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Start på nytt senere</string>
+	<string name="IDS_BUTTON_RETRY">Prøv på nytt</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Avbryt</string>
+	<string name="IDS_BUTTON_INSTALL">Installer</string>
+  <string name="IDS_BUTTON_PRINT">Skriv ut</string>
+  <string name="IDS_BUTTON_SAVE">Lagre</string>
+  <string name="IDS_BUTTON_DONE">Fullført</string>
+  <string name="IDS_BUTTON_BROWSE">Bla gjennom...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Tilbakestill til standard</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Avbryter&lt;/h3&gt; Venter på at pågående handling er ferdig</string>
+	<string name="IDS_MSGBOX_CLOSE">Denne handlingen lukker også installasjonsveiviser. Er du sikker på at du vil gjøre dette?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Velg bane</string>  
+</resources>

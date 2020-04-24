@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Lietuviškai" lcid="0427">
+  <string name="IDS_HELP">Žinynas</string>
+	<string name="IDS_BUTTON_YES">Taip</string>
+	<string name="IDS_BUTTON_NO">Ne</string>
+	<string name="IDS_BUTTON_ACCEPT">Priimti</string>
+	<string name="IDS_BUTTON_DECLINE">Atmesti</string>
+	<string name="IDS_BUTTON_CONTINUE">Tęsti</string>
+	<string name="IDS_BUTTON_IGNORE">Nepaisyti</string>
+	<string name="IDS_BUTTON_BACK">Atgal</string>
+	<string name="IDS_BUTTON_NEXT">Kitas</string>
+	<string name="IDS_BUTTON_CANCEL">Atšaukti</string>
+	<string name="IDS_BUTTON_CLOSE">Uždaryti</string>
+	<string name="IDS_BUTTON_REMOVE">Šalinti</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Paleisti iš naujo dabar</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Paleisti iš naujo vėliau</string>
+	<string name="IDS_BUTTON_RETRY">Bandyti dar kartą</string>
+	<string name="IDS_BUTTON_OK">Gerai</string>
+	<string name="IDS_BUTTON_ABORT">Nutraukti</string>
+	<string name="IDS_BUTTON_INSTALL">Diegti</string>
+  <string name="IDS_BUTTON_PRINT">Spausdinti</string>
+  <string name="IDS_BUTTON_SAVE">Įrašyti</string>
+  <string name="IDS_BUTTON_DONE">Atlikta</string>
+  <string name="IDS_BUTTON_BROWSE">Naršyti...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Grąžinti numatytąsias</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Nutraukiama&lt;/h3&gt; Laukiama, kol esamas veiksmas bus baigtas</string>
+	<string name="IDS_MSGBOX_CLOSE">Dėl šio veiksmo taip pat bus uždarytas diegimo vedlys. Tikrai norite tai daryti?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Pasirinkti kelią</string>  
+</resources>

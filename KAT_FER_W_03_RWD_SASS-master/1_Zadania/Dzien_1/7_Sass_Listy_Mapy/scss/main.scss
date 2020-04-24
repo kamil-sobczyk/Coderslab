@@ -1,0 +1,62 @@
+//zad z wykładowcą
+
+
+$list-color: #000, #f00, #0f0f;
+
+$map-width: (
+  width1: 500px,
+  width2: 300px,
+  width3: 200px
+);
+
+body {
+  background: nth($list-color, 1);
+  width: map_get($map-width, width1);
+}
+
+header {
+  background: nth($list-color, 2);
+  width: map_get($map-width, width2);
+}
+
+section.main-width {
+  background: nth($list-color, 3);
+  width: map_get($map-width, width3);
+}
+
+//task1
+
+$map-colors: (
+  color1: blue,
+  color2: green,
+  color3: pink,
+  color4: gray,
+  color5: yellow
+);
+
+body {
+  background-color: map_get($map-colors, color3);
+};
+
+p, span {
+  color: map_get($map-colors, color1);
+};
+
+footer {
+  background-color: map_get($map-colors, color5);
+};
+
+
+//task2
+
+$mapWidth: (
+  maxWidth: 1000px,
+  minWidth: 300px
+);
+
+
+$valuesList: map_values($mapWidth);
+
+.menu li{
+  width: nth($valuesList, 1);
+};

@@ -1,0 +1,15 @@
+.container{
+  width: 100%;
+  max-width: 1165px;
+  margin: 0 auto;
+}
+
+.col{
+  float: left;
+}
+
+.row::after{
+  content: "";
+  display: block;
+  clear: both;
+}

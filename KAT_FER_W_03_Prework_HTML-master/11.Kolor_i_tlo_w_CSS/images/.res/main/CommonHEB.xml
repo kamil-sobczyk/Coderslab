@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="עברית" lcid="040d">
+  <string name="IDS_HELP">עזרה</string>
+	<string name="IDS_BUTTON_YES">כן</string>
+	<string name="IDS_BUTTON_NO">לא</string>
+	<string name="IDS_BUTTON_ACCEPT">קבל</string>
+	<string name="IDS_BUTTON_DECLINE">דחה</string>
+	<string name="IDS_BUTTON_CONTINUE">המשך</string>
+	<string name="IDS_BUTTON_IGNORE">התעלם</string>
+	<string name="IDS_BUTTON_BACK">הקודם</string>
+	<string name="IDS_BUTTON_NEXT">הבא</string>
+	<string name="IDS_BUTTON_CANCEL">ביטול</string>
+	<string name="IDS_BUTTON_CLOSE">סגור</string>
+	<string name="IDS_BUTTON_REMOVE">הסר</string>
+	<string name="IDS_BUTTON_RESTARTNOW">הפעל מחדש כעת</string>
+	<string name="IDS_BUTTON_RESTARTLATER">הפעל מחדש מאוחר יותר</string>
+	<string name="IDS_BUTTON_RETRY">נסה שנית</string>
+	<string name="IDS_BUTTON_OK">אישור</string>
+	<string name="IDS_BUTTON_ABORT">בטל</string>
+	<string name="IDS_BUTTON_INSTALL">התקן</string>
+  <string name="IDS_BUTTON_PRINT">הדפס</string>
+  <string name="IDS_BUTTON_SAVE">שמור</string>
+  <string name="IDS_BUTTON_DONE">סיים</string>
+  <string name="IDS_BUTTON_BROWSE">עיון</string>
+  <string name="IDS_BUTTON_DEFAULTS">אפס לברירת מחדל</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;מבטל&lt;/h3&gt; ממתין לסיום הפעולה</string>
+	<string name="IDS_MSGBOX_CLOSE">פעולה זו תסגור את האשף. האם אתה בטוח שברצונך לסגור את האשף?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">בחר נתיב</string>  
+</resources>

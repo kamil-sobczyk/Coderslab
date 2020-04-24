@@ -1,0 +1,40 @@
+/*!*body {*!*/
+    /*!*background: url("../images/mountains.jpg") no-repeat center/cover;*!*/
+    /*!*min-height: 100vh;*!*/
+    /*!*!* background-size: cover; *!*!*/
+    /*!*!* height: 100vh; *!*!*/
+/*!*}*!*/
+
+/*!**/
+/*.one{*/
+    /*background:url("../images/mountains.jpg") no-repeat center/cover;*/
+    /*background-attachment: fixed;*/
+/*}*/
+/*.two{*/
+    /*background:url("../images/rocks.jpg") no-repeat center/cover;*/
+    /*background-attachment: fixed;*/
+/*}*/
+/*.three{*/
+    /*background:url("../images/grunwald.jpg") no-repeat center/cover;*/
+    /*background-attachment: fixed;*/
+/*}*/
+/*section{*/
+
+    /*min-height: 100vh;*/
+    /*color: #fff;*/
+    /*padding-top: 30%;*/
+    /*text-align: center;*/
+    /*font-size: 3rem;*/
+/*}*/
+ /**!*/
+#rocks {
+    width: 50%;
+    height: 350px;
+    background: url("../images/rocks.jpg") no-repeat center/contain;
+}
+#grunwald {
+    width:300px;
+    height: 300px;
+    background: url("../images/grunwald.jpg") no-repeat center/cover;
+
+}

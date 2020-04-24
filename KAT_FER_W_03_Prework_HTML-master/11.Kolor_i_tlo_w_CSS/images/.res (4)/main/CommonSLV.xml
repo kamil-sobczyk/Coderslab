@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Slovenščina" lcid="0424">
+  <string name="IDS_HELP">Pomoč</string>
+	<string name="IDS_BUTTON_YES">Da</string>
+	<string name="IDS_BUTTON_NO">Ne</string>
+	<string name="IDS_BUTTON_ACCEPT">Sprejmi</string>
+	<string name="IDS_BUTTON_DECLINE">Zavrni</string>
+	<string name="IDS_BUTTON_CONTINUE">Nadaljuj</string>
+	<string name="IDS_BUTTON_IGNORE">Prezri</string>
+	<string name="IDS_BUTTON_BACK">Nazaj</string>
+	<string name="IDS_BUTTON_NEXT">Naprej</string>
+	<string name="IDS_BUTTON_CANCEL">Prekliči</string>
+	<string name="IDS_BUTTON_CLOSE">Zapri</string>
+	<string name="IDS_BUTTON_REMOVE">Odstrani</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Znova zaženi zdaj</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Znova zaženi pozneje</string>
+	<string name="IDS_BUTTON_RETRY">Poskusi znova</string>
+	<string name="IDS_BUTTON_OK">V redu</string>
+	<string name="IDS_BUTTON_ABORT">Prekini</string>
+	<string name="IDS_BUTTON_INSTALL">Namesti</string>
+  <string name="IDS_BUTTON_PRINT">Natisni</string>
+  <string name="IDS_BUTTON_SAVE">Shrani</string>
+  <string name="IDS_BUTTON_DONE">Dokončano</string>
+  <string name="IDS_BUTTON_BROWSE">Prebrskaj ...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Ponastavi na privzeto</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Prekinjanje&lt;/h3&gt; Čakanje, da se zagnano dejanje zaključi</string>
+	<string name="IDS_MSGBOX_CLOSE">S tem dejanjem se zapre tudi čarovnik za namestitev. Ali ste prepričani, da želite to storiti?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Izberite pot</string>  
+</resources>

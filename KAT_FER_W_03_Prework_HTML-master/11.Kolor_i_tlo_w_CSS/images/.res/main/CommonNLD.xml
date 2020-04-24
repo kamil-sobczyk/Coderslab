@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Nederlands" lcid="0413">
+  <string name="IDS_HELP">Help</string>
+	<string name="IDS_BUTTON_YES">Ja</string>
+	<string name="IDS_BUTTON_NO">Nee</string>
+	<string name="IDS_BUTTON_ACCEPT">Accepteren</string>
+	<string name="IDS_BUTTON_DECLINE">Weigeren</string>
+	<string name="IDS_BUTTON_CONTINUE">Doorgaan</string>
+	<string name="IDS_BUTTON_IGNORE">Negeren</string>
+	<string name="IDS_BUTTON_BACK">Vorige</string>
+	<string name="IDS_BUTTON_NEXT">Volgende</string>
+	<string name="IDS_BUTTON_CANCEL">Annuleren</string>
+	<string name="IDS_BUTTON_CLOSE">Sluiten</string>
+	<string name="IDS_BUTTON_REMOVE">Verwijderen</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Nu opnieuw opstarten</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Later opnieuw opstarten</string>
+	<string name="IDS_BUTTON_RETRY">Opnieuw</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Afbreken</string>
+	<string name="IDS_BUTTON_INSTALL">Installeren</string>
+  <string name="IDS_BUTTON_PRINT">Afdrukken...</string>
+  <string name="IDS_BUTTON_SAVE">Opslaan</string>
+  <string name="IDS_BUTTON_DONE">Gereed</string>
+  <string name="IDS_BUTTON_BROWSE">Bladeren...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Standaardinstellingen herstellen</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Afbreken&lt;/h3&gt; Wacht tot lopende actie is voltooid</string>
+	<string name="IDS_MSGBOX_CLOSE">Hiermee wordt ook de installatiewizard gesloten. Weet u zeker dat u dit wilt doen?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Selecteer pad</string>  
+</resources>

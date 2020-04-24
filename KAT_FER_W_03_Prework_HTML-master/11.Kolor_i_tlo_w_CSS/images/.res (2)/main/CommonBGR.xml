@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="На български" lcid="0402">
+  <string name="IDS_HELP">Помощ</string>
+	<string name="IDS_BUTTON_YES">Да</string>
+	<string name="IDS_BUTTON_NO">Не</string>
+	<string name="IDS_BUTTON_ACCEPT">Приемам</string>
+	<string name="IDS_BUTTON_DECLINE">Не приемам</string>
+	<string name="IDS_BUTTON_CONTINUE">Продължи</string>
+	<string name="IDS_BUTTON_IGNORE">Игнорирай</string>
+	<string name="IDS_BUTTON_BACK">Назад</string>
+	<string name="IDS_BUTTON_NEXT">Напред</string>
+	<string name="IDS_BUTTON_CANCEL">Откажи</string>
+	<string name="IDS_BUTTON_CLOSE">Затвори</string>
+	<string name="IDS_BUTTON_REMOVE">Премахни</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Рестартирай сега</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Рестартирай по-късно</string>
+	<string name="IDS_BUTTON_RETRY">Повторен опит</string>
+	<string name="IDS_BUTTON_OK">ОК</string>
+	<string name="IDS_BUTTON_ABORT">Прекрати</string>
+	<string name="IDS_BUTTON_INSTALL">Инсталирай</string>
+  <string name="IDS_BUTTON_PRINT">Печат</string>
+  <string name="IDS_BUTTON_SAVE">Запиши</string>
+  <string name="IDS_BUTTON_DONE">Готово</string>
+  <string name="IDS_BUTTON_BROWSE">Прегледай</string>
+  <string name="IDS_BUTTON_DEFAULTS">Възстанови по подразбиране</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Прекратяване&lt;/h3&gt; Изчаква се приключване на изпълняващо се действие</string>
+	<string name="IDS_MSGBOX_CLOSE">Това действие също така ще затвори съветника за инсталиране. Наистина ли искате това?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Избор на път</string>  
+</resources>

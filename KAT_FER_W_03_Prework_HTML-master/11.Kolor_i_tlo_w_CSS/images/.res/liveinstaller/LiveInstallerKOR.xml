@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="한국어 (Korean)" lcid="0412">
+	<string name="IDS_ELI_LIVE_INSTALLER">라이브 설치 관리자</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">시작|사용권 계약|AV Remover|설치|마침</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">초기화 중...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">이 컴퓨터는 ESET Remote Administrator에서 관리됩니다.</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">이 설치 관리자에 포함되는 구성 요소는 다음과 같습니다.</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">라이선스:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">서버:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">그룹:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">구성:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">설치 패키지를 준비하는 중...</string>
+  <string name="IDS_ELI_CALC_TEXT01">사용 가능한 공간을 계산하는 중...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">${bts.package.[0].name} 업데이트</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">이 무료 업데이트를 설치하여 컴퓨터를 계속 보호</string>
+  <string name="IDS_ELI_UPDATE_TEXT">${bts.package.[0].name}은(는) Windows 10과 호환되도록 업데이트해야 합니다. 이전에 설치한 버전은 Windows 10으로 마이그레이션할 수 없습니다. 계속 보호하려면 이 제품의 최신 버전을 자동으로 다운로드하여 설치하면 됩니다.&lt;BR&gt;&lt;BR&gt;업데이트는 무료이며 라이선스와 설정이 그대로 유지됩니다.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">나중에 알림</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">${bts.package.[0].name} 설치</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">빠르고 강력한 안티바이러스</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">${bts.package.[0].name}의 빠르고 강력한 보호 기능을 사용하여 더욱 안전하게 연결하고 검색하며 게임을 즐겨 보십시오. 이 솔루션은 인터넷의 다양한 위협을 제거합니다.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">${bts.package.[0].name} 설치</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">통합 인터넷 보안</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">${bts.package.[0].name}(으)로 보호되는 컴퓨터를 사용하여 인터넷에 연결하고 작업하고 게임을 즐겨 보십시오. 이 솔루션은 맬웨어 방지 보호 기능과 안티 스팸, 개인 방화벽 및 자녀 보호 기능이 결합되어 있습니다.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">${bts.package.[0].name} 설치</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">통합 인터넷 보안</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">${bts.package.[0].name}(으)로 보호되는 컴퓨터를 사용하여 인터넷에 연결하고 작업하고 게임을 즐겨 보십시오. 이 솔루션은 맬웨어 방지 보호 기능과 안티 스팸, 개인 방화벽 및 자녀 보호 기능이 결합되어 있습니다.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">${bts.package.[0].name} 설치</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">통합 인터넷 보안</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">${bts.package.[0].name}(으)로 보호되는 컴퓨터를 사용하여 인터넷에 연결하고 작업하고 게임을 즐겨 보십시오. 이 솔루션은 맬웨어 방지 보호 기능과 안티 스팸, 개인 방화벽 및 자녀 보호 기능이 결합되어 있습니다.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">${bts.package.[0].name} 설치</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">ESET으로 보호되는 컴퓨터를 이용하여 인터넷에 연결하고 작업하며 게임을 즐겨 보십시오.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">${bts.package.[0].name} 설치</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">비즈니스를 위한 고급 기준 보호</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">수상 경력이 있는 ESET NOD32® 탐지 기술이 있는 ${bts.package.[0].name}은(는) 클라우드 기반 평판 시스템으로 향상된 경량의 고급 기준 보호를 제공합니다. 새롭게 디자인된 사용자에게 친숙한 ESET Remote Administrator 웹 콘솔로 모든 것을 쉽게 제어할 수 있습니다.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">${bts.package.[0].name} 설치</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">완전한 기능의 고급 보안 제품군</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name}은(는) 완전한 기능의 고급 보안 제품군으로 모든 유형의 맬웨어에 대해 종합적인 다중 계층 보호를 제공합니다. 그리고 낮은 시스템 요구 사항, 가상화 지원 및 모든 새로운 ESET Remote Administrator 웹 콘솔을 통한 관리를 제공합니다.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">ESET AV Remover를 사용하여 원치 않는 안티바이러스 애플리케이션을 제거하겠습니다.</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">이 제품의 최신 버전을 온라인으로 사용할 수 있으며 포함된 버전 대신 자동으로 다운로드하여 설치할 수 있습니다.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">최신 버전 설치</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name}은(는) 오래된 버전인 이 Microsoft Windows 버전을 지원하지 않습니다. 호환 가능한 최신 버전의 {{IDS_ELI_PRODUCT_NAME_ESS}}이(가) 설치됩니다.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name}은(는) 오래된 버전인 이 Microsoft Windows 버전을 완벽히 지원하지 않습니다. 설치를 계속할 수 있지만 문제가 발생할 수 있습니다.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">최종 사용자 라이선스 계약</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">최종 사용자 사용권 계약 - %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">텍스트(*.txt)|*.txt|HTML(*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">동의함</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">동의 안 함</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">보호 수준은 여러 가지가 있습니다. 보호 수준을 최고로 설정하십시오.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">ESET LiveGrid® 피드백 시스템에서는 의심스러운 개체에 대한 정보를 수집할 수 있으며, 이 정보를 자동으로 처리하여 당사 클라우드 시스템에서 검색 메커니즘을 생성합니다. 그런 다음 이러한 메커니즘을 즉시 적용하여 고객에게 최고 수준의 보호 기능을 제공합니다.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">ESET LiveGrid® 피드백 시스템 활성화(권장)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">가장 뛰어난 보안을 제공하기 위해 도와주십시오.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">ESET LiveGrid® 피드백 시스템은 1억 개가 넘는 센서로 전 세계에서 의심스러운 객체에 대한 정보를 수집할 수 있으며, 이 정보를 자동으로 처리하여 당사 클라우드 기반 평판 시스템에서 검색 메커니즘을 생성합니다. 그런 다음 이러한 메커니즘을 즉시 적용하여 고객에게 최고 수준의 보호 기능을 제공합니다.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">보호 설정</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">사용자가 원치 않는 애플리케이션 검색</string>
+  <string name="IDS_ELI_PUA_QUESTION01">사용자가 원치 않는 애플리케이션의 정의</string>
+  <string name="IDS_ELI_PUA_QUESTION02">요청하는 이유</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET에서는 &lt;a {{IDS_HELP_PUA_LINK}}&gt;사용자가 원치 않는&lt;/a&gt; 애플리케이션을 검색하여 설치 전 확인하도록 요청할 수 있습니다. 사용자가 원치 않는 애플리케이션이 보안 위험을 유발하지 않을 수도 있지만 컴퓨터의 성능와 속도, 안정성에 영향을 주거나 동작을 변경시킬 수 있습니다. 이러한 애플리케이션은 일반적으로 설치 전 사용자의 동의가 필요합니다.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;예를 들어&lt;/b&gt; 웹 브라우저의 웹 페이지와 검색 설정을 변경할 수 있습니다.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;고지 사항: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET에서는 &lt;a {{IDS_HELP_PUA_LINK}}&gt;사용자가 원치 않는&lt;/a&gt; 애플리케이션을 검색하여 설치 전 확인하도록 요청할 수 있습니다. 사용자가 원치 않는 애플리케이션이 보안 위험을 유발하지 않을 수도 있지만 &lt;b&gt;컴퓨터의 다음 항목에 영향을 줄 수 있습니다.&lt;/b&gt;&lt;ul&gt;&lt;li&gt;성능&lt;/li&gt;&lt;li&gt;속도&lt;/li&gt;&lt;li&gt;안정성&lt;/li&gt;&lt;li&gt;동작&lt;/li&gt;&lt;/ul&gt;이러한 애플리케이션은 일반적으로 설치 전 사용자의 동의가 필요합니다.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">계속하기 전 옵션 선택:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">사용자가 원치 않는 애플리케이션 검색 비활성화</string>
+  <string name="IDS_ELI_PUA_ENABLE1">사용자가 원치 않는 애플리케이션 검색 활성화</string>
+  <string name="IDS_ELI_PUA_DISABLE2">사용자가 원치 않는 애플리케이션 검색 안 함</string>
+  <string name="IDS_ELI_PUA_ENABLE2">사용자가 원치 않는 애플리케이션 검색</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">설치 폴더 변경</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">설치 폴더 선택</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">제품 폴더:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">자주 변경되는 파일에 대해 다른 폴더를 지정하고자 함</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">모듈 폴더:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">데이터 폴더:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">잘못된 폴더를 선택했습니다.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">설치가 진행 중입니다</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">검사 중</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">다른 보안 제품이 발견됨</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">다른 보안 소프트웨어가 시스템에 있거나 완전히 제거되지 않았습니다. 동시에 두 가지 보안 솔루션을 실행하면 불안정해질 수 있습니다.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">충돌할 수 있는 애플리케이션 확인 중...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">기타 안티바이러스 소프트웨어를 제거하는 방법</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">특수 클리너</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">특수 클리너는 컴퓨터에서 복잡한 맬웨어를 제거하도록 설계되었습니다. 이 애플리케이션은 안정성 문제를 유발할 수 있으므로 고급 사용자에 한해 이용하는 것이 좋습니다.&lt;br&gt;자세한 내용을 보려면 &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;지식 베이스&lt;/a&gt;를 방문하십시오.&lt;br&gt;&lt;br&gt;이 클리너를 계속 실행하시겠습니까?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;특수 클리너 다운로드 중...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;특수 클리너를 실행 중입니다.&lt;/b&gt;&lt;br&gt;잠시 기다려 주십시오.</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">시스템에서 맬웨어를 찾을 수 없습니다.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">시스템에서 맬웨어를 검색하여 치료했습니다.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">시스템에서 맬웨어를 검색했습니다.&lt;br&gt;지침을 제거하려면 ESET 고객 지원에 문의하십시오.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">시스템에서 맬웨어를 검색했습니다. 치료를 완료하려면 다시 부팅해야 합니다.&lt;br&gt;여러 번 다시 부팅해야 할 수도 있습니다.&lt;br&gt;&lt;br&gt;계속 다시 부팅하시겠습니까?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">특수 클리너가 예기치 않게 종료되었습니다.&lt;br&gt;도움이 필요하면 당사 고객 지원에 문의하십시오.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">다운로드 진행 중</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">다운로드 중...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">%1 다운로드 중...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">설치가 진행 중입니다</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">설치 중...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">%1 설치 중...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">${bts.package.[${bts.var.package.default}].name} 설치를 취소하시겠습니까?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">설치 성공</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[${bts.var.package.default}].name}이(가) 컴퓨터에 성공적으로 설치되었습니다. 컴퓨터에서 바이러스와 맬웨어가 계속 확인됩니다. &lt;br&gt; &lt;br&gt; &lt;i&gt;완료&lt;/i&gt;를 클릭하여 제품 설치를 완료하고 활성화 프로세스를 시작하십시오.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[${bts.var.package.default}].name}이(가) 컴퓨터에 설치되었습니다. 컴퓨터에서 바이러스와 맬웨어를 계속 확인합니다.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    보안에 대한 자세한 정보: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;ESET 지식 베이스&lt;/a&gt;
+    &lt;br&gt;
+    ESET에 연결:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">조사 열기</string>
+  <string name="IDS_ELI_MUNI_TITLE">보안 조사</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET은 Masaryk University와 협력하여 사용자 보안 행동에 초점을 맞춘 연구를 수행하고 있습니다.&lt;br&gt;간단한 설문 조사를 작성하여 도움을 주십시오.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;귀하의 응답은 ESET 제품의 전반적인 보안 성능을 향상시키는 데 도움이 됩니다.&lt;/b&gt;&lt;br&gt;이 설문 조사를 작성하면 Masaryk University의 연구원들이 모든 콘텐츠를 분석할 수 있도록 하는 데 동의하는 것입니다. 그러나 귀하의 데이터는 통계용으로만 사용되며 신원을 나타내는 데이터는 수집되지 않습니다.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">설치에 실패했습니다</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">설치가 중단됨</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">${bts.package.[${bts.var.package.current}].name}의 설치가 완료되지 않았습니다. 시스템이 컴퓨터 위협으로부터 보호되지 않을 수 있습니다. 컴퓨터에 ${bts.package.[${bts.var.package.current}].name}을(를) 설치하려면 설치를 다시 실행하십시오.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;설치 오류 &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">사용자가 설치를 중단함</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">사용자가 ${bts.package.[${bts.var.package.default}].name}의 설치를 중단했습니다. 컴퓨터에 ${bts.package.[${bts.var.package.default}].name}을(를) 설치하려면 다시 설치를 실행하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">설치가 완료되지 않음</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">맬웨어 활동 때문일 수 있습니다. 시스템에서 잠재적인 위협을 확인하려면 &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;특수 클리너&lt;/a&gt;를 실행하는 것이 좋습니다.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">디스크 공간 부족</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">볼륨 %1%에 ${bts.package.[${bts.var.package.default}].name}을(를) 다운로드하여 설치하기 위한 디스크 공간이 부족합니다.&lt;br&gt;&lt;br&gt;%2!d!MB 이상의 여유 공간이 있는지 확인하고 &lt;i&gt;다시 시도&lt;/i&gt;를 클릭하여 사용 가능한 공간을 다시 확인한 후 계속 다운로드하거나, &lt;i&gt;닫기&lt;/i&gt;를 클릭하여 설치를 종료하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">디스크 공간 부족</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">볼륨 %1%에 ${bts.package.[${bts.var.package.default}].name}의 설치를 완료하기 위한 디스크 공간이 부족합니다.&lt;br&gt;&lt;br&gt;%2!d!MB 이상의 여유 공간이 있는지 확인하고 &lt;i&gt;다시 시도&lt;/i&gt;를 클릭하여 사용 가능한 공간을 다시 확인한 후 계속 다운로드하거나, &lt;i&gt;닫기&lt;/i&gt;를 클릭하여 설치를 종료하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">연결 오류</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">서버에 연결할 수 없습니다. 네트워크 연결을 확인하고 다시 시도하십시오.&lt;br&gt;&lt;br&gt;문제가 계속 발생하면 &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;을 방문하여 오프라인 설치 관리자를 다운로드하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">다운로드 오류</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">서버에서 데이터를 다운로드하는 동안 오류가 발생했습니다. 네트워크 연결을 확인하고 다시 시도하십시오.&lt;br&gt;&lt;br&gt;문제가 계속 발생하면 &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;을 방문하여 오프라인 설치 관리자를 다운로드하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">다운로드 오류</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">서버에 설치 패키지가 없습니다. &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;을 방문하여 오프라인 설치 관리자를 다운로드하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">내부 오류</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">내부 오류가 발생했습니다. 설치를 다시 시작해 보십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">잘못된 응답</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">서버에서 잘못된 응답이 수신되었습니다.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">호환되는 패키지를 찾을 수 없음</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">서버에서 사용할 수 있는 호환되는 설치 패키지가 없습니다. &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;을 방문하여 오프라인 설치 관리자를 다운로드하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">연결 오류</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">서버에 연결할 수 없습니다. 네트워크 연결을 확인하고 다시 시도하십시오. 프록시 서버를 사용 중인 경우 &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;프록시 서버 설정&lt;/a&gt;을 변경하십시오. &lt;br&gt;&lt;br&gt;문제가 계속 발생하면 &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;을 방문하여 오프라인 설치 관리자를 다운로드하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">최신 버전이 이미 설치됨</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">최신 버전의 ${bts.package.[${bts.var.package.default}].name}이(가) 이 컴퓨터에 이미 설치되어 있습니다.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">호환되지 않는 패키지</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">이 설치 패키지는 64비트 운영 체제용 제품입니다. 32비트 운영 체제용 설치 패키지를 사용하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">호환되지 않는 패키지</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">이 설치 패키지는 32비트 운영 체제용 제품입니다. 64비트 운영 체제용 설치 패키지를 사용하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">서버 제품이 아님</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">${bts.package.[${bts.var.package.current}].name}은(는) 서버 운영 체제용 제품이 아닙니다. &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;에서 서버 제품을 다운로드하여 설치하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">클라이언트 제품이 아님</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">${bts.package.[${bts.var.package.current}].name}은(는) 서버 운영 체제용 제품이 아닙니다. &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;에서 클라이언트 제품을 다운로드하여 설치하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">호환되지 않는 제품이 설치됨</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">호환되지 않는 {PRODUCT} 제품이 이미 설치되어 있습니다. 이 제품을 수동으로 제거하고 설치를 다시 시작하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">호환되지 않는 운영 체제</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">${bts.package.[${bts.var.package.current}].name}은(는) 사용 중인 운영 체제용 제품이 아닙니다. &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;에서 제품을 다운로드하여 설치하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">패키지 없음</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">${bts.package.[${bts.var.package.current}].name} 설치 패키지(${bts.package.[${bts.var.package.current}].file})가 없습니다.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">패키지 추출 실패</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">${bts.package.[${bts.var.package.current}].name}을(를) 추출하지 못했습니다.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">${bts.package.[${bts.var.package.current}].name}의 설치가 완료되지 않았습니다. 시스템이 컴퓨터 위협으로부터 보호되지 않을 수 있습니다. 컴퓨터에 ${bts.package.[${bts.var.package.current}].name}을(를) 설치하려면 설치를 다시 실행하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">제품을 설치할 수 있는 권한 없음</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">${bts.package.[${bts.var.package.current}].name}을(를) 설치할 수 있는 권한이 없습니다. 컴퓨터에 ${bts.package.[${bts.var.package.current}].name}을(를) 설치하려면 관리자 권한으로 설치를 다시 실행하십시오.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">오류 코드: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">이 동작을 수행하면 설치 마법사도 닫힙니다. 계속하시겠습니까?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">프록시 서버 설정</string>
+  <string name="IDS_ELI_PROXY_TEXT2">프록시 서버에 인증 필요</string>
+  <string name="IDS_ELI_PROXY_TEXT3">프록시 서버:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">포트:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">사용자 이름:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">비밀번호:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">프록시 서버 사용 중</string>
+  
+</resources>

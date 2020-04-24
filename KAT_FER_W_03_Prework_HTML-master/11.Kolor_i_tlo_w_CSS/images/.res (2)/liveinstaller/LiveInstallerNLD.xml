@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Nederlands" lcid="0413">
+	<string name="IDS_ELI_LIVE_INSTALLER">Live-installatieprogramma</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Welkom|Licentieovereenkomst|AV Remover|Installatie|Voltooien</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Initialiseren...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Deze computer wordt beheerd door ESET Remote Administrator</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">De volgende onderdelen zijn in dit installatieprogramma opgenomen</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Licentie:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Server:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Groep:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Configuratie:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Installatiepakket voorbereiden...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Beschikbare ruimte berekenen...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">${bts.package.[0].name} bijwerken</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Installeer deze gratis update om beveiligd te blijven</string>
+  <string name="IDS_ELI_UPDATE_TEXT">${bts.package.[0].name} moet worden bijgewerkt om compatibel te zijn met Windows 10. De eerder geïnstalleerde versie kan niet worden gemigreerd naar Windows 10. Om beveiligd te blijven wordt de nieuwste versie van dit product automatisch gedownload en geïnstalleerd.&lt;BR&gt;&lt;BR&gt;De update is gratis en uw licentie en instellingen blijven behouden.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Later</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">${bts.package.[0].name} installeren</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Snelle, krachtige antivirusoplossing</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">Veiliger surfen, gamen en verbinding maken met de snelle en krachtige beveiliging van ${bts.package.[0].name}. De oplossing maakt een einde aan een groot aantal bedreigingen op internet.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">${bts.package.[0].name} installeren</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Alles-in-één internetbeveiliging</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">Gebruik uw computer voor uw werk, ontspanning en om te surfen, beveiligd met ${bts.package.[0].name}. Deze oplossing combineert antimalwarebeveiliging met antispambeveiliging, een persoonlijke firewall en ouderlijk toezicht.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">${bts.package.[0].name} installeren</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Alles-in-één internetbeveiliging</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">Gebruik uw computer voor uw werk, ontspanning en om te surfen, beveiligd met ${bts.package.[0].name}. Deze oplossing combineert antimalwarebeveiliging met antispambeveiliging, een persoonlijke firewall en ouderlijk toezicht.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">${bts.package.[0].name} installeren</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Alles-in-één internetbeveiliging</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">Gebruik uw computer voor uw werk, ontspanning en om te surfen, beveiligd met ${bts.package.[0].name}. Deze oplossing combineert antimalwarebeveiliging met antispambeveiliging, een persoonlijke firewall en ouderlijk toezicht.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">${bts.package.[0].name} installeren</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">Gebruik uw computer voor uw werk, ontspanning en om te surfen, beveiligd door ESET.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">${bts.package.[0].name} installeren</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Geavanceerde beveiliging voor uw bedrijf</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name}, met bekroonde ESET NOD32®-detectietechnologie, biedt uw bedrijf processorvriendelijke, geavanceerde beveiliging, aangevuld door ons reputatiesysteem in de cloud. U bedient alles moeiteloos in onze geheel opnieuw vormgegeven, gebruikersvriendelijke ESET Remote Administrator-webconsole.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">${bts.package.[0].name} installeren</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Uw geavanceerde beveiligingssuite vol functionaliteit</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} is uw geavanceerde beveiligingssuite vol functionaliteit, die allesomvattende, meerlagige beveiliging biedt tegen allerlei typen malware. Profiteer van de lage systeemvereisten, ondersteuning voor virtualisatie en het overzicht dat u in de geheel vernieuwde ESET Remote Administrator-webconsole hebt.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">Ik wil ongewenste antivirustoepassingen verwijderen met ESET AV Remover</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">Er is via internet een nieuwere versie van dit product beschikbaar en dit kan automatisch worden gedownload en geïnstalleerd, in plaats van de meegeleverde versie.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Nieuwere versie installeren</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} biedt geen ondersteuning voor deze verouderde versie van Microsoft Windows. De recentste compatibele versie van {{IDS_ELI_PRODUCT_NAME_ESS}} wordt geïnstalleerd.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} biedt geen volledige ondersteuning voor deze verouderde versie van Microsoft Windows. U kunt doorgaan met de installatie, maar er kunnen zich problemen voordoen.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Licentieovereenkomst voor eindgebruikers</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Licentieovereenkomst voor eindgebruikers - %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Tekstbestanden (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Ik ga akkoord</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">Ik ga niet akkoord</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Samen staan we sterk. Profiteer van maximale beveiliging.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">Met het ESET LiveGrid®-feedbacksysteem kunnen we informatie over verdachten objecten verzamelen, die we automatisch verwerken om detectiemechanismen in ons cloudsysteem te ontwikkelen. Deze passen we direct toe om ervoor te zorgen dat onze klanten van het maximale beveiligingsniveau kunnen profiteren.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">ESET LiveGrid®-feedbacksysteem inschakelen (aanbevolen)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Help ons om u een nóg betere beveiliging te leveren.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">Het ESET LiveGrid®-feedbacksysteem maakt gebruik van meer dan 100 miljoen sensoren wereldwijd waarmee wij informatie over verdachte objecten verzamelen, die wij automatisch verwerken om detectiemechanismen in ons reputatiesysteem in de cloud te ontwikkelen. Deze passen wij direct toe om ervoor te zorgen dat u over het maximale beveiligingsniveau beschikt.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Beveiligingsinstellingen</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Detectie van potentieel ongewenste toepassingen</string>
+  <string name="IDS_ELI_PUA_QUESTION01">Wat is een potentieel ongewenste toepassing?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">Waarom vragen we dit?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET kan &lt;a {{IDS_HELP_PUA_LINK}}&gt;potentieel ongewenste toepassingen&lt;/a&gt; detecteren en om bevestiging vragen voordat ze worden geïnstalleerd. Potentieel ongewenste toepassingen hoeven geen beveiligingsrisico op te leveren, maar ze kunnen van invloed zijn op de prestaties, snelheid en betrouwbaarheid van de computer of wijzigingen in het gedrag ervan veroorzaken. Meestal is voorafgaand aan de installatie toestemming van de gebruiker vereist.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;Een voorbeeld:&lt;/b&gt; ze kunnen de startpagina en zoekinstellingen van uw webbrowser wijzigen.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;OPMERKING: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET kan &lt;a {{IDS_HELP_PUA_LINK}}&gt;potentieel ongewenste toepassingen&lt;/a&gt; detecteren en om bevestiging vragen voordat ze worden geïnstalleerd. Potentieel ongewenste toepassingen hoeven geen beveiligingsrisico te vormen maar &lt;b&gt;kunnen wel gevolgen hebben voor uw computer, onder andere voor:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;prestaties&lt;/li&gt;&lt;li&gt;snelheid&lt;/li&gt;&lt;li&gt;betrouwbaarheid&lt;/li&gt;&lt;li&gt;gedrag&lt;/li&gt;&lt;/ul&gt;Meestal is voorafgaand aan de installatie toestemming van de gebruiker vereist.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Kies een optie alvorens door te gaan:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Detectie van potentieel ongewenste toepassingen uitschakelen</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Detectie van potentieel ongewenste toepassingen inschakelen</string>
+  <string name="IDS_ELI_PUA_DISABLE2">Potentieel ongewenste toepassingen niet detecteren</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Potentieel ongewenste toepassingen detecteren</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Installatiemap wijzigen</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Installatiemap selecteren</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Productmap:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Ik wil andere mappen opgeven voor bestanden die vaak veranderen</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Modulemap:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Gegevensmap:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Ongeldige map geselecteerd.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Installatie wordt uitgevoerd</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Scannen</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Er zijn andere beveiligingsproducten gevonden</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">Er is andere beveiligingssoftware aanwezig op het systeem of dergelijke software is niet volledig verwijderd. Het uitvoeren van twee beveiligingsoplossingen tegelijk kan instabiliteit veroorzaken.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Controleren op mogelijk conflicterende toepassingen...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Andere antivirussoftware verwijderen</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Gespecialiseerd opschoonprogramma</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">Gespecialiseerd opschoonprogramma is ontworpen om complexe malware van uw computer te verwijderen. Deze toepassing kan stabiliteitsproblemen veroorzaken en wordt alleen aanbevolen aan ervaren gebruikers.&lt;br&gt;Ga voor meer informatie naar onze &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;kennisbank&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Weet u zeker dat u het opschoonprogramma wilt uitvoeren?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Gespecialiseerd opschoonprogramma downloaden...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;Gespecialiseerd opschoonprogramma wordt uitgevoerd.&lt;/b&gt;&lt;br&gt;Een ogenblik geduld...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">Geen malware gevonden op het systeem.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Malware gedetecteerd en van het systeem verwijderd.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Er is malware op het systeem gedetecteerd.&lt;br&gt;Neem contact op met onze klantenservice voor verwijderingsinstructies.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Er is malware gedetecteerd op het systeem. Opnieuw opstarten is vereist om het opschonen te voltooien.&lt;br&gt;Mogelijk is meerdere keren opnieuw opstarten vereist.&lt;br&gt;&lt;br&gt;Nu opnieuw opstarten?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">Gespecialiseerd opschoonprogramma is onverwacht gestopt.&lt;br&gt;Neem contact op met onze klantenservice voor assistentie.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">Bezig met downloaden</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Downloaden…</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">%1 wordt gedownload…</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Installatie wordt uitgevoerd</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Installeren...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">%1 wordt geïnstalleerd...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">Weet u zeker dat u de installatie van ${bts.package.[${bts.var.package.default}].name} wilt annuleren?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Geïnstalleerd</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[${bts.var.package.default}].name} is geïnstalleerd op uw computer. Uw computer wordt continu op virussen en malware gecontroleerd. &lt;br&gt; &lt;br&gt; Klik op &lt;i&gt;Gereed&lt;/i&gt; om de configuratie van het product te voltooien en het activeringsproces te starten.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[${bts.var.package.default}].name} is op uw computer geïnstalleerd. Uw computer wordt continu gecontroleerd op virussen en malware.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Meer informatie over beveiliging: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;ESET-kennisbank&lt;/a&gt;
+    &lt;br&gt;
+    Houd contact met ESET:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Enquête openen</string>
+  <string name="IDS_ELI_MUNI_TITLE">Beveiligingsenquête</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET voert in samenwerking met Masaryk University een onderzoek uit naar het beveiligingsgedrag van gebruikers.&lt;br&gt;Doe mee aan een korte enquête.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Aan de hand van uw reacties kunnen wij de algehele beveiliging van ESET-producten verbeteren.&lt;/b&gt;&lt;br&gt;Door deze enquête in te vullen gaat u ermee akkoord dat de inhoud kan worden geanalyseerd door onderzoekers van Masaryk University, maar uw gegevens worden alleen voor statistische doeleinden gebruikt. Er worden geen identificatiegegevens verzameld.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Installatie mislukt</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">De installatie is tijdelijk uitgeschakeld</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">De installatie van ${bts.package.[${bts.var.package.current}].name} is niet volledig gelukt. Het systeem is mogelijk niet beveiligd tegen computerdreigingen. Voer de installatie opnieuw uit om ${bts.package.[${bts.var.package.current}].name} op uw computer te installeren.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Fout: &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">Installatie is tijdelijk uitgeschakeld door de gebruiker</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">De installatie van ${bts.package.[${bts.var.package.default}].name} is onderbroken door de gebruiker. Voer de installatie opnieuw uit om ${bts.package.[${bts.var.package.default}].name} op uw computer te installeren.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">De installatie is niet voltooid</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">Dit kan het gevolg zijn van malwareactiviteit. Het wordt aangeraden een &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;gespecialiseerd opschoonprogramma&lt;/a&gt; uit te voeren om het systeem te controleren op potentiële bedreigingen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Geen schijfruimte meer</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">Er is onvoldoende schijfruimte op het volume %1% om ${bts.package.[${bts.var.package.default}].name} te downloaden en installeren.&lt;br&gt;&lt;br&gt;Zorg dat u minimaal %2!d! MB beschikbaar hebt en klik op &lt;i&gt;Opnieuw&lt;/i&gt; om opnieuw op beschikbare ruimte te controleren en het downloaden voort te zetten, of klik  op &lt;i&gt;Sluiten&lt;/i&gt; om de installatie af te sluiten.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Geen schijfruimte meer</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">Er is onvoldoende schijfruimte op het volume %1% om de installatie van ${bts.package.[${bts.var.package.default}].name} te voltooien.&lt;br&gt;&lt;br&gt;Zorg dat u minimaal %2!d! MB beschikbaar hebt en klik op &lt;i&gt;Opnieuw&lt;/i&gt; om opnieuw op beschikbare ruimte te controleren en het downloaden voort te zetten, of klik  op &lt;i&gt;Sluiten&lt;/i&gt; om de installatie af te sluiten.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Verbindingsfout</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Kan geen verbinding maken met de server. Controleer uw netwerkverbinding en probeer het opnieuw.&lt;br&gt;&lt;br&gt;Als u nog steeds problemen ervaart, ga dan naar &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; om het offline-installatieprogramma te downloaden.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Downloadfout</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Er is een fout opgetreden tijdens het downloaden van gegevens van de server. Controleer uw netwerkverbinding en probeer het opnieuw.&lt;br&gt;&lt;br&gt;Als u nog steeds problemen ervaart, ga dan naar &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; om het offline-installatieprogramma te downloaden.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Downloadfout</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Geen installatiepakket gevonden op de server. Ga naar &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; om het programma voor offline-installatie te downloaden.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Interne fout</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Er is een interne fout opgetreden. Probeer het opnieuw om de installatie opnieuw te starten.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Ongeldige reactie</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Er is een ongeldige reactie van de server ontvangen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Compatibel pakket niet gevonden</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Er is geen compatibel installatiepakket beschikbaar op de server. Ga naar &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; om het offline-installatieprogramma te downloaden.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Verbindingsfout</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Kan geen verbinding maken met de server. Controleer uw netwerkverbinding en probeer het opnieuw. Als u gebruikmaakt van een proxyserver, wijzig uw &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;proxyserverinstellingen&lt;/a&gt; dan.&lt;br&gt;&lt;br&gt;Als u problemen blijft ervaren, ga dan naar &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; om het offline-installatieprogramma te downloaden.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Nieuwste versie is al geïnstalleerd</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">Er is al een nieuwste versie van ${bts.package.[${bts.var.package.default}].name} op deze computer geïnstalleerd.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Incompatibel pakket</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Dit installatiepakket is bedoeld voor 64-bits besturingssystemen. Gebruik een installatiepakket voor 32-bits besturingssystemen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Incompatibel pakket</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Dit installatiepakket is bedoeld voor 32-bits besturingssystemen. Gebruik een installatiepakket voor 64-bits besturingssystemen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Geen serverproduct</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">${bts.package.[${bts.var.package.current}].name} is niet bedoeld voor serverbesturingssystemen. Download en installeer een serverproduct bij &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">Geen clientproduct</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">${bts.package.[${bts.var.package.current}].name} is niet bedoeld voor serverbesturingssystemen. Download en installeer een clientproduct bij &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Incompatibel product geïnstalleerd</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Er is al een incompatibel {PRODUCT} product geïnstalleerd. Verwijder dit handmatig en start de installatie daarna opnieuw.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Incompatibel besturingssysteem</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">${bts.package.[${bts.var.package.current}].name} is niet bedoeld voor uw besturingssystemen. Download en installeer een product bij &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Pakket niet gevonden</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">Het ${bts.package.[${bts.var.package.current}].name}-installatiepakket (${bts.package.[${bts.var.package.current}].file})  is niet gevonden.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Pakket uitpakken mislukt</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">Uitpakken van ${bts.package.[${bts.var.package.current}].name} is mislukt.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">De installatie van ${bts.package.[${bts.var.package.current}].name} is niet volledig gelukt. Het systeem is mogelijk niet beveiligd tegen computerdreigingen. Voer de installatie opnieuw uit om ${bts.package.[${bts.var.package.current}].name} op uw computer te installeren.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Onvoldoende rechten om product te installeren</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">U hebt onvoldoende rechten om ${bts.package.[${bts.var.package.current}].name} te installeren. Voer de installatie opnieuw als Administrator uit als u ${bts.package.[${bts.var.package.current}].name} op uw computer wilt installeren.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Foutcode: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Met deze actie wordt ook de installatiewizard gesloten. Weet u zeker dat u dit wilt doen?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Proxyserver instellen</string>
+  <string name="IDS_ELI_PROXY_TEXT2">De proxyserver vereist verificatie</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Proxyserver:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Poort:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Gebruikersnaam:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Wachtwoord:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Ik gebruik een proxyserver</string>
+  
+</resources>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="ไทย" lcid="041E">
+  <string name="IDS_HELP">วิธีใช้</string>
+	<string name="IDS_BUTTON_YES">ใช่</string>
+	<string name="IDS_BUTTON_NO">ไม่</string>
+	<string name="IDS_BUTTON_ACCEPT">ยอมรับ</string>
+	<string name="IDS_BUTTON_DECLINE">ปฏิเสธ</string>
+	<string name="IDS_BUTTON_CONTINUE">ดำเนินการต่อ</string>
+	<string name="IDS_BUTTON_IGNORE">ละเว้น</string>
+	<string name="IDS_BUTTON_BACK">ย้อนกลับ</string>
+	<string name="IDS_BUTTON_NEXT">ถัดไป</string>
+	<string name="IDS_BUTTON_CANCEL">ยกเลิก</string>
+	<string name="IDS_BUTTON_CLOSE">ปิด</string>
+	<string name="IDS_BUTTON_REMOVE">ลบออก</string>
+	<string name="IDS_BUTTON_RESTARTNOW">เริ่มต้นระบบใหม่เดี๋ยวนี้</string>
+	<string name="IDS_BUTTON_RESTARTLATER">เริ่มต้นระบบใหม่ในภายหลัง</string>
+	<string name="IDS_BUTTON_RETRY">ลองอีกครั้ง</string>
+	<string name="IDS_BUTTON_OK">ตกลง</string>
+	<string name="IDS_BUTTON_ABORT">ล้มเลิก</string>
+	<string name="IDS_BUTTON_INSTALL">ติดตั้ง</string>
+  <string name="IDS_BUTTON_PRINT">พิมพ์</string>
+  <string name="IDS_BUTTON_SAVE">บันทึก</string>
+  <string name="IDS_BUTTON_DONE">เสร็จ</string>
+  <string name="IDS_BUTTON_BROWSE">เรียกดู...</string>
+  <string name="IDS_BUTTON_DEFAULTS">รีเซ็ตเป็นค่าเริ่มต้น</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;กำลังล้มเลิก&lt;/h3&gt; กำลังรอให้การทำงานที่เรียกใช้อยู่เสร็จสิ้น</string>
+	<string name="IDS_MSGBOX_CLOSE">การกระทำนี้จะปิดวิซาร์ดการติดตั้งด้วยเช่นกัน คุณแน่ใจว่าต้องการทำเช่นนั้น</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">เลือกพาธ</string>  
+</resources>

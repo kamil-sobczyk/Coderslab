@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="한국어" lcid="0412">
+  <string name="IDS_HELP">도움말</string>
+	<string name="IDS_BUTTON_YES">예</string>
+	<string name="IDS_BUTTON_NO">아니요</string>
+	<string name="IDS_BUTTON_ACCEPT">동의함</string>
+	<string name="IDS_BUTTON_DECLINE">동의 안 함</string>
+	<string name="IDS_BUTTON_CONTINUE">계속</string>
+	<string name="IDS_BUTTON_IGNORE">무시</string>
+	<string name="IDS_BUTTON_BACK">뒤로</string>
+	<string name="IDS_BUTTON_NEXT">다음</string>
+	<string name="IDS_BUTTON_CANCEL">취소</string>
+	<string name="IDS_BUTTON_CLOSE">닫기</string>
+	<string name="IDS_BUTTON_REMOVE">제거</string>
+	<string name="IDS_BUTTON_RESTARTNOW">지금 다시 시작</string>
+	<string name="IDS_BUTTON_RESTARTLATER">나중에 다시 시작</string>
+	<string name="IDS_BUTTON_RETRY">다시 시도</string>
+	<string name="IDS_BUTTON_OK">확인</string>
+	<string name="IDS_BUTTON_ABORT">중단</string>
+	<string name="IDS_BUTTON_INSTALL">설치</string>
+  <string name="IDS_BUTTON_PRINT">인쇄</string>
+  <string name="IDS_BUTTON_SAVE">저장</string>
+  <string name="IDS_BUTTON_DONE">완료</string>
+  <string name="IDS_BUTTON_BROWSE">찾아보기</string>
+  <string name="IDS_BUTTON_DEFAULTS">기본값으로 다시 설정</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;중단 중&lt;/h3&gt; 실행 중인 작업을 마칠 때까지 기다리는 중</string>
+	<string name="IDS_MSGBOX_CLOSE">이 동작을 수행하면 설치 마법사도 닫힙니다. 계속하시겠습니까?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">경로 선택</string>  
+</resources>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Polski" lcid="0415">
+  <string name="IDS_HELP">Pomoc</string>
+	<string name="IDS_BUTTON_YES">Tak</string>
+	<string name="IDS_BUTTON_NO">Nie</string>
+	<string name="IDS_BUTTON_ACCEPT">Akceptuję</string>
+	<string name="IDS_BUTTON_DECLINE">Nie akceptuję</string>
+	<string name="IDS_BUTTON_CONTINUE">Dalej</string>
+	<string name="IDS_BUTTON_IGNORE">Ignoruj</string>
+	<string name="IDS_BUTTON_BACK">Wstecz</string>
+	<string name="IDS_BUTTON_NEXT">Dalej</string>
+	<string name="IDS_BUTTON_CANCEL">Anuluj</string>
+	<string name="IDS_BUTTON_CLOSE">Zamknij</string>
+	<string name="IDS_BUTTON_REMOVE">Usuń</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Uruchom ponownie teraz</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Uruchom ponownie później</string>
+	<string name="IDS_BUTTON_RETRY">Spróbuj ponownie</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Przerwij</string>
+	<string name="IDS_BUTTON_INSTALL">Instaluj</string>
+  <string name="IDS_BUTTON_PRINT">Drukuj...</string>
+  <string name="IDS_BUTTON_SAVE">Zapisz</string>
+  <string name="IDS_BUTTON_DONE">Gotowe</string>
+  <string name="IDS_BUTTON_BROWSE">Przeglądaj...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Przywróć domyślne</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Przerywanie&lt;/h3&gt; Oczekiwanie na zakończenie trwającej czynności</string>
+	<string name="IDS_MSGBOX_CLOSE">Ta czynność spowoduje również zamknięcie kreatora instalacji. Czy na pewno chcesz ją wykonać?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Wybierz ścieżkę</string>  
+</resources>

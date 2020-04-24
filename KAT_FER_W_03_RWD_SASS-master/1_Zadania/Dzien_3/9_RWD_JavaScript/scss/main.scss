@@ -1,0 +1,21 @@
+
+@media (max-width: 400px) {
+  #menu-trigger {
+    display: block;
+  }
+  .menu {
+    display: none;
+  }
+}
+
+@media (min-width: 401px) {
+  #menu-trigger {
+    display: none;
+  }
+  .menu {
+    display: block;
+    //li {
+    //  display: inline;
+    //}
+  }
+}

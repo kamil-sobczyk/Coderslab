@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Eesti" lcid="0425">
+	<string name="IDS_ELI_LIVE_INSTALLER">Otseinstaller</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Tere tulemast|Litsentsileping|VT eemaldamine|Installimine|Lõpetamine</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Lähtestamine ...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Arvutit haldab ESET Remote Administrator (ESETi kaughaldus)</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">Selles installeris on järgmised komponendid</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Litsents:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Õigus:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Rühm:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Konfigureerimine:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Installipaketi ettevalmistamine ...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Vaba ruumi arvutamine ...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">Uuendus ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Installige see tasuta uuendus, et jääda kaitstuks</string>
+  <string name="IDS_ELI_UPDATE_TEXT">${bts.package.[0].name} tuleb uuendada, et tagada ühilduvus Windows 10-ga. Varasemat installitud versiooni ei saanud Windows 10-sse siirdada. Kaitse säilitamiseks saab toote uusima versiooni alla laadida ja installida automaatselt.&lt;BR&gt;&lt;BR&gt;Uuendamine on tasuta ning teie litsents ja sätted jäävad alles.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Tuleta hiljem meelde</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">Installi ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Kiire ja võimas viirusetõrje</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">Tänu toote ${bts.package.[0].name} kiirele ja võimsale kaitsele saate nautida turvalisemat sirvimist, mängimist ja ühendumist. Lahendus kõrvaldab suure hulga Interneti-ohte.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">Installi ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Universaalne Interneti-turve</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">Nautige oma arvuti kasutamist töötamise, mängimise ja suhtlemise ajal – ${bts.package.[0].name} kaitseb teid. Lahendus ühendab ründevaratõrje rämpspostitõrje, isikliku tulemüüri ja vanema kontrolliga.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">Installi ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Universaalne Interneti-turve</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">Nautige oma arvuti kasutamist töötamise, mängimise ja suhtlemise ajal – ${bts.package.[0].name} kaitseb teid. Lahendus ühendab ründevaratõrje rämpspostitõrje, isikliku tulemüüri ja vanema kontrolliga.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">Installi ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Universaalne Interneti-turve</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">Nautige oma arvuti kasutamist töötamise, mängimise ja suhtlemise ajal – ${bts.package.[0].name} kaitseb teid. Lahendus ühendab ründevaratõrje rämpspostitõrje, isikliku tulemüüri ja vanema kontrolliga.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">Installi ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">Nautige oma arvuti kasutamist töötades, mängides ja suhtlemise ajal – ESET kaitseb teid.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">Installi ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Täiendatud etalonturve teie ettevõttele</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name} koos auhinnatud ESET NOD32® avastuse tehnoloogiaga pakub teie ettevõttele kerget ja täiendatud etalonturvet, mida võimendab meie pilvesüsteem. Hoidke seda kõike hõlpsalt kontrolli all meie täielikult ümber kujundatud ning kasutajasõbraliku veebikonsooliga ESET Remote Administrator.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">Installi ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Teie täisfunktsionaalne, täiendatud turbekomplekt</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} on teie täisfunktsionaalne ja täiendatud turbekomplekt, pakkudes kõikehõlmavat ning mitmetasandilist kaitset kõikide ründevarade vastu. Nautige madalaid süsteeminõudluseid, virtualiseerimistuge ja ülevaadet uue veebikonsooliga ESET Remote Administrator.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">Ma soovin desinstallida soovimatud viirusetõrjerakendused, kasutades ESET AV Remover tarkvara.</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">Selle toote uuem versioon on võrgus saadaval ning selle saab praeguse versiooni asemel automaatselt alla laadida ja installida.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Installi uuem versioon</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} ei toeta seda Microsoft Windowsi aegunud versiooni. Installitakse kõige uuem ühilduv versioon tootest {{IDS_ELI_PRODUCT_NAME_ESS}}.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} ei toeta täielikult seda Microsoft Windowsi aegunud versiooni. Saate installimisega jätkata, ent esineda võib tõrkeid.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Lõppkasutaja litsentsileping</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Lõppkasutaja litsentsileping – %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Tekstifailid (*.txt)|*.txt|HTML-failid (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Nõustun</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">Ei nõustu</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Hulgakesi oleme võimsad. Hankige maksimaalne kaitsetase.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">Tagasisidesüsteem ESET LiveGrid® võimaldab meil koguda teavet kahtlaste objektide kohta, mida me automaatselt töötleme, et luua oma pilvesüsteemis tuvastusmehhanismid. Seejärel rakendame neid kohe, et tagada oma klientidele maksimaalne kaitsetase.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">Luba tagasisidesüsteem ESET LiveGrid® (soovitatav)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Aidake meil teile veel paremat turvet pakkuda.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">Tagasisidesüsteem ESET LiveGrid® võimaldab meil koguda teavet kahtlaste objektide kohta, mida me automaatselt töötleme, et luua oma pilvesüsteemis tuvastusmehhanismid. Seejärel rakendame neid kohe, et tagada oma klientidele maksimaalne kaitsetase.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Kaitse sätted</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Võimalike soovimatute rakenduste tuvastus</string>
+  <string name="IDS_ELI_PUA_QUESTION01">Mis on võimalik soovimatu rakendus?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">Miks me seda küsime?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET võib tuvastada &lt;a {{IDS_HELP_PUA_LINK}}&gt;võimalikud soovimatud rakendused&lt;/a&gt; ja küsida enne nende installimist kinnitust. Võimalikud soovimatud rakendused ei pruugi kujutada endast turvariski, kuid nad võivad mõjutada arvuti jõudlust, kiirust ja töökindlust või põhjustada käitumise muutumist. Tavaliselt vajavad need enne installimist kasutaja nõusolekut.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;Näiteks&lt;/b&gt; võivad need muuta teie veebibrauseri veebilehe- ja otsingusätteid.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;TEADE. &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET võib tuvastada &lt;a {{IDS_HELP_PUA_LINK}}&gt;võimalikud soovimatud rakendused&lt;/a&gt; ja küsida enne nende installimist kinnitust. Võimalikud soovimatud rakendused ei pruugi kujutada endast turvariski, kuid nad &lt;b&gt;võivad mõjutada arvuti:&lt;/b&gt;&lt;ul&gt;&lt;li&gt; jõudlust,&lt;/li&gt;&lt;li&gt;kiirust,&lt;/li&gt;&lt;li&gt;töökindlust,&lt;/li&gt;&lt;li&gt;käitumist&lt;/li&gt;&lt;/ul&gt; Tavaliselt vajavad need enne installimist kasutaja nõusolekut.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Enne jätkamist valige üks variant.</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Keela võimalike soovimatute rakenduste tuvastamine</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Luba võimalike soovimatute rakenduste tuvastamine</string>
+  <string name="IDS_ELI_PUA_DISABLE2">Ära tuvasta võimalikke soovimatuid rakendusi</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Tuvasta võimalikke soovimatuid rakendusi</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Installikausta muutmine</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Valige installikaust</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Toote kaust:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Soovin sageli muutuvatele failidele määrata eraldi kaustad</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Mooduli kaust:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Andmete kaust:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Valitud on lubamatu kaust.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Installimine on pooleli</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Kontrollimine</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Leiti muu viirusetõrjetarkvara</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">Süsteemis on kasutusel muu turbetarkvara või seda pole täielikult eemaldatud. Kahe turbelahenduse samaaegne käitamine võib põhjustada ebastabiilsust.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Võimalike konfliktsete rakenduste kontrollimine ...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Muu viirusetõrjetarkvara desinstallimine</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Eripuhastaja</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">Eripuhastaja on välja töötatud arvutist keeruka ründevara eemaldamiseks. See rakendus võib põhjustada stabiilsusprobleeme ja seda soovitatakse kasutada üksnes kogenud kasutajatel.&lt;br&gt;Lisateabe saamiseks vaadake meie &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;teabebaasi&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Kas soovite kindlasti puhastaja käivitada?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Eripuhastaja allalaadimine ...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;Eripuhastaja töötab.&lt;/b&gt;&lt;br&gt;Palun oodake ...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">Süsteemist ei leitud ründevara.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Süsteemist avastati ründevara ja see eemaldati.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Süsteemist avastati ründevara.&lt;br&gt;Eemaldamisjuhiste saamiseks võtke ühendust meie klienditeenindusega.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Süsteemist avastati ründevara. Puhastamise lõpuleviimiseks on nõutav algkäivitus.&lt;br&gt;Arvestage, et vaja võib olla mitut algkäivitust.&lt;br&gt;&lt;br&gt;Kas soovite kohe algkäivitada?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">Eripuhastaja lõpetas ootamatult töö.&lt;br&gt;Palun pöörduge abi saamiseks meie klienditeenindusse.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">Allalaadimine pooleli</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Allalaadimine ...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">%1 allalaadimine ...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Installimine on pooleli</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Installimine ...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">%1 installimine ...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">Kas soovite toote ${bts.package.[${bts.var.package.default}].name} installimise kindlasti tühistada?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Installimine õnnestus</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[${bts.var.package.default}].name} on edukalt teie arvutisse installitud. Arvutit kontrollitakse pidevalt viiruste ja ründevara suhtes. &lt;br&gt; &lt;br&gt; Klõpsake toote häälestamise lõpuleviimiseks ja aktiveerimistoimingu käivitamiseks nuppu &lt;i&gt;Valmis&lt;/i&gt;.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[${bts.var.package.default}].name} on edukalt teie arvutisse installitud. Arvutit kontrollitakse pidevalt viiruste ja ründevara suhtes.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Lisateave turvalisuse kohta: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;ESET-i teabebaas&lt;/a&gt;
+    &lt;br&gt;
+    ESET-iga ühenduse võtmine:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Ava küsitlus</string>
+  <string name="IDS_ELI_MUNI_TITLE">Turbeküsitlus</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET viib koos Masaryki Ülikooliga läbi küsitlust kasutajate turbekäitumise kohta.&lt;br&gt;Aidake meid ja täitke see lühike küsimustik.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Teie vastused aitavad meil ESET-i toodete üldist turvalisust tõsta.&lt;/b&gt;&lt;br&gt;Küsitlusele vastamisega nõustute, et Masaryki Ülikooli uurijad võivad kogu sisu analüüsida, kuid teie andmeid kasutatakse ainult statistilisel eesmärgil. Isikut tuvastavaid andmeid ei koguta.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Installimine nurjus</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">Installimine katkestati</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">Toote ${bts.package.[${bts.var.package.current}].name} installlimist ei viidud edukalt lõpule. Süsteem ei pruugi olla arvutiohtude eest kaitstud. Toote ${bts.package.[${bts.var.package.current}].name} installimiseks oma arvutisse käivitage installimine uuesti.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Tõrge: &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">Kasutaja katkestas installimise</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">Kasutaja katkestas toote ${bts.package.[${bts.var.package.default}].name} installimise. Toote ${bts.package.[${bts.var.package.default}].name} installimiseks oma arvutisse käivitage installimine uuesti.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">Installimist ei viidud edukalt lõpule.</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">Selle põhjuseks võib olla ründevara tegevus. Süsteemi kontrollimiseks võimalike ohtude eest on soovitatav käivitada &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;eripuhastaja&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Kettaruum on otsas</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">Kettal %1% pole toote ${bts.package.[${bts.var.package.default}].name} allalaadimiseks ja installimise käivitamiseks piisavalt ruumi.&lt;br&gt;&lt;br&gt;Veenduge, et teil oleks vähemalt %2!d! MB vaba ruumi, seejärel klõpsake käsku &lt;i&gt;Proovi uuesti&lt;/i&gt;, et vaba ruumi uuesti kontrollida ja allalaadimist jätkata, või käsku &lt;i&gt;Sule&lt;/i&gt; installimise katkestamiseks.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Kettaruum on otsas</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">Kettal %1% pole toote ${bts.package.[${bts.var.package.default}].name} installimiseks piisavalt ruumi.&lt;br&gt;&lt;br&gt;Veenduge, et teil oleks vähemalt %2!d! MB vaba ruumi, seejärel klõpsake käsku &lt;i&gt;Proovi uuesti&lt;/i&gt;, et vaba ruumi uuesti kontrollida ja allalaadimist jätkata, või käsku &lt;i&gt;Sule&lt;/i&gt; installimise katkestamiseks.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Ühendustõrge</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Serveriga ei saa ühendust. Kontrollige võrguühendust ja proovige uuesti.&lt;br&gt;&lt;br&gt;Kui probleemid ei kao, külastage võrguühenduseta installeri allalaadimiseks veebisaiti &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Allalaadimistõrge</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Andmete allalaadimisel serverist ilmnes tõrge. Kontrollige võrguühendust ja proovige uuesti.&lt;br&gt;&lt;br&gt;Kui probleemid ei kao, külastage võrguühenduseta installeri allalaadimiseks veebisaiti &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Allalaadimistõrge</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Installipaketti ei leitud serverist. Külastage veebilehte &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;, et ühenduseta installer alla laadida.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Sisemine tõrge</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Ilmnes sisemine tõrge. Proovige installimine uuesti käivitada.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Kehtetu vastus</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Serverist saadi kehtetu vastus.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Ühilduvat paketti ei leitud</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Serveris pole ühilduvat installipaketti saadaval. Külastage võrguühenduseta installeri allalaadimiseks veebisaiti &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Ühendustõrge</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Serveriga ei saa ühendust. Kontrollige võrguühendust ja proovige uuesti. Kui kasutate puhverserverit, muutke oma &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;puhverserveri sätteid&lt;/a&gt;. &lt;br&gt;&lt;br&gt;Kui probleemid ei kao, külastage võrguühenduseta installeri allalaadimiseks veebisaiti &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Uusim versioon on juba installitud</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">Toote ${bts.package.[${bts.var.package.default}].name} uusim versioon on sellesse arvutisse juba installitud.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Mitteühilduv pakett</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">See installipakett on ette nähtud 64-bitistele operatsioonisüsteemidele. Kasutage 32-bitise operatsioonisüsteemi installipaketti.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Mitteühilduv pakett</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">See installipakett on ette nähtud 32-bitistele operatsioonisüsteemidele. Kasutage 64-bitise operatsioonisüsteemi installipaketti.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Pole serveritoode</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">Toode ${bts.package.[${bts.var.package.current}].name} pole mõeldud serveri operatsioonisüsteemile. Laadige serveritoode alla ja installige veebisaidilt &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">Pole klienditoode</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">Toode ${bts.package.[${bts.var.package.current}].name} pole mõeldud serveri operatsioonisüsteemile. Laadige klienditoode alla ja installige veebisaidilt &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Installitud on mitteühilduv toode</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Mitteühilduv {PRODUCT} toode on juba installitud. Desinstallige see käsitsi ja käivitage installimine uuesti.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Mitteühilduv operatsioonisüsteem</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">Toode ${bts.package.[${bts.var.package.current}].name} pole mõeldud teie operatsioonisüsteemile. Laadige toode alla ja installige veebisaidilt &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Paketti ei leitud</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">Installipaketti ${bts.package.[${bts.var.package.current}].name} (${bts.package.[${bts.var.package.current}].file}) ei leitud.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Paketi ekstraktimine ebaõnnestus</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">Paketi ${bts.package.[${bts.var.package.current}].name} ekstraktimine ebaõnnestus.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">Toote ${bts.package.[${bts.var.package.current}].name} installlimist ei viidud edukalt lõpule. Süsteem ei pruugi olla arvutiohtude eest kaitstud. Toote ${bts.package.[${bts.var.package.current}].name} installimiseks oma arvutisse käivitage installimine uuesti.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Toote installimiseks pole piisavalt õigusi</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">Teil pole toote ${bts.package.[${bts.var.package.current}].name} installimiseks piisavalt õigusi. Toote ${bts.package.[${bts.var.package.current}].name} installimiseks oma arvutisse käivitage installimine administraatorina uuesti.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Tõrkekood: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">See toiming sulgeb ka installiviisardi. Kas soovite seda kindlasti teha?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Puhverserveri häälestus</string>
+  <string name="IDS_ELI_PROXY_TEXT2">Puhverserver nõuab autentimist</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Puhverserver:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Port:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Kasutajanimi:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Parool:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Kasutan puhverserverit</string>
+  
+</resources>

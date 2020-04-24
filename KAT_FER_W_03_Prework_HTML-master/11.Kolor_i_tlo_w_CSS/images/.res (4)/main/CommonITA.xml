@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Italiano" lcid="0410">
+  <string name="IDS_HELP">Guida</string>
+	<string name="IDS_BUTTON_YES">Sì</string>
+	<string name="IDS_BUTTON_NO">No</string>
+	<string name="IDS_BUTTON_ACCEPT">Accetto</string>
+	<string name="IDS_BUTTON_DECLINE">Rifiuto</string>
+	<string name="IDS_BUTTON_CONTINUE">Continua</string>
+	<string name="IDS_BUTTON_IGNORE">Ignora</string>
+	<string name="IDS_BUTTON_BACK">Indietro</string>
+	<string name="IDS_BUTTON_NEXT">Avanti</string>
+	<string name="IDS_BUTTON_CANCEL">Annulla</string>
+	<string name="IDS_BUTTON_CLOSE">Chiudi</string>
+	<string name="IDS_BUTTON_REMOVE">Rimuovi</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Riavvia ora</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Riavvia più tardi</string>
+	<string name="IDS_BUTTON_RETRY">Riprova</string>
+	<string name="IDS_BUTTON_OK">Ok</string>
+	<string name="IDS_BUTTON_ABORT">Interrompi</string>
+	<string name="IDS_BUTTON_INSTALL">Installa</string>
+  <string name="IDS_BUTTON_PRINT">Stampa</string>
+  <string name="IDS_BUTTON_SAVE">Salva</string>
+  <string name="IDS_BUTTON_DONE">Fine</string>
+  <string name="IDS_BUTTON_BROWSE">Sfoglia...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Ripristina predefinito</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Interruzione&lt;/h3&gt; In attesa del termine dell&apos;azione in esecuzione</string>
+	<string name="IDS_MSGBOX_CLOSE">Questa azione chiuderà anche la procedura guidata di installazione. Confermare l&apos;operazione?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Seleziona percorso</string>  
+</resources>

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Español" lcid="0c0a">
+	<string name="IDS_ELI_LIVE_INSTALLER">Live installer</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Bienvenida|Acuerdo de licencia|AV Remover|Instalación|Finalizar</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Inicializando...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">ESET Remote Administrator administrará este ordenador</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">Este instalador incluye los siguientes componentes</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Licencia:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Servidor:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Grupo:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Configuración:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Preparando la carpeta de instalación...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Calculando espacio disponible...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">Actualizar ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Instale esta actualización gratuita para mantenerse protegido</string>
+  <string name="IDS_ELI_UPDATE_TEXT">${bts.package.[0].name} debe actualizarse para que sea compatible con Windows 10. La versión anteriormente instalada no pudo migrarse a Windows 10. Para mantener la protección, la versión más reciente de este producto puede descargarse e instalarse automáticamente.&lt;BR&gt;&lt;BR&gt;La actualización es gratuita y se conservarán tanto su licencia como su configuración.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Recordarme más tarde</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">Instalar ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Antivirus rápido y potente</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">Disfrute de navegación, conexiones y juegos más seguros gracias a la protección rápida y potente que ofrece ${bts.package.[0].name}. Esta solución elimina una amplia variedad de amenazas de Internet.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">Instalar ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">Seguridad completa en Internet</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">Disfrute usando su ordenador al trabajar, jugar y conectarse con la protección de ${bts.package.[0].name}. La solución combina protección frente a código malicioso con protección antispam, cortafuegos personal y control parental.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">Instalar ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">Seguridad completa en Internet</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">Disfrute usando su ordenador al trabajar, jugar y conectarse con la protección de ${bts.package.[0].name}. La solución combina protección frente a código malicioso con protección antispam, cortafuegos personal y control parental.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">Instalar ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">Seguridad completa en Internet</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">Disfrute usando su ordenador al trabajar, jugar y conectarse con la protección de ${bts.package.[0].name}. La solución combina protección frente a código malicioso con protección antispam, cortafuegos personal y control parental.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">Instalar ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">Trabaja, juega o simplemente navega con total tranquilidad. ESET te protege.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">Instalar ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Protección de línea de base avanzada para su empresa</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name}, equipado con la galardonada tecnología de detección de ESET NOD32®, ofrece a su empresa protección ligera de línea de base avanzada, optimizada gracias a nuestro sistema de reputación en la nube. Contrólelo sin esfuerzos gracias a consola web de ESET Remote Administrator, totalmente rediseñada y muy fácil de usar.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">Instalar ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Su completo conjunto de programas de seguridad avanzada</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} es su completo conjunto de programas de seguridad avanzada, y ofrece completa protección multicapa contra todo tipo de código malicioso. Consume pocos recursos, es compatible con las tecnologías de virtualización y permite su supervisión desde la renovada consola web de ESET Remote Administrator.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">Quiro usar ESET AV Remover para desinstalar las aplicaciones antivirus existentes</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">Hay disponible en línea una versión más reciente de este producto, y puede descargarse e instalarse automáticamente en lugar de la versión incluida.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Instalar la versión más reciente</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} no es compatible con esta versión obsoleta de Microsoft Windows. Se instalará la versión compatible más reciente de {{IDS_ELI_PRODUCT_NAME_ESS}}.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} no es totalmente compatible con esta versión obsoleta de Microsoft Windows. Puede continuar con la instalación, pero pueden surgir problemas.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Acuerdo de licencia de usuario final</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Acuerdo de licencia para el usuario final: %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Texto (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Acepto</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">No acepto</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">El poder está en los números, obtenga el nivel máximo de protección.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">El sistema de respuesta ESET LiveGrid® nos permite recopilar información sobre objetos sospechosos, información que procesamos automáticamente para crear mecanismos de detección en nuestro sistema de nube. A continuación, los aplicamos inmediatamente para asegurarnos de que nuestros clientes disponen del máximo nivel de protección.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">Activar el sistema de respuesta ESET LiveGrid® (recomendado)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Ayúdenos a proporcionarle una seguridad todavía mejor.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">El sistema de respuesta ESET LiveGrid® utiliza más de cien millones de sensores de todo el mundo que nos permiten recopilar información sobre objetos sospechosos, información que procesamos automáticamente para crear mecanismos de detección en nuestro sistema en la nube. A continuación, los aplicamos inmediatamente para asegurarnos de que nuestros clientes disponen del máximo nivel de protección.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Ajustes de protección</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Detección de aplicaciones potencialmente no deseadas</string>
+  <string name="IDS_ELI_PUA_QUESTION01">¿Qué es una aplicación potencialmente no deseada?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">¿Por qué preguntamos?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET puede detectar &lt;a {{IDS_HELP_PUA_LINK}}&gt;aplicaciones potencialmente no deseadas&lt;/a&gt; y solicitar confirmación antes de su instalación. Es posible que las aplicaciones potencialmente no deseadas no constituyan un riesgo de seguridad, pero pueden afectar al rendimiento, la velocidad y la fiabilidad del ordenador, o provocar cambios de comportamiento. Normalmente requieren el consentimiento del usuario antes de la instalación.</string>
+  <string name="IDS_ELI_PUA_TEXT02">&lt;b&gt;Por ejemplo,&lt;/b&gt; pueden cambiar la página web y la configuración de búsqueda de su navegador web.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;AVISO: &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET puede detectar &lt;a {{IDS_HELP_PUA_LINK}}&gt;aplicaciones potencialmente no deseadas&lt;/a&gt; y solicitar confirmación antes de su instalación. Las aplicaciones potencialmente no deseadas pueden no representar un riesgo para la seguridad, pero &lt;b&gt;sí que pueden afectar a las siguientes características de su ordenador:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;rendimiento&lt;/li&gt;&lt;li&gt;velocidad&lt;/li&gt;&lt;li&gt;fiabilidad&lt;/li&gt;&lt;li&gt;comportamiento&lt;/li&gt;&lt;/ul&gt;Normalmente requieren el consentimiento del usuario antes de su instalación.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Seleccione una opción antes de continuar:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Desactivar la detección de aplicaciones potencialmente no deseadas</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Activar la detección de aplicaciones potencialmente no deseadas</string>
+  <string name="IDS_ELI_PUA_DISABLE2">No detectar aplicaciones potencialmente no deseadas</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Detectar aplicaciones potencialmente no deseadas</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Cambiar la carpeta de instalación</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Seleccionar la carpeta de instalación</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Carpeta del producto:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Quiero especificar carpetas distintas para los archivos que cambian con frecuencia</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Carpeta de módulo:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Carpeta de datos:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Se ha seleccionado una carpeta no válida</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Instalación en curso</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Analizando</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Se han encontrado otros productos de seguridad</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">Se ha detectado la presencia de otro software de seguridad en el sistema o una desinstalación incompleta. La ejecución de dos soluciones de seguridad al mismo tiempo puede provocar inestabilidad.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Buscando posibles aplicaciones en conflicto...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Cómo desinstalar otro software antivirus</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Limpiador especializado</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">El limpiador especializado se ha diseñado para eliminar código malicioso complejo de su ordenador. Esta aplicación puede provocar problemas de estabilidad, por lo que solo se recomienda su uso a usuarios avanzados.&lt;br&gt;Consulte nuestra &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;base de conocimiento&lt;/a&gt; para obtener más información.&lt;br&gt;&lt;br&gt;¿Desea continuar y ejecutar el limpiador?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Descargando limpiador especializado...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;El limpiador especializado está en funcionamiento.&lt;/b&gt;&lt;br&gt;Espere...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">No se encontró ningún código malicioso en el sistema.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Se detectó código malicioso y se desinfectó el sistema.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Se ha detectado la presencia de código malicioso en el sistema.&lt;br&gt;Póngase en contacto con el servicio de atención al cliente para recibir instrucciones para su eliminación.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Se ha detectado la presencia de código malicioso en el sistema. Es necesario reiniciar el ordenador para finalizar el proceso de desinfección.&lt;br&gt;Es posible que deba reiniciar el ordenador varias veces.&lt;br&gt;&lt;br&gt;¿Desea reiniciar ahora?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">El limpiador especializado se ha cerrado de forma inesperada.&lt;br&gt;Póngase en contacto con el servicio de atención al cliente para obtener ayuda.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">Descarga en curso</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Descargando...</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">Descargando %1...</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Instalación en curso</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Instalando...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">Instalando %1...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">¿Está seguro de que desea cancelar la instalación de ${bts.package.[${bts.var.package.default}].name}?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Instalación correcta</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[${bts.var.package.default}].name} se ha instalado correctamente en su ordenador. A partir de ahora, se comprobará la presencia de virus y código malicioso en su ordenador de forma constante. &lt;br&gt; &lt;br&gt; Haga clic en &lt;i&gt;Hecho&lt;/i&gt; para completar la instalación del producto e iniciar el proceso de activación.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[${bts.var.package.default}].name} se ha instalado correctamente en su ordenador. A partir de ahora, se comprobará la presencia de virus y código malicioso en su ordenador de forma constante.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Más información sobre seguridad: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;Base de conocimiento de ESET&lt;/a&gt;
+    &lt;br&gt;
+    Conéctese con ESET:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Abrir encuesta</string>
+  <string name="IDS_ELI_MUNI_TITLE">Encuesta sobre seguridad</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET, en colaboración con la Universidad de Masaryk, realiza una investigación centrada en el comportamiento del usuario con respecto a la seguridad.&lt;br&gt;Colabore con nosotros rellenando esta breve encuesta.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Sus respuestas nos ayudarán a mejorar la seguridad global de los productos de ESET.&lt;/b&gt;&lt;br&gt;Al completar esta encuesta acepta que todo su contenido puede ser analizado por los investigadores de la Universidad de Masaryk. No obstante, sus datos se utilizarán con fines meramente estadísticos, no se recopilarán datos identificativos.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Error en la instalación</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">La instalación se ha interrumpido</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">La instalación de ${bts.package.[${bts.var.package.current}].name} no ha finalizado correctamente. El sistema podría no estar protegido contra amenazas informáticas. Para instalar ${bts.package.[${bts.var.package.current}].name} en su ordenador, ejecute la instalación de nuevo.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Error: &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">El usuario ha  interrumpido la instalación</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">El usuario ha interrumpido la instalación de ${bts.package.[${bts.var.package.default}].name}. Para instalar ${bts.package.[${bts.var.package.default}].name} en su ordenador, ejecute la instalación de nuevo.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">La instalación no finalizó correctamente</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">Esto puede estar provocado por la actividad de código malicioso. Para buscar en el sistema posibles amenazas se recomienda ejecutar el &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;limpiador especializado&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">No hay más espacio disponible en disco</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">No hay espacio en disco suficiente en el volumen %1% para descargar e iniciar la instalación de ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Asegúrese de que dispone como mínimo de %2!d! MB libres y haga clic en &lt;i&gt;Intentar de nuevo&lt;/i&gt; para comprobar el espacio disponible de nuevo y continuar con la instalación, o haga clic en &lt;i&gt;Cerrar&lt;/i&gt; para salir de la instalación.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">No hay más espacio disponible en disco</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">No hay espacio en disco suficiente en el volumen %1% para completar la instalación de ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Asegúrese de que dispone como mínimo de %2!d! MB libres y haga clic en &lt;i&gt;Intentar de nuevo&lt;/i&gt; para comprobar el espacio disponible de nuevo y continuar con la instalación, o haga clic en &lt;i&gt;Cerrar&lt;/i&gt; para salir de la instalación.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Error de conexión</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">No se pudo conectar con el servidor. Compruebe la conexión de red e inténtelo de nuevo.&lt;br&gt;&lt;br&gt;Si sigue teniendo problemas, visite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; para descargar el instalador sin conexión.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Error de descarga</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Se produjo un error durante la descarga de los datos del servidor. Compruebe la conexión de red e inténtelo de nuevo.&lt;br&gt;&lt;br&gt;Si sigue teniendo problemas, visite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; para descargar el instalador sin conexión.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Error de descarga</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">No se pudo encontrar el paquete de instalación en el servidor. Visite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; para descargar el instalador sin conexión.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Error interno</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Se produjo un error interno. Inténtelo de nuevo para iniciar la instalación otra vez.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Respuesta no válida</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Se recibió una respuesta no válida del servidor.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">No se encontró un paquete compatible</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">No hay ningún paquete de instalación compatible en el servidor. Visite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; para descargar el instalador sin conexión.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Error de conexión</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">No se pudo conectar con el servidor. Compruebe la conexión de red e inténtelo de nuevo. Si está usando un servidor proxy, cambie la &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;configuración del servidor proxy&lt;/a&gt; &lt;br&gt;&lt;br&gt;Si sigue teniendo problemas, visite &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; para descargar el instalador sin conexión.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Ya está instalada la versión más reciente</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">Ya hay una versión más reciente de ${bts.package.[${bts.var.package.default}].name} instalada en este ordenador.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Paquete incompatible</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Este paquete de instalación está previsto para sistemas operativos de 64 bits. Utilice el paquete de instalación para sistemas operativos de 32 bits.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Paquete incompatible</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Este paquete de instalación está previsto para sistemas operativos de 32 bits. Utilice el paquete de instalación para sistema operativos de 64 bits.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">No es un producto para servidor</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">${bts.package.[${bts.var.package.current}].name} no está diseñado para sistemas operativos de servidor. Descargue e instale un producto para servidores de &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">No es un producto para cliente</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">${bts.package.[${bts.var.package.current}].name} no está diseñado para sistemas operativos de servidor. Descargue e instale un producto para clientes desde &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Producto incompatible instalado</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">El producto incompatible {PRODUCT} ya está instalado. Desinstálelo manualmente e inicie la instalación de nuevo.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Sistema operativo incompatible</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">${bts.package.[${bts.var.package.current}].name} no está diseñado para su sistema operativo. Descargue e instale un producto de &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Paquete no encontrado</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">No se encontró el paquete de instalación ${bts.package.[${bts.var.package.current}].name} (${bts.package.[${bts.var.package.current}].file}).</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Error al extraer el paquete</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">La extracción del paquete ${bts.package.[${bts.var.package.current}].name} ha fallado.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">La instalación de ${bts.package.[${bts.var.package.current}].name} no ha finalizado correctamente. El sistema podría no estar protegido contra amenazas informáticas. Para instalar ${bts.package.[${bts.var.package.current}].name} en su ordenador, ejecute la instalación de nuevo.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Derechos insuficientes para instalar el producto</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">No tiene derechos suficientes para instalar ${bts.package.[${bts.var.package.current}].name}. Para instalar ${bts.package.[${bts.var.package.current}].name} en su ordenador, ejecute la instalación de nuevo como administrador.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Código de error: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Esta acción cerrará también el asistente de instalación. ¿Está seguro de que quiere hacerlo?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Configuración del servidor proxy</string>
+  <string name="IDS_ELI_PROXY_TEXT2">El servidor proxy requiere autenticación</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Servidor proxy:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Puerto:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Nombre de usuario:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Contraseña:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Estoy usando un servidor proxy</string>
+  
+</resources>

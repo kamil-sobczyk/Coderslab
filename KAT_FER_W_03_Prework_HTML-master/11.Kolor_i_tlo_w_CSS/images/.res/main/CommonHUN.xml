@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Magyar" lcid="040e">
+  <string name="IDS_HELP">Súgó</string>
+	<string name="IDS_BUTTON_YES">Igen</string>
+	<string name="IDS_BUTTON_NO">Nem</string>
+	<string name="IDS_BUTTON_ACCEPT">Elfogadom</string>
+	<string name="IDS_BUTTON_DECLINE">Nem fogadom el</string>
+	<string name="IDS_BUTTON_CONTINUE">Folytatás</string>
+	<string name="IDS_BUTTON_IGNORE">Mellőzés</string>
+	<string name="IDS_BUTTON_BACK">Vissza</string>
+	<string name="IDS_BUTTON_NEXT">Tovább</string>
+	<string name="IDS_BUTTON_CANCEL">Mégse</string>
+	<string name="IDS_BUTTON_CLOSE">Bezárás</string>
+	<string name="IDS_BUTTON_REMOVE">Eltávolítás</string>
+	<string name="IDS_BUTTON_RESTARTNOW">Újraindítás most</string>
+	<string name="IDS_BUTTON_RESTARTLATER">Újraindítás később</string>
+	<string name="IDS_BUTTON_RETRY">Újra</string>
+	<string name="IDS_BUTTON_OK">OK</string>
+	<string name="IDS_BUTTON_ABORT">Megszakítás</string>
+	<string name="IDS_BUTTON_INSTALL">Telepítés</string>
+  <string name="IDS_BUTTON_PRINT">Nyomtatás...</string>
+  <string name="IDS_BUTTON_SAVE">Mentés</string>
+  <string name="IDS_BUTTON_DONE">Kész</string>
+  <string name="IDS_BUTTON_BROWSE">Tallózás...</string>
+  <string name="IDS_BUTTON_DEFAULTS">Visszaállítás alaphelyzetbe</string>  
+  <string name="IDS_ABORT_TEXT">&lt;h3&gt;Megszakítás&lt;/h3&gt; Várakozás a folyamatban lévő művelet befejeződésére</string>
+	<string name="IDS_MSGBOX_CLOSE">Ez a művelet is bezárja a telepítővarázslót. Biztosan ezt szeretné?</string>
+  <string name="IDS_PATH_SELECT_DIALOG_CAPTION">Elérési út kijelölése</string>  
+</resources>

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources langname="Dansk" lcid="0406">
+	<string name="IDS_ELI_LIVE_INSTALLER">Live installationsprogram</string>
+
+  <string name="IDS_ELI_INSTALL_STEP">Velkommen|Licensaftale|AV Remover|Installation|Afslut</string>
+
+  <string name="IDS_ELI_PRODUCT_NAME_EAV">ESET NOD32 Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EIS">ESET Internet Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESS">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_ESSP">ESET Smart Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EHS">ESET Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EEA">ESET Endpoint Antivirus</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EES">ESET Endpoint Security</string>
+  <string name="IDS_ELI_PRODUCT_NAME_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_INIT_TEXT">Initialiserer...</string>
+  
+  <string name="IDS_EPI_INFO_TITLE">Denne computer administreres af ESET Remote Administrator</string>
+  <string name="IDS_EPI_BUNDLE_TITLE">Følgende komponenter er inkluderet i dette installationsprogram</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT1">Licens:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT2">Server:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT3">Gruppe:</string>
+  <string name="IDS_ELI_HOME_ENDPOINT_TEXT4">Konfiguration:</string>
+   
+  <string name="IDS_ELI_DUMP_TEXT01">Forbereder installationspakke...</string>
+  <string name="IDS_ELI_CALC_TEXT01">Beregner ledig plads...</string>
+
+  <string name="IDS_ELI_UPDATE_TITLE">Opdater ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_UPDATE_SUBTITLE">Installer denne gratis opdatering for at forblive beskyttet</string>
+  <string name="IDS_ELI_UPDATE_TEXT">${bts.package.[0].name} skal opdateres for at være kompatibel med Windows 10. Den version, der er installeret tidligere, kunne ikke overføres til Windows 10. Hvis du vil forblive beskyttet, kan den nyeste version af dette produkt hentes og installeres automatisk.&lt;BR&gt;&lt;BR&gt;Opdateringen er gratis, og du bevarer din licens og dine indstillinger.</string>
+  <string name="IDS_ELI_UPDATE_BTN_REMIND_ME_LATER">Påmind mig senere</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EPI">${bts.package.[${bts.var.package.default}].name}</string>
+	
+  <string name="IDS_ELI_HOME_TITLE_EAV">Installer ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EAV">Hurtig, kraftig antivirus</string>
+  <string name="IDS_ELI_HOME_TEXT_EAV">Få en mere sikker browsing-, spil- og forbindelsesoplevelse med den hurtige og effektive beskyttelse i ${bts.package.[0].name}. Løsningen fjerner en lang række internettrusler.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESS">Installer ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESS">All-in-one-internetsikkerhed</string>
+  <string name="IDS_ELI_HOME_TEXT_ESS">Du kan fortsætte med at bruge din computer, når du arbejder, spiller og har forbindelse – beskyttet af ${bts.package.[0].name}. Løsningen kombinerer antimalwarebeskyttelse med antispam, den personlige firewall og forældrekontrol.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EIS">Installer ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EIS">All-in-one-internetsikkerhed</string>
+  <string name="IDS_ELI_HOME_TEXT_EIS">Du kan fortsætte med at bruge din computer, når du arbejder, spiller og har forbindelse – beskyttet af ${bts.package.[0].name}. Løsningen kombinerer antimalwarebeskyttelse med antispam, den personlige firewall og forældrekontrol.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_ESSP">Installer ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_ESSP">All-in-one-internetsikkerhed</string>
+  <string name="IDS_ELI_HOME_TEXT_ESSP">Du kan fortsætte med at bruge din computer, når du arbejder, spiller og har forbindelse – beskyttet af ${bts.package.[0].name}. Løsningen kombinerer antimalwarebeskyttelse med antispam, den personlige firewall og forældrekontrol.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EHS">Installer ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EHS">&amp;nbsp;</string>
+  <string name="IDS_ELI_HOME_TEXT_EHS">Du kan fortsætte med at bruge din computer, når du arbejder, spiller og opretter forbindelse – beskyttet af ESET.</string>
+  
+  <string name="IDS_ELI_HOME_TITLE_EEA">Installer ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EEA">Avanceret grundbeskyttelse af din virksomhed</string>
+  <string name="IDS_ELI_HOME_TEXT_EEA">${bts.package.[0].name}, som indeholder den prisvindende ESET NOD32®-registreringsteknologi, giver din virksomhed en avanceret grundbeskyttelse i letvægtsklassen, som forbedres via vores skybaserede omdømmesystem. Det hele styres problemfrit fra vores brugervenlige ESET Remote Administrator-webkonsol i helt nyt design.</string>
+
+  <string name="IDS_ELI_HOME_TITLE_EES">Installer ${bts.package.[0].name}</string>
+  <string name="IDS_ELI_HOME_SUBTITLE_EES">Din komplette, avancerede sikkerhedspakke</string>
+  <string name="IDS_ELI_HOME_TEXT_EES">${bts.package.[0].name} er din komplette, avancerede sikkerhedspakke, der leverer omfattende beskyttelse i flere lag mod alle former for malware. Lave systemkrav, virtualiseringssupport og overblik – det hele via vores helt nye ESET Remote Administrator-webkonsol.</string>
+  
+  <string name="IDS_ELI_AVREMOVER_CHECK">Jeg vil fjerne uønskede antivirusprogrammer ved hjælp af ESET AV Remover</string>
+  
+  <string name="IDS_ELI_HOME_NEW_VERSION_TEXT">En nyere version af dette produkt er tilgængelig online og kan automatisk hentes og installeres i stedet for den inkluderede.</string>
+  <string name="IDS_ELI_HOME_NEW_VERSION_CHECKBOX">Installer nyere version</string>
+
+  <string name="IDS_ELI_HOME_OUTDATED_OS_ALTERNATE_PRODUCT">${bts.package.[0].name} understøtter ikke denne forældede version af Microsoft Windows. Den seneste kompatible version af {{IDS_ELI_PRODUCT_NAME_ESS}} installeres.</string>
+  <string name="IDS_ELI_HOME_OUTDATED_OS_LIMITED_SUPPORT">${bts.package.[0].name} understøtter ikke fuldt ud denne forældede version af Microsoft Windows. Du kan fortsætte med installationen, men der kan opstå problemer.</string>
+
+	
+  <string name="IDS_ELI_EULA_SINGLE_TITLE">Slutbrugerlicensaftale</string>
+  <string name="IDS_ELI_EULA_MULTI_TITLE">Slutbrugerlicensaftale – %1</string>
+  <string name="IDS_ELI_EULA_SAVEAS_FILTER">Tekst (*.txt)|*.txt|HTML (*.html,*.htm)|*.html;*.htm||</string>
+
+  <string name="IDS_ELI_EULA_BUTTON_ACCEPT">Jeg accepterer</string>
+  <string name="IDS_ELI_EULA_BUTTON_DECLINE">Jeg accepterer ikke</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION01">Der er styrke i tal. Få det højeste beskyttelsesniveau.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION01">ESET LiveGrid®-feedbacksystemet giver os mulighed for at indsamle oplysninger om mistænkelige elementer, som vi behandler automatisk for at oprette registreringsmekanismer i vores skysystem. Derefter anvender vi dem straks for at sikre os, at dine kunder har det højeste beskyttelsesniveau.</string>
+  <string name="IDS_ELI_LIVEGRID_CHECKBOX01">Aktivér ESET LiveGrid®-feedbacksystemet (anbefales)</string>
+
+  <string name="IDS_ELI_LIVEGRID_CAPTION02">Hjælp os med at give dig endnu bedre sikkerhed.</string>
+  <string name="IDS_ELI_LIVEGRID_DESCRIPTION02">ESET LiveGrid®-feedbacksystemet bruger mere end 100 millioner sensorer verden over, hvilket giver os mulighed for at indsamle oplysninger om mistænkelige elementer, som vi behandler automatisk for at oprette registreringsmekanismer ved hjælp af vores skybaserede omdømmesystem. Derefter implementerer vi dem straks for at sikre os, at dine kunder har det højeste beskyttelsesniveau.</string>
+
+  
+  <string name="IDS_ELI_PUA_TITILE">Beskyttelsesindstillinger</string>	
+
+  <string name="IDS_ELI_PUA_CAPTION01">Registrering af potentielt uønskede programmer</string>
+  <string name="IDS_ELI_PUA_QUESTION01">Hvad er et potentielt uønsket program?</string>
+  <string name="IDS_ELI_PUA_QUESTION02">Hvorfor spørger vi?</string>
+  <string name="IDS_ELI_PUA_TEXT01">ESET kan finde &lt;a {{IDS_HELP_PUA_LINK}}&gt;potentielt uønskede programmer&lt;/a&gt; og bede om en bekræftelse, før de installeres. Potentielt uønskede programmer udgør måske ikke en sikkerhedsrisiko, men de kan påvirke computerens ydeevne, hastighed og pålidelighed eller medføre ændringer i funktionsmåden. De kræver som regel brugerens samtykke, før de installeres.</string>
+  <string name="IDS_ELI_PUA_TEXT02">De kan &lt;b&gt;f.eks.&lt;/b&gt; ændre din webbrowsers webside og søgeindstillinger.</string>
+  <string name="IDS_ELI_PUA_TEXT03">&lt;font color="red"&gt; &lt;b font&gt;BEMÆRK! &lt;/b&gt;&lt;/font&gt;</string>
+  <string name="IDS_ELI_PUA_TEXT04">ESET kan finde &lt;a {{IDS_HELP_PUA_LINK}}&gt;potentielt uønskede programmer&lt;/a&gt; og bede om en bekræftelse, før de installeres. Potentielt uønskede programmer udgør måske ikke en sikkerhedsrisiko, men de &lt;b&gt;kan påvirke computerens&lt;/b&gt;&lt;ul&gt;&lt;li&gt;ydeevne&lt;/li&gt;&lt;li&gt;hastighed&lt;/li&gt;&lt;li&gt;pålidelighed&lt;/li&gt;&lt;li&gt;funktionsmåde&lt;/li&gt;&lt;/ul&gt;. De kræver som regel brugerens samtykke, før de installeres.</string>
+  <string name="IDS_ELI_PUA_CAPTION02">Vælg en indstilling, før du fortsætter:</string>
+  <string name="IDS_ELI_PUA_DISABLE1">Deaktiver registrering af potentielt uønskede programmer</string>
+  <string name="IDS_ELI_PUA_ENABLE1">Aktivér registrering af potentielt uønskede programmer</string>
+  <string name="IDS_ELI_PUA_DISABLE2">Registrer ikke potentielt uønskede programmer</string>
+  <string name="IDS_ELI_PUA_ENABLE2">Registrer potentielt uønskede programmer</string>
+
+  <string name="IDS_ELI_SETTINGS_BTN_ADVANCED">Skift installationsmappe</string>
+
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TITLE">Vælg installationsmappe</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT01">Produktmappe:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT02">Jeg vil angive andre mapper for filer, der ofte ændres</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT03">Modulmappe:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_TEXT04">Datamappe:</string>
+  <string name="IDS_ELI_SETTINGS_FOLDERS_VALIDATOR_INFO">Der er valgt en ugyldig mappe.</string>
+
+  <string name="IDS_ELI_PROGRESS_TITLE">Installationen er i gang</string>
+
+  <string name="IDS_ELI_DETECTAV_TITLE">Scanner</string>
+  <string name="IDS_ELI_DETECTAV_TEXT01">Der blev fundet andre sikkerhedsprodukter</string>
+  <string name="IDS_ELI_DETECTAV_TEXT02">Der findes en anden sikkerhedsløsning på systemet, eller den er ikke fjernet fuldstændig. Hvis du kører to sikkerhedsløsninger samtidig, kan det medføre, at systemet bliver ustabilt.</string>
+  <string name="IDS_ELI_DETECTAV_TEXT03">Undersøger, om der er modstridende programmer...</string>
+  <string name="IDS_ELI_DETECTAV_UNINSTALL">Sådan fjerner du anden antivirussoftware</string>
+
+  <string name="IDS_ELI_CLEANER_CAPTION">Særligt renseprogram</string>
+  <string name="IDS_ELI_CLEANER_PROMPT_QUESTION">Det særlige renseprogram er udviklet til at fjerne avanceret malware fra din computer. Dette program kan medføre stabilitetsproblemer og anbefales kun til avancerede brugere.&lt;br&gt;Du kan finde flere oplysninger ved at besøge vores &lt;a {{IDS_KB_SPECLEN_LINK}}&gt;vidensbase&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Er du sikker på, at du vil fortsætte og køre renseprogrammet?</string>
+  <string name="IDS_ELI_CLEANER_DOWNLOADING_TEXT">&lt;b&gt;Henter det særlige renseprogram...&lt;/b&gt;</string>
+  <string name="IDS_ELI_CLEANER_RUNNING_TEXT">&lt;b&gt;Det særlige renseprogram kører.&lt;/b&gt;&lt;br&gt;Vent et øjeblik...</string>
+  <string name="IDS_ELI_CLEANER_OK_TEXT">Der blev ikke fundet malware på systemet.</string>
+  <string name="IDS_ELI_CLEANER_CLEANED_TEXT">Der er registreret malware, og det er renset fra systemet.</string>
+  <string name="IDS_ELI_CLEANER_SUPPORT_TEXT">Der er registreret malware på systemet.&lt;br&gt;Kontakt vores kundeservice for at få instruktioner i, hvordan du fjerner det.</string>
+  <string name="IDS_ELI_CLEANER_REBOOT_TEXT">Der er registreret malware på systemet. Du skal genstarte computeren for at fuldføre rensningen.&lt;br&gt;Bemærk, at du måske skal genstarte computeren flere gange. &lt;br&gt;&lt;br&gt;Vil du genstarte nu?</string>
+  <string name="IDS_ELI_CLEANER_ERROR_TEXT">Det særlige renseprogram afsluttede uventet.&lt;br&gt;Kontakt vores kundeservice for at få hjælp.</string>
+
+	<string name="IDS_ELI_DOWNLOAD_TITLE">Overførsel er i gang</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_SINGLE">Henter…</string>
+	<string name="IDS_ELI_DOWNLOAD_PACKAGE_MULTI">Henter %1 …</string>
+
+	<string name="IDS_ELI_INSTALL_TITLE">Installationen er i gang</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_SINGLE">Installerer...</string>
+  <string name="IDS_ELI_INSTALL_PACKAGE_MULTI">Installerer %1 ...</string>
+	<string name="IDS_ELI_INSTALL_MSGBOX_CLOSE">Vil du annullere installationen af ${bts.package.[${bts.var.package.default}].name}?</string>
+
+
+  <string name="IDS_ELI_DONE_TITLE">Installationen lykkedes</string>
+  <string name="IDS_ELI_DONE_TEXT">${bts.package.[${bts.var.package.default}].name} er installeret på din computer. Din computer kontrolleres løbende for virus og malware. &lt;br&gt; &lt;br&gt; Klik på &lt;i&gt;Udført&lt;/i&gt; for at fuldføre konfigurationen af produktet og starte aktiveringsprocessen.</string>
+  <string name="IDS_ELI_DONE_TEXT_SURVEY">${bts.package.[${bts.var.package.default}].name} er allerede installeret på din computer. Din computer undersøges løbende for virus og malware.</string>
+  <string name="IDS_ELI_DONE_LINKS">
+    Få mere at vide om sikkerhed: &lt;a type="call" href="liveinstaller.ds.showKb"&gt;ESET-vidensbase&lt;/a&gt;
+    &lt;br&gt;
+    Opret forbindelse til ESET:
+    &lt;a type="web" href="${bts.url.facebook}"&gt;&lt;img src="liveinstaller.ds.facebook.png"/&gt;Facebook&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.twitter}"&gt;&lt;img src="liveinstaller.ds.twitter.png"/&gt;Twitter&lt;/a&gt;
+    &lt;a type="web" href="${bts.url.youtube}"&gt;&lt;img src="liveinstaller.ds.youtube.png"/&gt;Youtube&lt;/a&gt;
+  </string>
+
+  
+  <string name="IDS_ELI_MUNI_BTN_FILL_SURVEY">Åbn undersøgelse</string>
+  <string name="IDS_ELI_MUNI_TITLE">Undersøgelse om sikkerhed</string>
+  <string name="IDS_ELI_MUNI_TEXT">ESET foretager i samarbejde med Masaryk University en undersøgelse med fokus på brugerens sikkerhedsadfærd.&lt;br&gt;Hjælp os, og besvar vores korte undersøgelse.</string>
+  <string name="IDS_ELI_MUNI_NOTE">&lt;b&gt;Dine svar hjælper os med at forbedre den overordnede sikkerhed i ESET-produkter.&lt;/b&gt;&lt;br&gt;Ved at besvare denne undersøgelse accepterer du, at alt indhold må analyseres af forskere fra Masaryk University, men dine data bruges udelukkende til statistiske formål. Der indsamles ingen data, der kan identificere dig.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE">Installationen mislykkedes</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_GENERAL">Installation er afbrudt</string>
+  <string name="IDS_ELI_FAIL_TEXT_GENERAL">Installationen af ${bts.package.[${bts.var.package.current}].name} er ikke fuldført. Systemet er måske ikke beskyttet mod computertrusler. Hvis du vil installere ${bts.package.[${bts.var.package.current}].name} på din computer, skal du køre installationen igen.</string>
+  <string name="IDS_ELI_FAIL_TEXT_DETAILS">&lt;br&gt;&lt;br&gt;Fejl: &lt;b&gt;%ls&lt;/b&gt;&lt;br&gt;%ls</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_USEREXIT">Installation er afbrudt af brugeren</string>
+  <string name="IDS_ELI_FAIL_TEXT_USEREXIT">Installationen af ${bts.package.[${bts.var.package.default}].name} er afbrudt af brugeren. Hvis du vil installere ${bts.package.[${bts.var.package.default}].name} på din computer, skal du køre installationen igen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_MALWARE">Installationen blev ikke fuldført</string>
+  <string name="IDS_ELI_FAIL_TEXT_MALWARE">Det kan skyldes malwareaktivitet. For at kontrollere systemet for potentielle trusler anbefales det, at du kører et &lt;a {{IDS_SPECIALIZED_CLEANER_LINK}}&gt;særligt renseprogram&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_OUT_OF_SPACE">Ingen plads på disken</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_OUT_OF_SPACE">Der er ikke nok ledig diskplads på diskenheden %1% til at hente og starte installationen af ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Kontrollér, at du har mindst %2!d! MB ledig plads, og klik på &lt;i&gt;Prøv igen&lt;/i&gt; for at undersøge, om du har nok ledig plads igen, og fortsæt overførslen, eller klik på &lt;i&gt;Luk&lt;/i&gt; for at afslutte installationen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSTALL_OUT_OF_SPACE">Ingen plads på disken</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSTALL_OUT_OF_SPACE">Der er ikke nok ledig diskplads på diskenheden %1% til at fuldføre installationen af ${bts.package.[${bts.var.package.default}].name}.&lt;br&gt;&lt;br&gt;Kontrollér, at du har mindst %2!d! MB ledig plads, og klik på &lt;i&gt;Prøv igen&lt;/i&gt; for at undersøge, om du har nok ledig plads igen, og fortsæt installationen, eller klik på &lt;i&gt;Luk&lt;/i&gt; for at afslutte installationen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_CONNECTION_ERROR">Forbindelsesfejl</string>
+  <string name="IDS_ELI_FAIL_TEXT_CONNECTION_ERROR">Der kan ikke oprettes forbindelse til serveren. Kontrollér din netværksforbindelse, og prøv igen.&lt;br&gt;&lt;br&gt;Hvis du stadig har problemer, kan du gå til &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; for at hente offlineinstallationsprogrammet.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_ERROR">Overførselsfejl</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_ERROR">Der opstod en fejl under overførsel af data fra serveren. Kontrollér din netværksforbindelse, og prøv igen.&lt;br&gt;&lt;br&gt;Hvis du stadig har problemer, kan du gå til &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; for at hente offlineinstallationsprogrammet.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_DOWNLOAD_PACKAGE_NOT_FOUND">Overførselsfejl</string>
+  <string name="IDS_ELI_FAIL_TEXT_DOWNLOAD_PACKAGE_NOT_FOUND">Der blev ikke fundet en installationspakke på serveren. Gå til &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; for at hente offlineinstallationsprogrammet.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INTERNAL_ERROR">Intern fejl</string>
+  <string name="IDS_ELI_FAIL_TEXT_INTERNAL_ERROR">Der opstod en intern fejl. Prøv igen for at starte installationen igen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INVALID_SERVER_RESPONSE">Ugyldigt svar</string>
+  <string name="IDS_ELI_FAIL_TEXT_INVALID_SERVER_RESPONSE">Der er modtaget et ugyldigt svar fra serveren.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_NO_PACKAGES">Der blev ikke fundet en kompatibel pakke</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_NO_PACKAGES">Der er ingen kompatible installationspakker på serveren. Gå til &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; for at hente offlineinstallationsprogrammet.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_VERSIONCHECK_CONNECTION_ERROR">Forbindelsesfejl</string>
+  <string name="IDS_ELI_FAIL_TEXT_VERSIONCHECK_CONNECTION_ERROR">Der kan ikke oprettes forbindelse til serveren. Kontrollér din netværksforbindelse, og prøv igen. Hvis du bruger en proxyserver, skal du skifte dine &lt;a {{IDS_PROXY_SERVER_SETTINGS_LINK}}&gt;indstillinger for proxyserveren&lt;/a&gt;. &lt;br&gt;&lt;br&gt;Hvis du stadig har problemer, kan du gå til &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt; for at hente offlineinstallationsprogrammet.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NEWER_VERSION_NOT_AVAILABLE">Den seneste version er allerede installeret</string>
+  <string name="IDS_ELI_FAIL_TEXT_NEWER_VERSION_NOT_AVAILABLE">Den seneste version af ${bts.package.[${bts.var.package.default}].name} er allerede installeret på denne computer.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X64">Inkompatibel pakke</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X64">Denne installationspakke skal bruges til 64-bit operativsystemer. Brug en installationspakke til 64-bit operativsystemer.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PACKAGE_X32">Inkompatibel pakke</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PACKAGE_X32">Denne installationspakke skal bruges til 32-bit operativsystemer. Brug en installationspakke til 64-bit operativsystemer.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_SERVER_PRODUCT">Ikke et serverprodukt</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_SERVER_PRODUCT">Pakken ${bts.package.[${bts.var.package.current}].name} er ikke beregnet til serveroperativsystemer. Hent og installer et serverprodukt fra &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_NOT_CLIENT_PRODUCT">Ikke et klientprodukt</string>
+  <string name="IDS_ELI_FAIL_TEXT_NOT_CLIENT_PRODUCT">Pakken ${bts.package.[${bts.var.package.current}].name} er ikke beregnet til serveroperativsystemer. Hent og installer et klientprodukt fra &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_PRODUCT_INSTALLED">Der er installeret et inkompatibelt produkt</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_PRODUCT_INSTALLED">Der er allerede installeret et inkompatibelt {PRODUCT}-produkt. Fjern det manuelt, og start installationen igen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INCOMPATIBLE_OS">Inkompatibelt operativsystem</string>
+  <string name="IDS_ELI_FAIL_TEXT_INCOMPATIBLE_OS">Pakken ${bts.package.[${bts.var.package.current}].name} er ikke beregnet til dine operativsystemer. Hent og installer et produkt fra &lt;a {{IDS_OFFLINE_INSTALLER_LINK}}&gt;www.eset.com&lt;/a&gt;.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_NOT_FOUND">Der blev ikke fundet en pakke</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_NOT_FOUND">${bts.package.[${bts.var.package.current}].name}-installationspakken (${bts.package.[${bts.var.package.current}].file}) blev ikke fundet.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INIT_PACKAGE_EXTRACTION_ERROR">Pakken kunne ikke pakkes ud</string>
+  <string name="IDS_ELI_FAIL_TEXT_INIT_PACKAGE_EXTRACTION_ERROR">${bts.package.[${bts.var.package.current}].name} kunne ikke pakkes ud.</string>
+
+  <string name="IDS_ELI_FAIL_TEXT_1633">Installationen af ${bts.package.[${bts.var.package.current}].name} er ikke fuldført. Systemet er måske ikke beskyttet mod computertrusler. Hvis du vil installere ${bts.package.[${bts.var.package.current}].name} på din computer, skal du køre installationen igen.</string>
+
+  <string name="IDS_ELI_FAIL_TITLE_INSUFFICIENT_RIGHTS">Ikke nok rettigheder til at installere produktet</string>
+  <string name="IDS_ELI_FAIL_TEXT_INSUFFICIENT_RIGHTS">Du har ikke nok rettigheder til at installere ${bts.package.[${bts.var.package.current}].name}. Hvis du vil installere ${bts.package.[${bts.var.package.current}].name} på din computer, skal du køre installationen igen som administrator.</string>
+
+  <string name="IDS_ELI_FAIL_ERROR_CODE">Fejlkode: %s</string>
+
+  <string name="IDS_MSGBOX_CLOSE">Denne handling lukker også installationsguiden. Er du sikker på, at du vil fortsætte?</string>
+
+  <string name="IDS_ELI_PROXY_TITLE">Konfigurer proxyserver</string>
+  <string name="IDS_ELI_PROXY_TEXT2">Proxyserveren kræver godkendelse</string>
+  <string name="IDS_ELI_PROXY_TEXT3">Proxyserver:</string>
+  <string name="IDS_ELI_PROXY_TEXT4">Port:</string>
+  <string name="IDS_ELI_PROXY_TEXT5">Brugernavn:</string>
+  <string name="IDS_ELI_PROXY_TEXT6">Adgangskode:</string>
+  <string name="IDS_ELI_PROXY_TEXT7">Jeg bruger en proxyserver</string>
+  
+</resources>
